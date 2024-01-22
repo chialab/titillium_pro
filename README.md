@@ -58,8 +58,8 @@ Chialab si prenderà cura della nuova versione, rilasciata con stessa licenza �
 
 
 ### Colophon Titillium Pro  
-Progetto a cura di Chialab sulla base del Titillium dell’Accademia di Belle Arti di Urbino.
-Redesign dal Titillium al Titillium Pro Sans: Antonio D'Elisiis
-Engineering & Mastering: Antonio D’Elisiis
-Kerning: Igino Marini, iKern
-Grazie a Prof. Marcello Signorile, Luciano Perondi, Zanichelli editore
+Progetto a cura di Chialab sulla base del Titillium dell’Accademia di Belle Arti di Urbino.  
+Redesign dal Titillium al Titillium Pro Sans: Antonio D'Elisiis.  
+Engineering & Mastering: Antonio D’Elisiis.  
+Kerning: Igino Marini, iKern.  
+Grazie a Prof. Marcello Signorile, Luciano Perondi, Zanichelli editore.
