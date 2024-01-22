@@ -24,19 +24,19 @@ Abbiamo da subito condiviso il “prendersi cura” e la logica open. Il Titilli
 Testiamo e utilizziamo il Titillium in vari contesti, soprattutto nell’editoria cartacea e digitale. Con l’editore Zanichelli portiamo avanti le prove più severe negli ambienti della scolastica e della divulgazione scientifica. Emergono pregi e difetti che registriamo nella colonna dei desideri e ripariamo sempre nel rispetto del disegno originario.
 Ci troviamo così con 
 1. un report prezioso costituito da casi di utilizzo, incongruenze del design, criticità tecniche, glifi corrotti nel processo di interpolazione, integrazioni della tabella dei glifi. 
-2. un carattere che continua ad essere apprezzato e utilizzato: il Titillium è attualmente presente in più di 620.000 siti web: United States 204.492.073, Turkey 45.543.237, Slovakia 3.557.867, Sweden 117.212, Poland 22.104.386 (fonte google ???????’). In Italia, grazie all’intuizione di Gianni Sinni e del suo gruppo di lavoro diventa il carattere di riferimento per la Pubblica Amministrazione Italiana. 
+2. un carattere che continua ad essere apprezzato e utilizzato: il Titillium è attualmente presente in più di 620.000 siti web: United States 204.492.073, Turkey 45.543.237, Slovakia 3.557.867, Sweden 117.212, Poland 22.104.386 ([source google](https://fonts.google.com/specimen/Titillium+Web/about)). In Italia, grazie all’intuizione di Gianni Sinni e del suo gruppo di lavoro diventa [il carattere di riferimento](https://designers.italia.it/design-system/) per la Pubblica Amministrazione Italiana. 
 3. il desiderio e la spinta di investire su un rilancio del Titillium in una versione PRO che non disperda l’origine open e il disegno originale. 
 
 
 
 ### Titillium PRO  
-Nell’aprile 2023 informiamo l’Accademia di Belle Arti di Urbino del desiderio di prenderci cura del Titillium producendo una nuova versione della versione sans che non sovrascriva la precedente ma si affianchi con il nome di Titillium PRO. Attendiamo la risposta che giunge positiva a stretto giro e partiamo con i seguenti interventi:
-Disegno dei glifi per aumentare la copertura su lingue europee ed extraeuropee.
-Disegno dei glifi dedicati all’ampliamento della scrittura matematica.
-Disegno del peso Black Italic.
-Disegno dei glifi a “punti elenco” numerati e alfabetici inseriti in quadrati e cerchi (stylistic sets).
-Ottimizzazione spaziatura, kerning e metriche verticali.
-Sistemazione dei glifi corrotti e non funzionanti.
+Nell’aprile 2023 informiamo l’Accademia di Belle Arti di Urbino del desiderio di prenderci cura del Titillium producendo una nuova versione della versione sans che non sovrascriva la precedente ma si affianchi con il nome di **Titillium PRO**. Attendiamo la risposta che giunge positiva a stretto giro e partiamo con i seguenti interventi:
+1. Disegno dei glifi per aumentare la copertura su lingue europee ed extraeuropee.
+2. Disegno dei glifi dedicati all’ampliamento della scrittura matematica.
+3. Disegno del peso Black Italic.
+4. Disegno dei glifi a “punti elenco” numerati e alfabetici inseriti in quadrati e cerchi (stylistic sets).
+5. Ottimizzazione spaziatura, kerning e metriche verticali.
+6. Sistemazione dei glifi corrotti e non funzionanti.
 
 
 
