@@ -23,9 +23,9 @@ Altra felice intuizione è stata quella di rendere disponibile il Titillium con 
 Abbiamo da subito condiviso il “prendersi cura” e la logica open. Il Titillium entra a far parte di quella grande famiglia di pratiche, prodotti e servizi open source (vedi Chialab.io) che sviluppiamo per migliorarli, adattarli ai contesti, farli crescere e se i nostri clienti ce lo consentono condividerli open.
 Testiamo e utilizziamo il Titillium in vari contesti, soprattutto nell’editoria cartacea e digitale. Con l’editore Zanichelli portiamo avanti le prove più severe negli ambienti della scolastica e della divulgazione scientifica. Emergono pregi e difetti che registriamo nella colonna dei desideri e ripariamo sempre nel rispetto del disegno originario.
 Ci troviamo così con 
-un report prezioso costituito da casi di utilizzo, incongruenze del design, criticità tecniche, glifi corrotti nel processo di interpolazione, integrazioni della tabella dei glifi. 
-un carattere che continua ad essere apprezzato e utilizzato: il Titillium è attualmente presente in più di 620.000 siti web: United States 204.492.073, Turkey 45.543.237, Slovakia 3.557.867, Sweden 117.212, Poland 22.104.386 (fonte google ???????’). In Italia, grazie all’intuizione di Gianni Sinni e del suo gruppo di lavoro diventa il carattere di riferimento per la Pubblica Amministrazione Italiana. 
-il desiderio e la spinta di investire su un rilancio del Titillium in una versione PRO che non disperda l’origine open e il disegno originale. 
+1. un report prezioso costituito da casi di utilizzo, incongruenze del design, criticità tecniche, glifi corrotti nel processo di interpolazione, integrazioni della tabella dei glifi. 
+2. un carattere che continua ad essere apprezzato e utilizzato: il Titillium è attualmente presente in più di 620.000 siti web: United States 204.492.073, Turkey 45.543.237, Slovakia 3.557.867, Sweden 117.212, Poland 22.104.386 (fonte google ???????’). In Italia, grazie all’intuizione di Gianni Sinni e del suo gruppo di lavoro diventa il carattere di riferimento per la Pubblica Amministrazione Italiana. 
+3. il desiderio e la spinta di investire su un rilancio del Titillium in una versione PRO che non disperda l’origine open e il disegno originale. 
 
 
 
