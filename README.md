@@ -15,7 +15,7 @@ Il progetto didattico è frutto di una felice intuizione di Marcello Signorile e
 
 ### Open Font License  
 Altra felice intuizione è stata quella di rendere disponibile il Titillium con licenza “Open Font License (OFL)” per facilitare la diffusione e stimolare lo sviluppo in un contesto di coprogettazione. Per diversi anni gli studenti del corso di type design si prendono cura del Titillium. Oltre agli studenti type designers sono invitati a cooperare e/o a sviluppare proprie varianti del carattere secondo i termini indicati nella licenza.
-Qui potete leggere le origini del Titillium
+[Qui potete leggere le origini del Titillium](https://nta.accademiadiurbino.it/titillium/)
 
 
 
