@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashshortcomb" format="2">
+	<advance width="323"/>
+	<unicode hex="0337"/>
+	<anchor x="162" y="267" name="_center"/>
+	<outline>
+		<contour>
+			<point x="295" y="565" type="line"/>
+			<point x="0" y="-20" type="line"/>
+			<point x="27" y="-32" type="line"/>
+			<point x="323" y="552" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

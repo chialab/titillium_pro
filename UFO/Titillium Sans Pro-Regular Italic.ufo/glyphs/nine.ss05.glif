@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.ss05" format="2">
+	<advance width="1183"/>
+	<note>
+		nine
+	</note>
+	<outline>
+		<component base="_quadriliumstroke"/>
+		<component base="nine" xOffset="299"/>
+	</outline>
+</glyph>

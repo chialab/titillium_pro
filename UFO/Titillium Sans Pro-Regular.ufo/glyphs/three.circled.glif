@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.circled" format="2">
+	<advance width="899"/>
+	<unicode hex="2462"/>
+	<outline>
+		<component base="whiteCircle"/>
+		<component base="three.dnom" xScale="1.1" yScale="1.1" xOffset="311" yOffset="182"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>whiteCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>whiteCircle</string>
+		</dict>
+	</lib>
+</glyph>

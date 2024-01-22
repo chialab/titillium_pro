@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.ss03" format="2">
+	<advance width="1266"/>
+	<note>
+		seven
+	</note>
+	<outline>
+		<component base="_sferiliumstroke"/>
+		<component base="seven" xOffset="394"/>
+	</outline>
+</glyph>

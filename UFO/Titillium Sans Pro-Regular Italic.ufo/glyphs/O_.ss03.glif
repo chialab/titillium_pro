@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="O.ss03" format="2">
+	<advance width="1256"/>
+	<note>
+		O
+	</note>
+	<outline>
+		<component base="_sferiliumstroke"/>
+		<component base="O" xOffset="307"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>O</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>_sferiliumstroke</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>_sferiliumstroke</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four.ss03" format="2">
+	<advance width="1265"/>
+	<note>
+		four
+	</note>
+	<outline>
+		<component base="_sferiliumstroke"/>
+		<component base="four" xOffset="349"/>
+	</outline>
+</glyph>

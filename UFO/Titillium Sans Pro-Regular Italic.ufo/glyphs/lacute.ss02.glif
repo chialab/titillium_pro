@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lacute.ss02" format="2">
+	<advance width="220"/>
+	<note>
+		lacute.ss02
+	</note>
+	<outline>
+		<contour>
+			<point x="247" y="950" type="line"/>
+			<point x="52" y="852" type="line"/>
+			<point x="78" y="801" type="line"/>
+			<point x="281" y="886" type="line"/>
+		</contour>
+		<contour>
+			<point x="20" y="0" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="248" y="730" type="line"/>
+			<point x="174" y="730" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldotbelowmacron.ss02" format="2">
+	<advance width="199"/>
+	<outline>
+		<component base="l.ss02"/>
+		<component base="dotbelowcomb" xOffset="31"/>
+		<component base="macroncomb.case" xOffset="-84" yOffset="30"/>
+	</outline>
+</glyph>

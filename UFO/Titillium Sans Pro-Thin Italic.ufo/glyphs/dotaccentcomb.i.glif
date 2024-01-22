@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb.i" format="2">
+	<advance width="39"/>
+	<note>
+		dotaccentcomb.i
+	</note>
+	<outline>
+		<contour>
+			<point x="135" y="700" type="line"/>
+			<point x="96" y="700" type="line"/>
+			<point x="80" y="625" type="line"/>
+			<point x="119" y="625" type="line"/>
+		</contour>
+	</outline>
+</glyph>

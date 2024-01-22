@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acircumflextilde.ss01" format="2">
+	<advance width="546"/>
+	<outline>
+		<component base="a.ss01"/>
+		<component base="circumflexcomb" xOffset="71"/>
+		<component base="tildecomb" xScale="0.9423" xOffset="63" yOffset="190"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>tildecomb</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

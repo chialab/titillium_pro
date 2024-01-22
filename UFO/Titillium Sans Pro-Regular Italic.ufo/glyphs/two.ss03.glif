@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="two.ss03" format="2">
+	<advance width="1269"/>
+	<note>
+		two
+	</note>
+	<outline>
+		<component base="_sferiliumstroke"/>
+		<component base="two" xOffset="370"/>
+	</outline>
+</glyph>

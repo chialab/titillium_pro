@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb.T" format="2">
+	<advance width="296"/>
+	<note>
+		strokeshortcomb.T
+	</note>
+	<outline>
+		<contour>
+			<point x="300" y="370" type="line"/>
+			<point x="4" y="370" type="line"/>
+			<point x="-4" y="336" type="line"/>
+			<point x="292" y="336" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+		</dict>
+	</lib>
+</glyph>

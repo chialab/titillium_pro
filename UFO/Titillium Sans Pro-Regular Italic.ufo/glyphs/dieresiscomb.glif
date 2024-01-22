@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb" format="2">
+	<advance width="274"/>
+	<unicode hex="0308"/>
+	<note>
+		dieresiscomb
+	</note>
+	<outline>
+		<contour>
+			<point x="170" y="711" type="line"/>
+			<point x="98" y="711" type="line"/>
+			<point x="80" y="624" type="line"/>
+			<point x="152" y="624" type="line"/>
+		</contour>
+		<contour>
+			<point x="371" y="711" type="line"/>
+			<point x="298" y="711" type="line"/>
+			<point x="280" y="624" type="line"/>
+			<point x="353" y="624" type="line"/>
+		</contour>
+	</outline>
+</glyph>

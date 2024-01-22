@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.loclCAT.ss02" format="2">
+	<advance width="50"/>
+	<note>
+		periodcentered.loclCAT.ss02
+	</note>
+	<outline>
+		<contour>
+			<point x="54" y="401" type="line"/>
+			<point x="14" y="401" type="line"/>
+			<point x="-4" y="321" type="line"/>
+			<point x="36" y="321" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent.ss02" format="2">
+	<advance width="220"/>
+	<note>
+		lcommaaccent.ss02
+	</note>
+	<outline>
+		<contour>
+			<point x="20" y="0" type="line"/>
+			<point x="94" y="0" type="line"/>
+			<point x="248" y="730" type="line"/>
+			<point x="174" y="730" type="line"/>
+		</contour>
+		<contour>
+			<point x="98" y="-120" type="line"/>
+			<point x="40" y="-77" type="line"/>
+			<point x="-48" y="-221" type="line"/>
+			<point x="-4" y="-252" type="line"/>
+		</contour>
+	</outline>
+</glyph>

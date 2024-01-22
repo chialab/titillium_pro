@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="strokeshortcomb.case" format="2">
+	<advance width="357"/>
+	<note>
+		strokeshortcomb.case
+	</note>
+	<outline>
+		<contour>
+			<point x="373" y="422" type="line"/>
+			<point x="16" y="422" type="line"/>
+			<point x="-16" y="268" type="line"/>
+			<point x="341" y="268" type="line"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaaccentcomb" format="2">
+	<advance width="125"/>
+	<unicode hex="0326"/>
+	<note>
+		commaaccentcomb
+	</note>
+	<outline>
+		<contour>
+			<point x="46" y="-120" type="line"/>
+			<point x="-12" y="-77" type="line"/>
+			<point x="-100" y="-221" type="line"/>
+			<point x="-56" y="-252" type="line"/>
+		</contour>
+	</outline>
+</glyph>
