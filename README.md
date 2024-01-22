@@ -4,7 +4,7 @@
 ![Titillium Pro](/assets/images/Titillium.jpg "Titillium Pro")
 
 ### Un po’ di storia  
-La font Titillium (il nome rende omaggio al compositore Arvo Pärt e alla sua tecnica tintinnabuli) nasce negli anni XXXX XXXX come progetto didattico all’interno dell’Accademia di Belle Arti di Urbino nel corso di type design della laurea specialistica di Visual Design / Campi Visivi. 
+La font Titillium (il nome rende omaggio al compositore Arvo Pärt e alla sua tecnica tintinnabuli) nasce nel 2008 come progetto didattico all’interno dell’Accademia di Belle Arti di Urbino nel corso di type design della laurea specialistica di Visual Design / Campi Visivi. 
 
 
 
