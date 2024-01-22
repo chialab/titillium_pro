@@ -1,15 +1,15 @@
 
 # Titillium_Pro
 
-#### Un po’ di storia  
+### Un po’ di storia  
 La font Titillium (il nome rende omaggio al compositore Arvo Pärt e alla sua tecnica tintinnabuli) nasce negli anni XXXX XXXX come progetto didattico all’interno dell’Accademia di Belle Arti di Urbino nel corso di type design della laurea specialistica di Visual Design / Campi Visivi. 
 
 
-#### Tipografia e didattica  
+### Tipografia e didattica  
 Il progetto didattico è frutto di una felice intuizione di Marcello Signorile e Luciano Perondi per introdurre e far sperimentare la pratica del progetto agli studenti: il disegno del Titillium, con le sue stringenti esigenze, diventa potente strumento didattico che introduce e addestra al confronto all’interno di regole ben definite.
 
 
-#### Open Font License  
+### Open Font License  
 Altra felice intuizione è stata quella di rendere disponibile il Titillium con licenza “Open Font License (OFL)” per facilitare la diffusione e stimolare lo sviluppo in un contesto di coprogettazione. Per diversi anni gli studenti del corso di type design si prendono cura del Titillium. Oltre agli studenti type designers sono invitati a cooperare e/o a sviluppare proprie varianti del carattere secondo i termini indicati nella licenza.
 Qui potete leggere le origini del Titillium
 
