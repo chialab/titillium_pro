@@ -47,8 +47,7 @@ A fronte di questi interventi consigliamo un’attenta valutazione sulla sostitu
 
 
 ### Non finisce qui  
-Durante la lavorazione del Titillium PRO a maggio 2023 è nato come percorso di tesi e ricerca sviluppata dallo studente Lorenzo Volpe e supervisionata da Antonio D’Elisiis professore del corso in “Progettazione dei Caratteri” dell’ISIA di Faenza e type designer Chialab la ricerca e lo sviluppo di una versione Titillium Serif. 
-Questa versione, dopo la discussione della tesi all’interno dell’istituto Faentino, sarà sviluppata all’interno di Chiala, affiancandosi alla nuova versione sans, rendendo la font Titillium Pro una famiglia sempre più sviluppata e performante.
+Durante la lavorazione del Titillium PRO, partita a maggio 2023, è nato come percorso di tesi e ricerca sviluppata dallo studente Lorenzo Volpe e supervisionata da Antonio D’Elisiis professore del corso in “Progettazione dei Caratteri” dell’ISIA di Faenza e type designer Chialab, la ricerca e lo sviluppo di una versione Titillium Serif, di fatto riportando il progetto Titillium a “scuola”, così come era nato. Questa versione, dopo la discussione della tesi all’interno dell’istituto Faentino, sarà sviluppata all’interno di Chiala, affiancandosi alla nuova versione sans, rendendo la font Titillium Pro una famiglia sempre più sviluppata e performante.
 
 
 
