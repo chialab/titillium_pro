@@ -47,7 +47,7 @@ A fronte di questi interventi consigliamo un’attenta valutazione sulla sostitu
 
 
 ### Non finisce qui  
-Durante la lavorazione del Titillium PRO, è nato all'interno del corso di "Progettazione dei Caratteri" dell'ISIA di Faenza un percorso di studio e ricerca sulla versione serif del Titillium, sviluppata dello studente Lorenzo Volpe e supervisionata da Antonio D’Elisiis. Il progetto Titillium torna così a “scuola”, così come era nato. Questa versione sarà sviluppata nei prossimi mesi all’interno di Chialab, affiancandosi alla nuova versione sans, rendendo la font Titillium Pro una famiglia sempre più sviluppata e performante.
+Durante la lavorazione del Titillium PRO, è nato all'interno del corso di "Progettazione dei Caratteri" dell'ISIA di Faenza un percorso di studio e ricerca sulla versione serif del Titillium. Sviluppata dallo studente Lorenzo Volpe e supervisionata da Antonio D’Elisiis il progetto Titillium torna così a “scuola”, così come era nato. Questa ricerca sarà accolta e sviluppata in Chialab nei prossimi mesi, affiancandosi alla nuova versione sans, renderà la font Titillium Pro una famiglia sempre più sviluppata e performante.
 
 
 
