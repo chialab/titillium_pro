@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onefraction" format="2">
+	<advance width="529"/>
+	<unicode hex="215F"/>
+	<outline>
+		<component base="one.numr" xOffset="24"/>
+		<component base="fraction" xOffset="223"/>
+	</outline>
+</glyph>

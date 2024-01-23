@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="six.ss03" format="2">
+	<advance width="1269"/>
+	<note>
+		six
+	</note>
+	<outline>
+		<component base="_sferiliumstroke"/>
+		<component base="six" xOffset="324"/>
+	</outline>
+</glyph>

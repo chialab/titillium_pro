@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="oneinferior" format="2">
+	<advance width="190"/>
+	<unicode hex="2081"/>
+	<note>
+		oneinferior
+	</note>
+	<outline>
+		<contour>
+			<point x="131" y="187" type="line"/>
+			<point x="96" y="187" type="line"/>
+			<point x="-17" y="120" type="line"/>
+			<point x="-6" y="92" type="line"/>
+			<point x="88" y="148" type="line"/>
+			<point x="30" y="-125" type="line"/>
+			<point x="65" y="-125" type="line"/>
+		</contour>
+	</outline>
+</glyph>

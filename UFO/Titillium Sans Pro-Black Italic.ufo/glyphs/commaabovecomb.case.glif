@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaabovecomb.case" format="2">
+	<advance width="221"/>
+	<note>
+		commaabovecomb.case
+	</note>
+	<outline>
+		<contour>
+			<point x="351" y="870" type="line"/>
+			<point x="231" y="954" type="line"/>
+			<point x="114" y="797" type="line"/>
+			<point x="210" y="728" type="line"/>
+		</contour>
+	</outline>
+</glyph>

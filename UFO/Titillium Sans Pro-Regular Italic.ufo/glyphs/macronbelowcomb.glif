@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb" format="2">
+	<advance width="275"/>
+	<unicode hex="0331"/>
+	<note>
+		macronbelowcomb
+	</note>
+	<outline>
+		<contour>
+			<point x="204" y="-82" type="line"/>
+			<point x="-71" y="-82" type="line"/>
+			<point x="-83" y="-141" type="line"/>
+			<point x="192" y="-141" type="line"/>
+		</contour>
+	</outline>
+</glyph>

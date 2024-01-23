@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb.case" format="2">
+	<advance width="403"/>
+	<note>
+		acutecomb.case
+	</note>
+	<outline>
+		<contour>
+			<point x="431" y="952" type="line"/>
+			<point x="185" y="850" type="line"/>
+			<point x="219" y="763" type="line"/>
+			<point x="477" y="837" type="line"/>
+		</contour>
+	</outline>
+</glyph>

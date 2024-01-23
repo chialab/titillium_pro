@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.blackCircled" format="2">
+	<advance width="909"/>
+	<unicode hex="2778"/>
+	<outline>
+		<component base="three.dnom" xScale="1.1" yScale="1.1" xOffset="358" yOffset="184"/>
+		<component base="blackCircle"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>three.dnom</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>blackCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>blackCircle</string>
+		</dict>
+	</lib>
+</glyph>

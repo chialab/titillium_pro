@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three.ss05" format="2">
+	<advance width="1183"/>
+	<note>
+		three
+	</note>
+	<outline>
+		<component base="_quadriliumstroke"/>
+		<component base="three" xOffset="327"/>
+	</outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="five.circled" format="2">
+	<advance width="901"/>
+	<unicode hex="2464"/>
+	<outline>
+		<component base="whiteCircle"/>
+		<component base="five.dnom" xScale="1.1" yScale="1.1" xOffset="344" yOffset="180"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>five.dnom</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>whiteCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>whiteCircle</string>
+		</dict>
+	</lib>
+</glyph>

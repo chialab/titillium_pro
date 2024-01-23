@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ocircumflextilde" format="2">
+	<advance width="664"/>
+	<unicode hex="1ED6"/>
+	<outline>
+		<component base="O"/>
+		<component base="circumflexcomb.case" xOffset="97"/>
+		<component base="tildecomb.case" xOffset="96" yOffset="206"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>tildecomb.case</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

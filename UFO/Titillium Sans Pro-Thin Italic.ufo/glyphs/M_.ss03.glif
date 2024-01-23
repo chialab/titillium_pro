@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="M.ss03" format="2">
+	<advance width="1206"/>
+	<note>
+		M
+	</note>
+	<outline>
+		<contour>
+			<point x="426" y="700" type="line"/>
+			<point x="277" y="0" type="line"/>
+			<point x="312" y="0" type="line"/>
+			<point x="453" y="666" type="line"/>
+			<point x="482" y="666" type="line"/>
+			<point x="555" y="0" type="line"/>
+			<point x="601" y="0" type="line"/>
+			<point x="955" y="666" type="line"/>
+			<point x="984" y="666" type="line"/>
+			<point x="843" y="0" type="line"/>
+			<point x="877" y="0" type="line"/>
+			<point x="1026" y="700" type="line"/>
+			<point x="939" y="700" type="line"/>
+			<point x="584" y="34" type="line"/>
+			<point x="586" y="34" type="line"/>
+			<point x="513" y="700" type="line"/>
+		</contour>
+		<component base="_sferiliumstroke" xOffset="-2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>_sferiliumstroke</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>_sferiliumstroke</string>
+		</dict>
+	</lib>
+</glyph>

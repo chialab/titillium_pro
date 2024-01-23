@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="perthousand" format="2">
+	<advance width="937"/>
+	<unicode hex="2030"/>
+	<outline>
+		<component base="zero.numr" xOffset="7"/>
+		<component base="fraction" xOffset="266"/>
+		<component base="zero.dnom" xOffset="341"/>
+		<component base="zero.dnom" xOffset="629"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>fraction</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

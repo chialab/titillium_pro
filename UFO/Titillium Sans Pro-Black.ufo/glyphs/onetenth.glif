@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onetenth" format="2">
+	<advance width="993"/>
+	<unicode hex="2152"/>
+	<outline>
+		<component base="one.numr" xOffset="6"/>
+		<component base="fraction" xOffset="288"/>
+		<component base="one.dnom" xOffset="370"/>
+		<component base="zero.dnom" xOffset="659"/>
+	</outline>
+</glyph>

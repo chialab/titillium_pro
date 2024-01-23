@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="slashlongcomb" format="2">
+	<advance width="442"/>
+	<unicode hex="0338"/>
+	<note>
+		slashlongcomb
+	</note>
+	<outline>
+		<contour>
+			<point x="516" y="721" type="line"/>
+			<point x="470" y="755" type="line"/>
+			<point x="-79" y="-20" type="line"/>
+			<point x="-33" y="-54" type="line"/>
+		</contour>
+	</outline>
+</glyph>

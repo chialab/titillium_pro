@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.circled" format="2">
+	<advance width="906"/>
+	<unicode hex="24EA"/>
+	<outline>
+		<component base="whiteCircle"/>
+		<component base="zero.dnom" xScale="1.1" yScale="1.1" xOffset="337" yOffset="184"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>zero.dnom</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>whiteCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>whiteCircle</string>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="zero.ss03" format="2">
+	<advance width="1269"/>
+	<note>
+		zero
+	</note>
+	<outline>
+		<component base="_sferiliumstroke"/>
+		<component base="zero" xOffset="336"/>
+	</outline>
+</glyph>

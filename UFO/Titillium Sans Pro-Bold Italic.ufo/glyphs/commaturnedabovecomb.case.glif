@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="commaturnedabovecomb.case" format="2">
+	<advance width="189"/>
+	<note>
+		commaturnedabovecomb.case
+	</note>
+	<outline>
+		<contour>
+			<point x="119" y="816" type="line"/>
+			<point x="189" y="763" type="line"/>
+			<point x="328" y="909" type="line"/>
+			<point x="273" y="952" type="line"/>
+		</contour>
+	</outline>
+</glyph>

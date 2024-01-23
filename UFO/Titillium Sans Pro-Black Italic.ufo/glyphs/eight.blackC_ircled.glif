@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight.blackCircled" format="2">
+	<advance width="853"/>
+	<unicode hex="277D"/>
+	<outline>
+		<component base="eight.dnom" xScale="1.1" yScale="1.1" xOffset="290" yOffset="174"/>
+		<component base="blackCircle"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>eight.dnom</string>
+				</dict>
+			</array>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>blackCircle</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>blackCircle</string>
+		</dict>
+	</lib>
+</glyph>

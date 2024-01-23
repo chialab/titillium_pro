@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W.ss03" format="2">
+	<advance width="1206"/>
+	<note>
+		W
+	</note>
+	<outline>
+		<contour>
+			<point x="549" y="700" type="line"/>
+			<point x="419" y="700" type="line"/>
+			<point x="314" y="0" type="line"/>
+			<point x="533" y="0" type="line"/>
+			<point x="686" y="529" type="line"/>
+			<point x="614" y="0" type="line"/>
+			<point x="834" y="0" type="line"/>
+			<point x="1026" y="700" type="line"/>
+			<point x="896" y="700" type="line"/>
+			<point x="759" y="118" type="line"/>
+			<point x="730" y="118" type="line"/>
+			<point x="796" y="686" type="line"/>
+			<point x="643" y="686" type="line"/>
+			<point x="467" y="118" type="line"/>
+			<point x="438" y="118" type="line"/>
+		</contour>
+		<component base="_sferiliumstroke" xOffset="-2"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+			<string>_sferiliumstroke</string>
+			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+			<string>_sferiliumstroke</string>
+		</dict>
+	</lib>
+</glyph>
