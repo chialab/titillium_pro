@@ -4,7 +4,7 @@
 ![Titillium Pro](/assets/images/Titillium.jpg "Titillium Pro")
 
 ### Un po’ di storia  
-La font Titillium (il nome rende omaggio al compositore Arvo Pärt e alla sua tecnica tintinnabuli) nasce nel 2008 come progetto didattico all’interno dell’Accademia di Belle Arti di Urbino nel corso di type design della laurea specialistica di Visual Design / Campi Visivi. 
+La font Titillium (il nome rende omaggio al compositore Arvo Pärt e alla sua tecnica tintinnabuli) nasce nel 2008 come progetto didattico all’interno dell’Accademia di Belle Arti di Urbino nel corso di Type design della laurea specialistica di Visual Design (ora Nuove Tecnologie dell’Arte). 
 
 
 
@@ -14,7 +14,7 @@ Il progetto didattico è frutto della volontà di Marcello Signorile e Luciano P
 
 
 ### Open Font License  
-Altro felice intento è stato quello di rendere disponibile il Titillium con licenza Creative Commons e poi Open Font License per facilitare la diffusione e stimolare lo sviluppo in un contesto di coprogettazione. Per diversi anni gli studenti del corso di type design si prendono cura della font. Oltre agli studenti, la community di type designers è invitata a cooperare e/o a sviluppare proprie varianti del carattere secondo i termini indicati nella licenza.
+Altro felice intento è stato quello di rendere disponibile il Titillium con licenza Creative Commons e poi Open Font License per facilitare la diffusione e stimolare lo sviluppo in un contesto di coprogettazione. Per diversi anni gli studenti dell'Accademia di Belle Arti di Urbino si prendono cura della font. Oltre agli studenti, la community di type designers è invitata a cooperare e/o a sviluppare proprie varianti del carattere secondo i termini indicati nella licenza.
 [Qui potete leggere le origini del Titillium](https://nta.accademiadiurbino.it/titillium/)
 
 
@@ -46,7 +46,7 @@ Tutti gli interventi sono stati condotti il più fedelmente possibile nel rispet
 
 
 ### Non finisce qui  
-Durante la lavorazione del Titillium Pro, è nato all'interno del corso di "Progettazione dei Caratteri" dell'ISIA di Faenza un percorso di studio e ricerca sulla versione serif del Titillium. Sviluppata dallo studente Lorenzo Volpe e supervisionata da Antonio D’Elisiis il progetto Titillium torna così a “scuola”, così come era nato. Questa ricerca sarà accolta e sviluppata in Chialab nei prossimi mesi, affiancandosi alla nuova versione sans, rendedola una famiglia sempre più sviluppata e performante.
+Durante la lavorazione del Titillium Pro, è nato all'interno del corso di "Progettazione dei Caratteri" dell'ISIA di Faenza un percorso di studio e ricerca sulla versione serif del Titillium. Sviluppata dallo studente Lorenzo Volpe e supervisionata da Antonio D’Elisiis il progetto Titillium torna così a “scuola”, così come era nato. Questa ricerca sarà accolta e sviluppata in Chialab nei prossimi mesi, affiancandosi alla nuova versione sans, rendedola una famiglia sempre più sviluppata e performante. L'Accademia di Belle Arti di Urbino, nel rispetto degli intenti iniziali di cooperazione e condivisione, continua a sostenere le modifiche del Titillium e le successive realise, promuovendo concretamente pratiche virtuose di progettazione collaborativa.   
 
 
 
