@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="three.blackCircled" format="2">
-	<advance width="899"/>
+	<advance width="901"/>
 	<unicode hex="2778"/>
 	<outline>
 		<component base="three.dnom" xScale="1.1" yScale="1.1" xOffset="346" yOffset="180"/>

@@ -72,7 +72,7 @@
 	<key>openTypeNameManufacturerURL</key>
 	<string>https://www.chialab.it/</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>Black</string>
+	<string>Black Italic</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -166,7 +166,7 @@
 		<real>-230.0</real>
 	</array>
 	<key>postscriptFontName</key>
-	<string>TitilliumSansPro-Black-Italic</string>
+	<string>TitilliumSansPro-BlIt</string>
 	<key>postscriptOtherBlues</key>
 	<array/>
 	<key>postscriptStemSnapH</key>
@@ -184,9 +184,9 @@
 	<key>styleMapFamilyName</key>
 	<string>Titillium Sans Pro Black</string>
 	<key>styleMapStyleName</key>
-	<string>regular</string>
+	<string>italic</string>
 	<key>styleName</key>
-	<string>Black</string>
+	<string>Black Italic</string>
 	<key>trademark</key>
 	<string>Titillium Sans Pro is a trademark of Accademia di Belle Arti di Urbino, others and Chialab. All rights reserved.</string>
 	<key>unitsPerEm</key>

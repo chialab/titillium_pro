@@ -5,8 +5,8 @@
 		D
 	</note>
 	<outline>
-		<component base="D" xOffset="328"/>
 		<component base="_sferilium"/>
+		<component base="D" xOffset="328"/>
 	</outline>
 	<lib>
 		<dict>
@@ -16,7 +16,7 @@
 					<key>alignment</key>
 					<integer>-1</integer>
 					<key>index</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>name</key>
 					<string>D</string>
 				</dict>

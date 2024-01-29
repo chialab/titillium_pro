@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="W.ss03" format="2">
-	<advance width="1206"/>
+	<advance width="1275"/>
 	<note>
 		W
 	</note>
 	<outline>
 		<contour>
-			<point x="549" y="700" type="line"/>
-			<point x="419" y="700" type="line"/>
-			<point x="314" y="0" type="line"/>
-			<point x="533" y="0" type="line"/>
-			<point x="686" y="529" type="line"/>
-			<point x="614" y="0" type="line"/>
-			<point x="834" y="0" type="line"/>
-			<point x="1026" y="700" type="line"/>
-			<point x="896" y="700" type="line"/>
-			<point x="759" y="118" type="line"/>
-			<point x="730" y="118" type="line"/>
-			<point x="796" y="686" type="line"/>
-			<point x="643" y="686" type="line"/>
-			<point x="467" y="118" type="line"/>
-			<point x="438" y="118" type="line"/>
+			<point x="551" y="700" type="line"/>
+			<point x="421" y="700" type="line"/>
+			<point x="316" y="0" type="line"/>
+			<point x="535" y="0" type="line"/>
+			<point x="688" y="529" type="line"/>
+			<point x="616" y="0" type="line"/>
+			<point x="836" y="0" type="line"/>
+			<point x="1028" y="700" type="line"/>
+			<point x="898" y="700" type="line"/>
+			<point x="761" y="118" type="line"/>
+			<point x="732" y="118" type="line"/>
+			<point x="798" y="686" type="line"/>
+			<point x="645" y="686" type="line"/>
+			<point x="469" y="118" type="line"/>
+			<point x="440" y="118" type="line"/>
 		</contour>
-		<component base="_sferiliumstroke" xOffset="-2"/>
+		<component base="_sferiliumstroke"/>
 	</outline>
 	<lib>
 		<dict>

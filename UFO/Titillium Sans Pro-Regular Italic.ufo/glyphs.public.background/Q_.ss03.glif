@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Q.ss03" format="2">
-	<advance width="1206"/>
+	<advance width="1269"/>
 	<outline>
-		<component base="O" xOffset="307"/>
+		<component base="O" xOffset="309"/>
 	</outline>
 	<lib>
 		<dict>

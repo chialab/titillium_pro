@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="four.blackCircled" format="2">
-	<advance width="909"/>
+	<advance width="906"/>
 	<unicode hex="2779"/>
 	<outline>
 		<component base="four.dnom" xScale="1.1" yScale="1.1" xOffset="347" yOffset="184"/>
