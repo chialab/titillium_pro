@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb.case" format="2">
-	<advance width="272"/>
-	<note>
-		circumflexcomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="162" y="793" type="line"/>
-			<point x="273" y="878" type="line"/>
-			<point x="348" y="793" type="line"/>
-			<point x="387" y="793" type="line"/>
-			<point x="292" y="908" type="line"/>
-			<point x="258" y="908" type="line"/>
-			<point x="115" y="793" type="line"/>
-		</contour>
-	</outline>
+  <advance width="272"/>
+  <note>
+circumflexcomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="162" y="793" type="line"/>
+      <point x="273" y="878" type="line"/>
+      <point x="348" y="793" type="line"/>
+      <point x="387" y="793" type="line"/>
+      <point x="292" y="908" type="line"/>
+      <point x="258" y="908" type="line"/>
+      <point x="115" y="793" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

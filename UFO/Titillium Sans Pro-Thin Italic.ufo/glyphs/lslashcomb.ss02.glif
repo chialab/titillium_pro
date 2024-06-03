@@ -1,27 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslashcomb.ss02" format="2">
-	<advance width="174"/>
-	<note>
-		lslashcomb.ss02
-	</note>
-	<outline>
-		<contour>
-			<point x="194" y="408" type="line"/>
-			<point x="96" y="376" type="line"/>
-			<point x="88" y="340" type="line"/>
-			<point x="187" y="373" type="line"/>
-		</contour>
-		<contour>
-			<point x="-10" y="311" type="line"/>
-			<point x="78" y="340" type="line"/>
-			<point x="85" y="374" type="line"/>
-			<point x="-3" y="346" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="174"/>
+  <note>
+lslashcomb.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="194" y="408" type="line"/>
+      <point x="96" y="376" type="line"/>
+      <point x="88" y="340" type="line"/>
+      <point x="187" y="373" type="line"/>
+    </contour>
+    <contour>
+      <point x="-10" y="311" type="line"/>
+      <point x="78" y="340" type="line"/>
+      <point x="85" y="374" type="line"/>
+      <point x="-3" y="346" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 18:07:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

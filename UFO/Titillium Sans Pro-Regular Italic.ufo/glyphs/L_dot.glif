@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ldot" format="2">
-	<advance width="473"/>
-	<unicode hex="013F"/>
-	<note>
-		Ldot
-	</note>
-	<outline>
-		<contour>
-			<point x="181" y="700" type="line"/>
-			<point x="32" y="0" type="line"/>
-			<point x="407" y="0" type="line"/>
-			<point x="422" y="70" type="line"/>
-			<point x="125" y="70" type="line"/>
-			<point x="259" y="700" type="line"/>
-		</contour>
-		<contour>
-			<point x="438" y="426" type="line"/>
-			<point x="356" y="426" type="line"/>
-			<point x="334" y="322" type="line"/>
-			<point x="416" y="322" type="line"/>
-		</contour>
-	</outline>
+  <advance width="473"/>
+  <unicode hex="013F"/>
+  <note>
+Ldot
+</note>
+  <outline>
+    <contour>
+      <point x="181" y="700" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="407" y="0" type="line"/>
+      <point x="422" y="70" type="line"/>
+      <point x="125" y="70" type="line"/>
+      <point x="259" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="438" y="426" type="line"/>
+      <point x="356" y="426" type="line"/>
+      <point x="334" y="322" type="line"/>
+      <point x="416" y="322" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

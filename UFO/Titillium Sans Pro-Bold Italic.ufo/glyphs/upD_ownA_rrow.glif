@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="upDownArrow" format="2">
-	<advance width="621"/>
-	<unicode hex="2195"/>
-	<note>
-		upDownArrow
-	</note>
-	<outline>
-		<contour>
-			<point x="30" y="220" type="line"/>
-			<point x="245" y="-53" type="line"/>
-			<point x="576" y="220" type="line"/>
-			<point x="503" y="305" type="line"/>
-			<point x="346" y="176" type="line"/>
-			<point x="390" y="347" type="line"/>
-			<point x="444" y="528" type="line"/>
-			<point x="539" y="402" type="line"/>
-			<point x="630" y="474" type="line"/>
-			<point x="415" y="747" type="line"/>
-			<point x="84" y="474" type="line"/>
-			<point x="158" y="388" type="line"/>
-			<point x="313" y="518" type="line"/>
-			<point x="270" y="347" type="line"/>
-			<point x="216" y="166" type="line"/>
-			<point x="121" y="292" type="line"/>
-		</contour>
-	</outline>
+  <advance width="621"/>
+  <unicode hex="2195"/>
+  <note>
+upDownArrow
+</note>
+  <outline>
+    <contour>
+      <point x="30" y="220" type="line"/>
+      <point x="245" y="-53" type="line"/>
+      <point x="576" y="220" type="line"/>
+      <point x="503" y="305" type="line"/>
+      <point x="346" y="176" type="line"/>
+      <point x="390" y="347" type="line"/>
+      <point x="444" y="528" type="line"/>
+      <point x="539" y="402" type="line"/>
+      <point x="630" y="474" type="line"/>
+      <point x="415" y="747" type="line"/>
+      <point x="84" y="474" type="line"/>
+      <point x="158" y="388" type="line"/>
+      <point x="313" y="518" type="line"/>
+      <point x="270" y="347" type="line"/>
+      <point x="216" y="166" type="line"/>
+      <point x="121" y="292" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

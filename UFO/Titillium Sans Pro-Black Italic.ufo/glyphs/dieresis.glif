@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresis" format="2">
-	<advance width="498"/>
-	<unicode hex="00A8"/>
-	<note>
-		dieresis
-	</note>
-	<outline>
-		<contour>
-			<point x="498" y="730" type="line"/>
-			<point x="324" y="730" type="line"/>
-			<point x="292" y="576" type="line"/>
-			<point x="466" y="576" type="line"/>
-		</contour>
-		<contour>
-			<point x="274" y="730" type="line"/>
-			<point x="100" y="730" type="line"/>
-			<point x="68" y="576" type="line"/>
-			<point x="242" y="576" type="line"/>
-		</contour>
-	</outline>
+  <advance width="498"/>
+  <unicode hex="00A8"/>
+  <note>
+dieresis
+</note>
+  <outline>
+    <contour>
+      <point x="498" y="730" type="line"/>
+      <point x="324" y="730" type="line"/>
+      <point x="292" y="576" type="line"/>
+      <point x="466" y="576" type="line"/>
+    </contour>
+    <contour>
+      <point x="274" y="730" type="line"/>
+      <point x="100" y="730" type="line"/>
+      <point x="68" y="576" type="line"/>
+      <point x="242" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

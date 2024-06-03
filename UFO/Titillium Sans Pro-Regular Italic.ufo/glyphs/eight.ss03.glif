@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eight.ss03" format="2">
-	<advance width="1269"/>
-	<note>
-		eight
-	</note>
-	<outline>
-		<component base="_sferiliumstroke"/>
-		<component base="eight" xOffset="336"/>
-	</outline>
+  <advance width="1269"/>
+  <note>
+eight
+</note>
+  <outline>
+    <component base="_sferiliumstroke"/>
+    <component base="eight" xOffset="336"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 17:00:36 +0000</string>
+    </dict>
+  </lib>
 </glyph>

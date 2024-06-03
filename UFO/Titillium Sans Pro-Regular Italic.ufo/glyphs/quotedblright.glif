@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblright" format="2">
-	<advance width="368"/>
-	<unicode hex="201D"/>
-	<note>
-		quotedblright
-	</note>
-	<outline>
-		<contour>
-			<point x="431" y="730" type="line"/>
-			<point x="348" y="730" type="line"/>
-			<point x="252" y="493" type="line"/>
-			<point x="314" y="493" type="line"/>
-		</contour>
-		<contour>
-			<point x="281" y="730" type="line"/>
-			<point x="198" y="730" type="line"/>
-			<point x="102" y="493" type="line"/>
-			<point x="164" y="493" type="line"/>
-		</contour>
-	</outline>
+  <advance width="368"/>
+  <unicode hex="201D"/>
+  <note>
+quotedblright
+</note>
+  <outline>
+    <contour>
+      <point x="431" y="730" type="line"/>
+      <point x="348" y="730" type="line"/>
+      <point x="252" y="493" type="line"/>
+      <point x="314" y="493" type="line"/>
+    </contour>
+    <contour>
+      <point x="281" y="730" type="line"/>
+      <point x="198" y="730" type="line"/>
+      <point x="102" y="493" type="line"/>
+      <point x="164" y="493" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,30 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcommaaccent" format="2">
-	<advance width="362"/>
-	<unicode hex="0157"/>
-	<note>
-		rcommaaccent
-	</note>
-	<outline>
-		<contour>
-			<point x="235" y="510" type="line"/>
-			<point x="117" y="510" type="line"/>
-			<point x="8" y="0" type="line"/>
-			<point x="139" y="0" type="line"/>
-			<point x="211" y="345" type="line"/>
-			<point x="211" y="345"/>
-			<point x="286" y="374"/>
-			<point x="370" y="391" type="curve"/>
-			<point x="404" y="526" type="line"/>
-			<point x="297" y="511"/>
-			<point x="226" y="451"/>
-			<point x="226" y="451" type="curve"/>
-		</contour>
-		<contour>
-			<point x="148" y="-125" type="line"/>
-			<point x="57" y="-69" type="line"/>
-			<point x="-34" y="-239" type="line"/>
-			<point x="39" y="-282" type="line"/>
-		</contour>
-	</outline>
+  <advance width="362"/>
+  <unicode hex="0157"/>
+  <note>
+rcommaaccent
+</note>
+  <outline>
+    <contour>
+      <point x="235" y="510" type="line"/>
+      <point x="117" y="510" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="211" y="345" type="line"/>
+      <point x="211" y="345"/>
+      <point x="286" y="374"/>
+      <point x="370" y="391" type="curve"/>
+      <point x="404" y="526" type="line"/>
+      <point x="297" y="511"/>
+      <point x="226" y="451"/>
+      <point x="226" y="451" type="curve"/>
+    </contour>
+    <contour>
+      <point x="148" y="-125" type="line"/>
+      <point x="57" y="-69" type="line"/>
+      <point x="-34" y="-239" type="line"/>
+      <point x="39" y="-282" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

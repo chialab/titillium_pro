@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_quadriliumstroke" format="2">
-	<advance width="1183"/>
-	<outline>
-		<contour>
-			<point x="164" y="904" type="line"/>
-			<point x="1298" y="904" type="line"/>
-			<point x="1056" y="-230" type="line"/>
-			<point x="-78" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="227" y="826" type="line"/>
-			<point x="19" y="-152" type="line"/>
-			<point x="993" y="-152" type="line"/>
-			<point x="1201" y="826" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="1183"/>
+  <outline>
+    <contour>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+      <point x="-78" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="826" type="line"/>
+      <point x="19" y="-152" type="line"/>
+      <point x="993" y="-152" type="line"/>
+      <point x="1201" y="826" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 16:02:03 +0000</string>
+    </dict>
+  </lib>
 </glyph>

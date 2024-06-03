@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M.ss04" format="2">
-	<advance width="1266"/>
-	<note>
-		M
-	</note>
-	<outline>
-		<component base="M" xOffset="218"/>
-		<component base="_sferilium"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>0</integer>
-					<key>name</key>
-					<string>M</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>_sferilium</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>_sferilium</string>
-		</dict>
-	</lib>
+  <advance width="1266"/>
+  <note>
+M
+</note>
+  <outline>
+    <component base="M" xOffset="218" identifier="58B8B3ED"/>
+    <component base="_sferilium"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 15:39:37 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_sferilium</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_sferilium</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>58B8B3ED</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

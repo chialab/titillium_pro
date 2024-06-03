@@ -1,35 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acaron" format="2">
-	<advance width="563"/>
-	<unicode hex="01CD"/>
-	<note>
-		Acaron
-	</note>
-	<outline>
-		<contour>
-			<point x="510" y="908" type="line"/>
-			<point x="399" y="823" type="line"/>
-			<point x="324" y="908" type="line"/>
-			<point x="285" y="908" type="line"/>
-			<point x="380" y="793" type="line"/>
-			<point x="414" y="793" type="line"/>
-			<point x="557" y="908" type="line"/>
-		</contour>
-		<contour>
-			<point x="338" y="700" type="line"/>
-			<point x="-24" y="0" type="line"/>
-			<point x="15" y="0" type="line"/>
-			<point x="124" y="215" type="line"/>
-			<point x="427" y="215" type="line"/>
-			<point x="446" y="0" type="line"/>
-			<point x="480" y="0" type="line"/>
-			<point x="418" y="700" type="line"/>
-		</contour>
-		<contour>
-			<point x="357" y="666" type="line"/>
-			<point x="387" y="666" type="line"/>
-			<point x="424" y="249" type="line"/>
-			<point x="142" y="249" type="line"/>
-		</contour>
-	</outline>
+  <advance width="563"/>
+  <unicode hex="01CD"/>
+  <note>
+Acaron
+</note>
+  <outline>
+    <contour>
+      <point x="510" y="908" type="line"/>
+      <point x="399" y="823" type="line"/>
+      <point x="324" y="908" type="line"/>
+      <point x="285" y="908" type="line"/>
+      <point x="380" y="793" type="line"/>
+      <point x="414" y="793" type="line"/>
+      <point x="557" y="908" type="line"/>
+    </contour>
+    <contour>
+      <point x="338" y="700" type="line"/>
+      <point x="-24" y="0" type="line"/>
+      <point x="15" y="0" type="line"/>
+      <point x="124" y="215" type="line"/>
+      <point x="427" y="215" type="line"/>
+      <point x="446" y="0" type="line"/>
+      <point x="480" y="0" type="line"/>
+      <point x="418" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="357" y="666" type="line"/>
+      <point x="387" y="666" type="line"/>
+      <point x="424" y="249" type="line"/>
+      <point x="142" y="249" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

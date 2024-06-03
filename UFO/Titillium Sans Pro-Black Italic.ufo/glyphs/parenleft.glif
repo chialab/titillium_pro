@@ -1,26 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenleft" format="2">
-	<advance width="356"/>
-	<unicode hex="0028"/>
-	<note>
-		parenleft
-	</note>
-	<outline>
-		<contour>
-			<point x="448" y="750" type="curve"/>
-			<point x="253" y="750" type="line"/>
-			<point x="100" y="563"/>
-			<point x="17" y="367"/>
-			<point x="17" y="159" type="curve" smooth="yes"/>
-			<point x="17" y="0"/>
-			<point x="67" y="-125"/>
-			<point x="67" y="-125" type="curve"/>
-			<point x="262" y="-125" type="line"/>
-			<point x="262" y="-125"/>
-			<point x="240" y="-43"/>
-			<point x="240" y="82" type="curve" smooth="yes"/>
-			<point x="240" y="312"/>
-			<point x="314" y="524"/>
-		</contour>
-	</outline>
+  <advance width="356"/>
+  <unicode hex="0028"/>
+  <note>
+parenleft
+</note>
+  <outline>
+    <contour>
+      <point x="448" y="750" type="curve"/>
+      <point x="253" y="750" type="line"/>
+      <point x="100" y="563"/>
+      <point x="17" y="367"/>
+      <point x="17" y="159" type="curve" smooth="yes"/>
+      <point x="17" y="0"/>
+      <point x="67" y="-125"/>
+      <point x="67" y="-125" type="curve"/>
+      <point x="262" y="-125" type="line"/>
+      <point x="262" y="-125"/>
+      <point x="240" y="-43"/>
+      <point x="240" y="82" type="curve" smooth="yes"/>
+      <point x="240" y="312"/>
+      <point x="314" y="524"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

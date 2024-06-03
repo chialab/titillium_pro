@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slashlongcomb" format="2">
-	<advance width="477"/>
-	<unicode hex="0338"/>
-	<note>
-		slashlongcomb
-	</note>
-	<outline>
-		<contour>
-			<point x="550" y="707" type="line"/>
-			<point x="477" y="760" type="line"/>
-			<point x="-73" y="-15" type="line"/>
-			<point x="0" y="-68" type="line"/>
-		</contour>
-	</outline>
+  <advance width="477"/>
+  <unicode hex="0338"/>
+  <note>
+slashlongcomb
+</note>
+  <outline>
+    <contour>
+      <point x="550" y="707" type="line"/>
+      <point x="477" y="760" type="line"/>
+      <point x="-73" y="-15" type="line"/>
+      <point x="0" y="-68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

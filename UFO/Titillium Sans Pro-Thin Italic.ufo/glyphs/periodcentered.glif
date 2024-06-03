@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-	<advance width="185"/>
-	<unicode hex="00B7"/>
-	<note>
-		periodcentered
-	</note>
-	<outline>
-		<contour>
-			<point x="130" y="331" type="line"/>
-			<point x="90" y="331" type="line"/>
-			<point x="72" y="251" type="line"/>
-			<point x="112" y="251" type="line"/>
-		</contour>
-	</outline>
+  <advance width="185"/>
+  <unicode hex="00B7"/>
+  <note>
+periodcentered
+</note>
+  <outline>
+    <contour>
+      <point x="130" y="331" type="line"/>
+      <point x="90" y="331" type="line"/>
+      <point x="72" y="251" type="line"/>
+      <point x="112" y="251" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asciitilde" format="2">
-	<advance width="560"/>
-	<unicode hex="007E"/>
-	<note>
-		asciitilde
-	</note>
-	<outline>
-		<contour>
-			<point x="533" y="267" type="curve"/>
-			<point x="511" y="354" type="line"/>
-			<point x="511" y="354"/>
-			<point x="439" y="316"/>
-			<point x="400" y="316" type="curve" smooth="yes"/>
-			<point x="352" y="316"/>
-			<point x="260" y="360"/>
-			<point x="206" y="360" type="curve" smooth="yes"/>
-			<point x="146" y="360"/>
-			<point x="37" y="288"/>
-			<point x="37" y="288" type="curve"/>
-			<point x="59" y="201" type="line"/>
-			<point x="59" y="201"/>
-			<point x="129" y="240"/>
-			<point x="177" y="240" type="curve" smooth="yes"/>
-			<point x="215" y="240"/>
-			<point x="318" y="196"/>
-			<point x="372" y="196" type="curve" smooth="yes"/>
-			<point x="432" y="196"/>
-			<point x="533" y="267"/>
-		</contour>
-	</outline>
+  <advance width="560"/>
+  <unicode hex="007E"/>
+  <note>
+asciitilde
+</note>
+  <outline>
+    <contour>
+      <point x="533" y="267" type="curve"/>
+      <point x="511" y="354" type="line"/>
+      <point x="511" y="354"/>
+      <point x="439" y="316"/>
+      <point x="400" y="316" type="curve" smooth="yes"/>
+      <point x="352" y="316"/>
+      <point x="260" y="360"/>
+      <point x="206" y="360" type="curve" smooth="yes"/>
+      <point x="146" y="360"/>
+      <point x="37" y="288"/>
+      <point x="37" y="288" type="curve"/>
+      <point x="59" y="201" type="line"/>
+      <point x="59" y="201"/>
+      <point x="129" y="240"/>
+      <point x="177" y="240" type="curve" smooth="yes"/>
+      <point x="215" y="240"/>
+      <point x="318" y="196"/>
+      <point x="372" y="196" type="curve" smooth="yes"/>
+      <point x="432" y="196"/>
+      <point x="533" y="267"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

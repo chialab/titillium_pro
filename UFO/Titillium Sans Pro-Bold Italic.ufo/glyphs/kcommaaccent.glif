@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kcommaaccent" format="2">
-	<advance width="510"/>
-	<unicode hex="0137"/>
-	<note>
-		kcommaaccent
-	</note>
-	<outline>
-		<contour>
-			<point x="164" y="730" type="line"/>
-			<point x="8" y="0" type="line"/>
-			<point x="139" y="0" type="line"/>
-			<point x="182" y="203" type="line"/>
-			<point x="257" y="212" type="line"/>
-			<point x="319" y="0" type="line"/>
-			<point x="450" y="0" type="line"/>
-			<point x="366" y="280" type="line"/>
-			<point x="541" y="500" type="line"/>
-			<point x="392" y="500" type="line"/>
-			<point x="259" y="328" type="line"/>
-			<point x="207" y="319" type="line"/>
-			<point x="295" y="730" type="line"/>
-		</contour>
-		<contour>
-			<point x="288" y="-125" type="line"/>
-			<point x="197" y="-69" type="line"/>
-			<point x="106" y="-239" type="line"/>
-			<point x="179" y="-282" type="line"/>
-		</contour>
-	</outline>
+  <advance width="510"/>
+  <unicode hex="0137"/>
+  <note>
+kcommaaccent
+</note>
+  <outline>
+    <contour>
+      <point x="164" y="730" type="line"/>
+      <point x="8" y="0" type="line"/>
+      <point x="139" y="0" type="line"/>
+      <point x="182" y="203" type="line"/>
+      <point x="257" y="212" type="line"/>
+      <point x="319" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="366" y="280" type="line"/>
+      <point x="541" y="500" type="line"/>
+      <point x="392" y="500" type="line"/>
+      <point x="259" y="328" type="line"/>
+      <point x="207" y="319" type="line"/>
+      <point x="295" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="288" y="-125" type="line"/>
+      <point x="197" y="-69" type="line"/>
+      <point x="106" y="-239" type="line"/>
+      <point x="179" y="-282" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

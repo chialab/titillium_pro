@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acutecomb.case" format="2">
-	<advance width="354"/>
-	<note>
-		acutecomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="475" y="830" type="line"/>
-			<point x="406" y="995" type="line"/>
-			<point x="136" y="870" type="line"/>
-			<point x="185" y="751" type="line"/>
-		</contour>
-	</outline>
+  <advance width="354"/>
+  <note>
+acutecomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="475" y="830" type="line"/>
+      <point x="406" y="995" type="line"/>
+      <point x="136" y="870" type="line"/>
+      <point x="185" y="751" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

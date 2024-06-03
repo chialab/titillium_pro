@@ -1,33 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="rcaron" format="2">
-	<advance width="367"/>
-	<unicode hex="0159"/>
-	<note>
-		rcaron
-	</note>
-	<outline>
-		<contour>
-			<point x="317" y="756" type="line"/>
-			<point x="268" y="673" type="line"/>
-			<point x="255" y="756" type="line"/>
-			<point x="102" y="756" type="line"/>
-			<point x="145" y="576" type="line"/>
-			<point x="369" y="576" type="line"/>
-			<point x="488" y="756" type="line"/>
-		</contour>
-		<contour>
-			<point x="282" y="520" type="line"/>
-			<point x="86" y="520" type="line"/>
-			<point x="-24" y="0" type="line"/>
-			<point x="194" y="0" type="line"/>
-			<point x="255" y="289" type="line"/>
-			<point x="255" y="289"/>
-			<point x="314" y="306"/>
-			<point x="361" y="316" type="curve"/>
-			<point x="413" y="535" type="line"/>
-			<point x="340" y="519"/>
-			<point x="276" y="453"/>
-			<point x="276" y="453" type="curve"/>
-		</contour>
-	</outline>
+  <advance width="367"/>
+  <unicode hex="0159"/>
+  <note>
+rcaron
+</note>
+  <outline>
+    <contour>
+      <point x="317" y="756" type="line"/>
+      <point x="268" y="673" type="line"/>
+      <point x="255" y="756" type="line"/>
+      <point x="102" y="756" type="line"/>
+      <point x="145" y="576" type="line"/>
+      <point x="369" y="576" type="line"/>
+      <point x="488" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="282" y="520" type="line"/>
+      <point x="86" y="520" type="line"/>
+      <point x="-24" y="0" type="line"/>
+      <point x="194" y="0" type="line"/>
+      <point x="255" y="289" type="line"/>
+      <point x="255" y="289"/>
+      <point x="314" y="306"/>
+      <point x="361" y="316" type="curve"/>
+      <point x="413" y="535" type="line"/>
+      <point x="340" y="519"/>
+      <point x="276" y="453"/>
+      <point x="276" y="453" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

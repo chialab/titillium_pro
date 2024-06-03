@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-	<advance width="484"/>
-	<unicode hex="004C"/>
-	<note>
-		L
-	</note>
-	<outline>
-		<contour>
-			<point x="170" y="710" type="line"/>
-			<point x="18" y="0" type="line"/>
-			<point x="419" y="0" type="line"/>
-			<point x="445" y="122" type="line"/>
-			<point x="181" y="122" type="line"/>
-			<point x="307" y="710" type="line"/>
-		</contour>
-	</outline>
+  <advance width="484"/>
+  <unicode hex="004C"/>
+  <note>
+L
+</note>
+  <outline>
+    <contour>
+      <point x="170" y="710" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="445" y="122" type="line"/>
+      <point x="181" y="122" type="line"/>
+      <point x="307" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

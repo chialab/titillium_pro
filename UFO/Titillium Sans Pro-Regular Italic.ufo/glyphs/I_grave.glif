@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Igrave" format="2">
-	<advance width="248"/>
-	<unicode hex="00CC"/>
-	<note>
-		Igrave
-	</note>
-	<outline>
-		<contour>
-			<point x="334" y="771" type="line"/>
-			<point x="366" y="822" type="line"/>
-			<point x="171" y="920" type="line"/>
-			<point x="131" y="856" type="line"/>
-		</contour>
-		<contour>
-			<point x="259" y="700" type="line"/>
-			<point x="181" y="700" type="line"/>
-			<point x="32" y="0" type="line"/>
-			<point x="110" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="248"/>
+  <unicode hex="00CC"/>
+  <note>
+Igrave
+</note>
+  <outline>
+    <contour>
+      <point x="334" y="771" type="line"/>
+      <point x="366" y="822" type="line"/>
+      <point x="171" y="920" type="line"/>
+      <point x="131" y="856" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="700" type="line"/>
+      <point x="181" y="700" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

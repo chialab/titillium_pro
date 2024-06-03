@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered.loclCAT.case" format="2">
-	<advance width="40"/>
-	<note>
-		periodcentered.loclCAT.case
-	</note>
-	<outline>
-		<contour>
-			<point x="31" y="489" type="line"/>
-			<point x="-129" y="489" type="line"/>
-			<point x="-171" y="289" type="line"/>
-			<point x="-11" y="289" type="line"/>
-		</contour>
-	</outline>
+  <advance width="40"/>
+  <note>
+periodcentered.loclCAT.case
+</note>
+  <outline>
+    <contour>
+      <point x="31" y="489" type="line"/>
+      <point x="-129" y="489" type="line"/>
+      <point x="-171" y="289" type="line"/>
+      <point x="-11" y="289" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

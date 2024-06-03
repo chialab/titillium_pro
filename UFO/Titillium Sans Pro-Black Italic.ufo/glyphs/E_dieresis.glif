@@ -1,36 +1,42 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Edieresis" format="2">
-	<advance width="566"/>
-	<unicode hex="00CB"/>
-	<note>
-		Edieresis
-	</note>
-	<outline>
-		<contour>
-			<point x="627" y="911" type="line"/>
-			<point x="443" y="911" type="line"/>
-			<point x="411" y="757" type="line"/>
-			<point x="595" y="757" type="line"/>
-		</contour>
-		<contour>
-			<point x="393" y="911" type="line"/>
-			<point x="209" y="911" type="line"/>
-			<point x="177" y="757" type="line"/>
-			<point x="361" y="757" type="line"/>
-		</contour>
-		<contour>
-			<point x="628" y="710" type="line"/>
-			<point x="136" y="710" type="line"/>
-			<point x="-14" y="0" type="line"/>
-			<point x="486" y="0" type="line"/>
-			<point x="526" y="185" type="line"/>
-			<point x="254" y="185" type="line"/>
-			<point x="273" y="276" type="line"/>
-			<point x="473" y="276" type="line"/>
-			<point x="513" y="446" type="line"/>
-			<point x="309" y="446" type="line"/>
-			<point x="326" y="525" type="line"/>
-			<point x="588" y="525" type="line"/>
-		</contour>
-	</outline>
+  <advance width="566"/>
+  <unicode hex="00CB"/>
+  <note>
+Edieresis
+</note>
+  <outline>
+    <contour>
+      <point x="627" y="911" type="line"/>
+      <point x="443" y="911" type="line"/>
+      <point x="411" y="757" type="line"/>
+      <point x="595" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="393" y="911" type="line"/>
+      <point x="209" y="911" type="line"/>
+      <point x="177" y="757" type="line"/>
+      <point x="361" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="710" type="line"/>
+      <point x="136" y="710" type="line"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="526" y="185" type="line"/>
+      <point x="254" y="185" type="line"/>
+      <point x="273" y="276" type="line"/>
+      <point x="473" y="276" type="line"/>
+      <point x="513" y="446" type="line"/>
+      <point x="309" y="446" type="line"/>
+      <point x="326" y="525" type="line"/>
+      <point x="588" y="525" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

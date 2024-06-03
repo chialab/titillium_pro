@@ -1,23 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="southEastArrow" format="2">
-	<advance width="593"/>
-	<unicode hex="2198"/>
-	<note>
-		southEastArrow
-	</note>
-	<outline>
-		<contour>
-			<point x="148" y="0" type="line"/>
-			<point x="488" y="0" type="line"/>
-			<point x="560" y="340" type="line"/>
-			<point x="526" y="340" type="line"/>
-			<point x="466" y="58" type="line"/>
-			<point x="398" y="148" type="line"/>
-			<point x="108" y="515" type="line"/>
-			<point x="77" y="490" type="line"/>
-			<point x="367" y="122" type="line"/>
-			<point x="440" y="32" type="line"/>
-			<point x="155" y="33" type="line"/>
-		</contour>
-	</outline>
+  <advance width="593"/>
+  <unicode hex="2198"/>
+  <note>
+southEastArrow
+</note>
+  <outline>
+    <contour>
+      <point x="148" y="0" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="560" y="340" type="line"/>
+      <point x="526" y="340" type="line"/>
+      <point x="466" y="58" type="line"/>
+      <point x="398" y="148" type="line"/>
+      <point x="108" y="515" type="line"/>
+      <point x="77" y="490" type="line"/>
+      <point x="367" y="122" type="line"/>
+      <point x="440" y="32" type="line"/>
+      <point x="155" y="33" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

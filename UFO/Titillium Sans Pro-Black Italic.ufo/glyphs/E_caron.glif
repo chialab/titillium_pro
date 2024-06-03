@@ -1,33 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ecaron" format="2">
-	<advance width="566"/>
-	<unicode hex="011A"/>
-	<note>
-		Ecaron
-	</note>
-	<outline>
-		<contour>
-			<point x="445" y="937" type="line"/>
-			<point x="396" y="854" type="line"/>
-			<point x="383" y="937" type="line"/>
-			<point x="231" y="937" type="line"/>
-			<point x="274" y="757" type="line"/>
-			<point x="498" y="757" type="line"/>
-			<point x="617" y="937" type="line"/>
-		</contour>
-		<contour>
-			<point x="628" y="710" type="line"/>
-			<point x="136" y="710" type="line"/>
-			<point x="-14" y="0" type="line"/>
-			<point x="486" y="0" type="line"/>
-			<point x="526" y="185" type="line"/>
-			<point x="254" y="185" type="line"/>
-			<point x="273" y="276" type="line"/>
-			<point x="473" y="276" type="line"/>
-			<point x="513" y="446" type="line"/>
-			<point x="309" y="446" type="line"/>
-			<point x="326" y="525" type="line"/>
-			<point x="588" y="525" type="line"/>
-		</contour>
-	</outline>
+  <advance width="566"/>
+  <unicode hex="011A"/>
+  <note>
+Ecaron
+</note>
+  <outline>
+    <contour>
+      <point x="445" y="937" type="line"/>
+      <point x="396" y="854" type="line"/>
+      <point x="383" y="937" type="line"/>
+      <point x="231" y="937" type="line"/>
+      <point x="274" y="757" type="line"/>
+      <point x="498" y="757" type="line"/>
+      <point x="617" y="937" type="line"/>
+    </contour>
+    <contour>
+      <point x="628" y="710" type="line"/>
+      <point x="136" y="710" type="line"/>
+      <point x="-14" y="0" type="line"/>
+      <point x="486" y="0" type="line"/>
+      <point x="526" y="185" type="line"/>
+      <point x="254" y="185" type="line"/>
+      <point x="273" y="276" type="line"/>
+      <point x="473" y="276" type="line"/>
+      <point x="513" y="446" type="line"/>
+      <point x="309" y="446" type="line"/>
+      <point x="326" y="525" type="line"/>
+      <point x="588" y="525" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

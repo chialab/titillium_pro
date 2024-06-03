@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.dnom" format="2">
-	<advance width="190"/>
-	<note>
-		one.dnom
-	</note>
-	<outline>
-		<contour>
-			<point x="158" y="312" type="line"/>
-			<point x="123" y="312" type="line"/>
-			<point x="10" y="245" type="line"/>
-			<point x="21" y="217" type="line"/>
-			<point x="115" y="273" type="line"/>
-			<point x="57" y="0" type="line"/>
-			<point x="92" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="190"/>
+  <note>
+one.dnom
+</note>
+  <outline>
+    <contour>
+      <point x="158" y="312" type="line"/>
+      <point x="123" y="312" type="line"/>
+      <point x="10" y="245" type="line"/>
+      <point x="21" y="217" type="line"/>
+      <point x="115" y="273" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="92" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

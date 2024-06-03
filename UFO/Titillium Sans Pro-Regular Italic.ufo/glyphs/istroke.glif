@@ -1,30 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="istroke" format="2">
-	<advance width="300"/>
-	<unicode hex="0268"/>
-	<note>
-		istroke
-	</note>
-	<outline>
-		<contour>
-			<point x="279" y="700" type="line"/>
-			<point x="206" y="700" type="line"/>
-			<point x="185" y="603" type="line"/>
-			<point x="258" y="603" type="line"/>
-		</contour>
-		<contour>
-			<point x="118" y="288" type="line"/>
-			<point x="33" y="288" type="line"/>
-			<point x="16" y="224" type="line"/>
-			<point x="104" y="224" type="line"/>
-			<point x="56" y="0" type="line"/>
-			<point x="131" y="0" type="line"/>
-			<point x="178" y="224" type="line"/>
-			<point x="269" y="224" type="line"/>
-			<point x="286" y="288" type="line"/>
-			<point x="192" y="288" type="line"/>
-			<point x="237" y="500" type="line"/>
-			<point x="163" y="500" type="line"/>
-		</contour>
-	</outline>
+  <advance width="300"/>
+  <unicode hex="0268"/>
+  <note>
+istroke
+</note>
+  <outline>
+    <contour>
+      <point x="279" y="700" type="line"/>
+      <point x="206" y="700" type="line"/>
+      <point x="185" y="603" type="line"/>
+      <point x="258" y="603" type="line"/>
+    </contour>
+    <contour>
+      <point x="118" y="288" type="line"/>
+      <point x="33" y="288" type="line"/>
+      <point x="16" y="224" type="line"/>
+      <point x="104" y="224" type="line"/>
+      <point x="56" y="0" type="line"/>
+      <point x="131" y="0" type="line"/>
+      <point x="178" y="224" type="line"/>
+      <point x="269" y="224" type="line"/>
+      <point x="286" y="288" type="line"/>
+      <point x="192" y="288" type="line"/>
+      <point x="237" y="500" type="line"/>
+      <point x="163" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

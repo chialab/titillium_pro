@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H.ss05" format="2">
-	<advance width="1222"/>
-	<note>
-		H
-	</note>
-	<outline>
-		<component base="_quadriliumstroke"/>
-		<component base="H" xOffset="272"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>H</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="1222"/>
+  <note>
+H
+</note>
+  <outline>
+    <component base="_quadriliumstroke"/>
+    <component base="H" xOffset="272" identifier="600F1731"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-19 16:37:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>600F1731</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

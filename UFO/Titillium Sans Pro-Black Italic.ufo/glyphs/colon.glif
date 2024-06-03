@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="colon" format="2">
-	<advance width="306"/>
-	<unicode hex="003A"/>
-	<note>
-		colon
-	</note>
-	<outline>
-		<contour>
-			<point x="322" y="495" type="line"/>
-			<point x="85" y="495" type="line"/>
-			<point x="42" y="295" type="line"/>
-			<point x="279" y="295" type="line"/>
-		</contour>
-		<contour>
-			<point x="259" y="200" type="line"/>
-			<point x="22" y="200" type="line"/>
-			<point x="-21" y="0" type="line"/>
-			<point x="216" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="306"/>
+  <unicode hex="003A"/>
+  <note>
+colon
+</note>
+  <outline>
+    <contour>
+      <point x="322" y="495" type="line"/>
+      <point x="85" y="495" type="line"/>
+      <point x="42" y="295" type="line"/>
+      <point x="279" y="295" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="200" type="line"/>
+      <point x="22" y="200" type="line"/>
+      <point x="-21" y="0" type="line"/>
+      <point x="216" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

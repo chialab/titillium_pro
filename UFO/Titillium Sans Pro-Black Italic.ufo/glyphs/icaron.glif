@@ -1,25 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="icaron" format="2">
-	<advance width="281"/>
-	<unicode hex="01D0"/>
-	<note>
-		icaron
-	</note>
-	<outline>
-		<contour>
-			<point x="268" y="756" type="line"/>
-			<point x="219" y="673" type="line"/>
-			<point x="206" y="756" type="line"/>
-			<point x="53" y="756" type="line"/>
-			<point x="96" y="576" type="line"/>
-			<point x="320" y="576" type="line"/>
-			<point x="439" y="756" type="line"/>
-		</contour>
-		<contour>
-			<point x="306" y="520" type="line"/>
-			<point x="86" y="520" type="line"/>
-			<point x="-24" y="0" type="line"/>
-			<point x="195" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="281"/>
+  <unicode hex="01D0"/>
+  <note>
+icaron
+</note>
+  <outline>
+    <contour>
+      <point x="268" y="756" type="line"/>
+      <point x="219" y="673" type="line"/>
+      <point x="206" y="756" type="line"/>
+      <point x="53" y="756" type="line"/>
+      <point x="96" y="576" type="line"/>
+      <point x="320" y="576" type="line"/>
+      <point x="439" y="756" type="line"/>
+    </contour>
+    <contour>
+      <point x="306" y="520" type="line"/>
+      <point x="86" y="520" type="line"/>
+      <point x="-24" y="0" type="line"/>
+      <point x="195" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

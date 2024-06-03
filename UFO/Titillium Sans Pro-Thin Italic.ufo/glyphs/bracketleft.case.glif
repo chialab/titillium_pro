@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bracketleft.case" format="2">
-	<advance width="305"/>
-	<note>
-		bracketleft.case
-	</note>
-	<outline>
-		<contour>
-			<point x="235" y="756" type="line"/>
-			<point x="382" y="756" type="line"/>
-			<point x="389" y="788" type="line"/>
-			<point x="207" y="788" type="line"/>
-			<point x="21" y="-83" type="line"/>
-			<point x="203" y="-83" type="line"/>
-			<point x="210" y="-51" type="line"/>
-			<point x="63" y="-51" type="line"/>
-		</contour>
-	</outline>
+  <advance width="305"/>
+  <note>
+bracketleft.case
+</note>
+  <outline>
+    <contour>
+      <point x="235" y="756" type="line"/>
+      <point x="382" y="756" type="line"/>
+      <point x="389" y="788" type="line"/>
+      <point x="207" y="788" type="line"/>
+      <point x="21" y="-83" type="line"/>
+      <point x="203" y="-83" type="line"/>
+      <point x="210" y="-51" type="line"/>
+      <point x="63" y="-51" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

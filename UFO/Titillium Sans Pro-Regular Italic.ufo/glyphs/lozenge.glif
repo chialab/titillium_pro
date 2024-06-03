@@ -1,26 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lozenge" format="2">
-	<advance width="583"/>
-	<unicode hex="25CA"/>
-	<note>
-		lozenge
-	</note>
-	<outline>
-		<contour>
-			<point x="424" y="660" type="line"/>
-			<point x="333" y="660" type="line"/>
-			<point x="64" y="332" type="line"/>
-			<point x="193" y="0" type="line"/>
-			<point x="284" y="0" type="line"/>
-			<point x="554" y="332" type="line"/>
-		</contour>
-		<contour>
-			<point x="356" y="571" type="line"/>
-			<point x="381" y="571" type="line"/>
-			<point x="468" y="346" type="line"/>
-			<point x="263" y="89" type="line"/>
-			<point x="238" y="89" type="line"/>
-			<point x="150" y="320" type="line"/>
-		</contour>
-	</outline>
+  <advance width="583"/>
+  <unicode hex="25CA"/>
+  <note>
+lozenge
+</note>
+  <outline>
+    <contour>
+      <point x="424" y="660" type="line"/>
+      <point x="333" y="660" type="line"/>
+      <point x="64" y="332" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="284" y="0" type="line"/>
+      <point x="554" y="332" type="line"/>
+    </contour>
+    <contour>
+      <point x="356" y="571" type="line"/>
+      <point x="381" y="571" type="line"/>
+      <point x="468" y="346" type="line"/>
+      <point x="263" y="89" type="line"/>
+      <point x="238" y="89" type="line"/>
+      <point x="150" y="320" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

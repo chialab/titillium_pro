@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.numr" format="2">
-	<advance width="244"/>
-	<note>
-		seven.numr
-	</note>
-	<outline>
-		<contour>
-			<point x="318" y="702" type="line"/>
-			<point x="112" y="702" type="line"/>
-			<point x="99" y="640" type="line"/>
-			<point x="233" y="640" type="line"/>
-			<point x="228" y="620" type="line"/>
-			<point x="78" y="390" type="line"/>
-			<point x="138" y="367" type="line"/>
-			<point x="302" y="626" type="line"/>
-		</contour>
-	</outline>
+  <advance width="244"/>
+  <note>
+seven.numr
+</note>
+  <outline>
+    <contour>
+      <point x="318" y="702" type="line"/>
+      <point x="112" y="702" type="line"/>
+      <point x="99" y="640" type="line"/>
+      <point x="233" y="640" type="line"/>
+      <point x="228" y="620" type="line"/>
+      <point x="78" y="390" type="line"/>
+      <point x="138" y="367" type="line"/>
+      <point x="302" y="626" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

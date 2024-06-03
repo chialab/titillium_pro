@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Istroke" format="2">
-	<advance width="268"/>
-	<unicode hex="0197"/>
-	<note>
-		Istroke
-	</note>
-	<outline>
-		<contour>
-			<point x="124" y="388" type="line"/>
-			<point x="45" y="388" type="line"/>
-			<point x="31" y="318" type="line"/>
-			<point x="109" y="318" type="line"/>
-			<point x="41" y="0" type="line"/>
-			<point x="119" y="0" type="line"/>
-			<point x="187" y="318" type="line"/>
-			<point x="267" y="318" type="line"/>
-			<point x="281" y="388" type="line"/>
-			<point x="202" y="388" type="line"/>
-			<point x="268" y="700" type="line"/>
-			<point x="190" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="268"/>
+  <unicode hex="0197"/>
+  <note>
+Istroke
+</note>
+  <outline>
+    <contour>
+      <point x="124" y="388" type="line"/>
+      <point x="45" y="388" type="line"/>
+      <point x="31" y="318" type="line"/>
+      <point x="109" y="318" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="187" y="318" type="line"/>
+      <point x="267" y="318" type="line"/>
+      <point x="281" y="388" type="line"/>
+      <point x="202" y="388" type="line"/>
+      <point x="268" y="700" type="line"/>
+      <point x="190" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

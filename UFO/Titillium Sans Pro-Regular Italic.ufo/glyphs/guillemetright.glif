@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guillemetright" format="2">
-	<advance width="522"/>
-	<unicode hex="00BB"/>
-	<note>
-		guillemetright
-	</note>
-	<outline>
-		<contour>
-			<point x="260" y="451" type="line"/>
-			<point x="420" y="292" type="line"/>
-			<point x="201" y="129" type="line"/>
-			<point x="238" y="72" type="line"/>
-			<point x="476" y="252" type="line"/>
-			<point x="490" y="317" type="line"/>
-			<point x="309" y="498" type="line"/>
-		</contour>
-		<contour>
-			<point x="84" y="447" type="line"/>
-			<point x="241" y="291" type="line"/>
-			<point x="26" y="132" type="line"/>
-			<point x="62" y="76" type="line"/>
-			<point x="296" y="252" type="line"/>
-			<point x="310" y="316" type="line"/>
-			<point x="132" y="493" type="line"/>
-		</contour>
-	</outline>
+  <advance width="522"/>
+  <unicode hex="00BB"/>
+  <note>
+guillemetright
+</note>
+  <outline>
+    <contour>
+      <point x="260" y="451" type="line"/>
+      <point x="420" y="292" type="line"/>
+      <point x="201" y="129" type="line"/>
+      <point x="238" y="72" type="line"/>
+      <point x="476" y="252" type="line"/>
+      <point x="490" y="317" type="line"/>
+      <point x="309" y="498" type="line"/>
+    </contour>
+    <contour>
+      <point x="84" y="447" type="line"/>
+      <point x="241" y="291" type="line"/>
+      <point x="26" y="132" type="line"/>
+      <point x="62" y="76" type="line"/>
+      <point x="296" y="252" type="line"/>
+      <point x="310" y="316" type="line"/>
+      <point x="132" y="493" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

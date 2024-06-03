@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="germandbls.calt" format="2">
-	<advance width="574"/>
-	<outline>
-		<component base="Germandbls"/>
-	</outline>
+  <advance width="574"/>
+  <outline>
+    <component base="Germandbls"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 10:03:04 +0000</string>
+    </dict>
+  </lib>
 </glyph>

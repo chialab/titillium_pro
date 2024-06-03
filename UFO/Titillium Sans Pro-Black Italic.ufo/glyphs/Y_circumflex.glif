@@ -1,30 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ycircumflex" format="2">
-	<advance width="583"/>
-	<unicode hex="0176"/>
-	<note>
-		Ycircumflex
-	</note>
-	<outline>
-		<contour>
-			<point x="362" y="757" type="line"/>
-			<point x="411" y="840" type="line"/>
-			<point x="424" y="757" type="line"/>
-			<point x="576" y="757" type="line"/>
-			<point x="533" y="937" type="line"/>
-			<point x="309" y="937" type="line"/>
-			<point x="190" y="757" type="line"/>
-		</contour>
-		<contour>
-			<point x="172" y="240" type="line"/>
-			<point x="124" y="0" type="line"/>
-			<point x="351" y="0" type="line"/>
-			<point x="400" y="240" type="line"/>
-			<point x="692" y="710" type="line"/>
-			<point x="448" y="710" type="line"/>
-			<point x="332" y="455" type="line"/>
-			<point x="308" y="710" type="line"/>
-			<point x="85" y="710" type="line"/>
-		</contour>
-	</outline>
+  <advance width="583"/>
+  <unicode hex="0176"/>
+  <note>
+Ycircumflex
+</note>
+  <outline>
+    <contour>
+      <point x="362" y="757" type="line"/>
+      <point x="411" y="840" type="line"/>
+      <point x="424" y="757" type="line"/>
+      <point x="576" y="757" type="line"/>
+      <point x="533" y="937" type="line"/>
+      <point x="309" y="937" type="line"/>
+      <point x="190" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="240" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="400" y="240" type="line"/>
+      <point x="692" y="710" type="line"/>
+      <point x="448" y="710" type="line"/>
+      <point x="332" y="455" type="line"/>
+      <point x="308" y="710" type="line"/>
+      <point x="85" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

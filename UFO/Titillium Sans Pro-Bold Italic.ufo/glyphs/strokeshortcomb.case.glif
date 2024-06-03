@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="strokeshortcomb.case" format="2">
-	<advance width="347"/>
-	<note>
-		strokeshortcomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="359" y="412" type="line"/>
-			<point x="12" y="412" type="line"/>
-			<point x="-12" y="298" type="line"/>
-			<point x="335" y="298" type="line"/>
-		</contour>
-	</outline>
+  <advance width="347"/>
+  <note>
+strokeshortcomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="359" y="412" type="line"/>
+      <point x="12" y="412" type="line"/>
+      <point x="-12" y="298" type="line"/>
+      <point x="335" y="298" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

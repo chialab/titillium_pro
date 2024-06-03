@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one" format="2">
-	<advance width="450"/>
-	<unicode hex="0031"/>
-	<note>
-		one
-	</note>
-	<outline>
-		<contour>
-			<point x="496" y="673" type="line"/>
-			<point x="307" y="673" type="line"/>
-			<point x="53" y="547" type="line"/>
-			<point x="111" y="387" type="line"/>
-			<point x="220" y="435" type="line"/>
-			<point x="127" y="0" type="line"/>
-			<point x="352" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="450"/>
+  <unicode hex="0031"/>
+  <note>
+one
+</note>
+  <outline>
+    <contour>
+      <point x="496" y="673" type="line"/>
+      <point x="307" y="673" type="line"/>
+      <point x="53" y="547" type="line"/>
+      <point x="111" y="387" type="line"/>
+      <point x="220" y="435" type="line"/>
+      <point x="127" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

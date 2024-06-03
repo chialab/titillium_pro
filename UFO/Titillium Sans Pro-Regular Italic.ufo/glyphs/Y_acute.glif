@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Yacute" format="2">
-	<advance width="524"/>
-	<unicode hex="00DD"/>
-	<note>
-		Yacute
-	</note>
-	<outline>
-		<contour>
-			<point x="468" y="920" type="line"/>
-			<point x="273" y="822" type="line"/>
-			<point x="299" y="771" type="line"/>
-			<point x="502" y="856" type="line"/>
-		</contour>
-		<contour>
-			<point x="230" y="294" type="line"/>
-			<point x="167" y="0" type="line"/>
-			<point x="244" y="0" type="line"/>
-			<point x="306" y="294" type="line"/>
-			<point x="608" y="700" type="line"/>
-			<point x="518" y="700" type="line"/>
-			<point x="283" y="376" type="line"/>
-			<point x="202" y="700" type="line"/>
-			<point x="127" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="524"/>
+  <unicode hex="00DD"/>
+  <note>
+Yacute
+</note>
+  <outline>
+    <contour>
+      <point x="468" y="920" type="line"/>
+      <point x="273" y="822" type="line"/>
+      <point x="299" y="771" type="line"/>
+      <point x="502" y="856" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="294" type="line"/>
+      <point x="167" y="0" type="line"/>
+      <point x="244" y="0" type="line"/>
+      <point x="306" y="294" type="line"/>
+      <point x="608" y="700" type="line"/>
+      <point x="518" y="700" type="line"/>
+      <point x="283" y="376" type="line"/>
+      <point x="202" y="700" type="line"/>
+      <point x="127" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

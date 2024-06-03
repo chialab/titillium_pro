@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="tildecomb.case" format="2">
-	<advance width="381"/>
-	<note>
-		tildecomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="507" y="848" type="curve"/>
-			<point x="477" y="918" type="line"/>
-			<point x="477" y="918"/>
-			<point x="416" y="884"/>
-			<point x="390" y="884" type="curve" smooth="yes"/>
-			<point x="362" y="884"/>
-			<point x="302" y="920"/>
-			<point x="261" y="920" type="curve" smooth="yes"/>
-			<point x="209" y="920"/>
-			<point x="128" y="855"/>
-			<point x="128" y="855" type="curve"/>
-			<point x="157" y="785" type="line"/>
-			<point x="157" y="785"/>
-			<point x="213" y="816"/>
-			<point x="241" y="816" type="curve" smooth="yes"/>
-			<point x="274" y="816"/>
-			<point x="330" y="780"/>
-			<point x="372" y="780" type="curve" smooth="yes"/>
-			<point x="424" y="780"/>
-			<point x="507" y="848"/>
-		</contour>
-	</outline>
+  <advance width="381"/>
+  <note>
+tildecomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="507" y="848" type="curve"/>
+      <point x="477" y="918" type="line"/>
+      <point x="477" y="918"/>
+      <point x="416" y="884"/>
+      <point x="390" y="884" type="curve" smooth="yes"/>
+      <point x="362" y="884"/>
+      <point x="302" y="920"/>
+      <point x="261" y="920" type="curve" smooth="yes"/>
+      <point x="209" y="920"/>
+      <point x="128" y="855"/>
+      <point x="128" y="855" type="curve"/>
+      <point x="157" y="785" type="line"/>
+      <point x="157" y="785"/>
+      <point x="213" y="816"/>
+      <point x="241" y="816" type="curve" smooth="yes"/>
+      <point x="274" y="816"/>
+      <point x="330" y="780"/>
+      <point x="372" y="780" type="curve" smooth="yes"/>
+      <point x="424" y="780"/>
+      <point x="507" y="848"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

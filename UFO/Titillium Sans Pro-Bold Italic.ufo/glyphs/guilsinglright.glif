@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglright" format="2">
-	<advance width="364"/>
-	<unicode hex="203A"/>
-	<note>
-		guilsinglright
-	</note>
-	<outline>
-		<contour>
-			<point x="68" y="428" type="line"/>
-			<point x="222" y="292" type="line"/>
-			<point x="14" y="134" type="line"/>
-			<point x="74" y="46" type="line"/>
-			<point x="317" y="227" type="line"/>
-			<point x="338" y="327" type="line"/>
-			<point x="144" y="508" type="line"/>
-		</contour>
-	</outline>
+  <advance width="364"/>
+  <unicode hex="203A"/>
+  <note>
+guilsinglright
+</note>
+  <outline>
+    <contour>
+      <point x="68" y="428" type="line"/>
+      <point x="222" y="292" type="line"/>
+      <point x="14" y="134" type="line"/>
+      <point x="74" y="46" type="line"/>
+      <point x="317" y="227" type="line"/>
+      <point x="338" y="327" type="line"/>
+      <point x="144" y="508" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

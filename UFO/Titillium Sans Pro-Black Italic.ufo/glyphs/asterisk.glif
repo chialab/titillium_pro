@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk" format="2">
-	<advance width="478"/>
-	<unicode hex="002A"/>
-	<note>
-		asterisk
-	</note>
-	<outline>
-		<contour>
-			<point x="421" y="331" type="line"/>
-			<point x="379" y="436" type="line"/>
-			<point x="491" y="428" type="line"/>
-			<point x="491" y="575" type="line"/>
-			<point x="378" y="567" type="line"/>
-			<point x="420" y="670" type="line"/>
-			<point x="280" y="715" type="line"/>
-			<point x="253" y="606" type="line"/>
-			<point x="168" y="678" type="line"/>
-			<point x="82" y="559" type="line"/>
-			<point x="177" y="499" type="line"/>
-			<point x="84" y="440" type="line"/>
-			<point x="169" y="322" type="line"/>
-			<point x="255" y="394" type="line"/>
-			<point x="284" y="286" type="line"/>
-		</contour>
-	</outline>
+  <advance width="478"/>
+  <unicode hex="002A"/>
+  <note>
+asterisk
+</note>
+  <outline>
+    <contour>
+      <point x="421" y="331" type="line"/>
+      <point x="379" y="436" type="line"/>
+      <point x="491" y="428" type="line"/>
+      <point x="491" y="575" type="line"/>
+      <point x="378" y="567" type="line"/>
+      <point x="420" y="670" type="line"/>
+      <point x="280" y="715" type="line"/>
+      <point x="253" y="606" type="line"/>
+      <point x="168" y="678" type="line"/>
+      <point x="82" y="559" type="line"/>
+      <point x="177" y="499" type="line"/>
+      <point x="84" y="440" type="line"/>
+      <point x="169" y="322" type="line"/>
+      <point x="255" y="394" type="line"/>
+      <point x="284" y="286" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I.ss06" format="2">
-	<advance width="1222"/>
-	<outline>
-		<contour>
-			<point x="163" y="904" type="line"/>
-			<point x="1297" y="904" type="line"/>
-			<point x="1055" y="-230" type="line"/>
-			<point x="-79" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="777" y="710" type="line"/>
-			<point x="640" y="710" type="line"/>
-			<point x="488" y="0" type="line"/>
-			<point x="625" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="163" y="904" type="line"/>
+      <point x="1297" y="904" type="line"/>
+      <point x="1055" y="-230" type="line"/>
+      <point x="-79" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="777" y="710" type="line"/>
+      <point x="640" y="710" type="line"/>
+      <point x="488" y="0" type="line"/>
+      <point x="625" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 16:15:28 +0000</string>
+    </dict>
+  </lib>
 </glyph>

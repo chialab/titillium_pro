@@ -1,56 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dmacronbelow" format="2">
-	<advance width="568"/>
-	<unicode hex="1E0F"/>
-	<note>
-		dmacronbelow
-	</note>
-	<outline>
-		<contour>
-			<point x="409" y="-64" type="line"/>
-			<point x="82" y="-64" type="line"/>
-			<point x="54" y="-194" type="line"/>
-			<point x="381" y="-194" type="line"/>
-		</contour>
-		<contour>
-			<point x="291" y="0" type="line"/>
-			<point x="482" y="0" type="line"/>
-			<point x="637" y="730" type="line"/>
-			<point x="421" y="730" type="line"/>
-			<point x="376" y="519" type="line"/>
-			<point x="376" y="519"/>
-			<point x="320" y="536"/>
-			<point x="273" y="536" type="curve" smooth="yes"/>
-			<point x="104" y="536"/>
-			<point x="9" y="328"/>
-			<point x="9" y="172" type="curve" smooth="yes"/>
-			<point x="9" y="68"/>
-			<point x="48" y="-14"/>
-			<point x="150" y="-14" type="curve" smooth="yes"/>
-			<point x="249" y="-14"/>
-			<point x="295" y="67"/>
-			<point x="295" y="67" type="curve"/>
-		</contour>
-		<contour>
-			<point x="257" y="162" type="curve" smooth="yes"/>
-			<point x="241" y="162"/>
-			<point x="226" y="176"/>
-			<point x="226" y="231" type="curve" smooth="yes"/>
-			<point x="226" y="275"/>
-			<point x="241" y="376"/>
-			<point x="280" y="376" type="curve" smooth="yes"/>
-			<point x="303" y="376"/>
-			<point x="347" y="365"/>
-			<point x="347" y="365" type="curve"/>
-			<point x="312" y="202" type="line"/>
-			<point x="312" y="202"/>
-			<point x="283" y="162"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>d</string>
-		</dict>
-	</lib>
+  <advance width="568"/>
+  <unicode hex="1E0F"/>
+  <note>
+dmacronbelow
+</note>
+  <outline>
+    <contour>
+      <point x="409" y="-64" type="line"/>
+      <point x="82" y="-64" type="line"/>
+      <point x="54" y="-194" type="line"/>
+      <point x="381" y="-194" type="line"/>
+    </contour>
+    <contour>
+      <point x="291" y="0" type="line"/>
+      <point x="482" y="0" type="line"/>
+      <point x="637" y="730" type="line"/>
+      <point x="421" y="730" type="line"/>
+      <point x="376" y="519" type="line"/>
+      <point x="376" y="519"/>
+      <point x="320" y="536"/>
+      <point x="273" y="536" type="curve" smooth="yes"/>
+      <point x="104" y="536"/>
+      <point x="9" y="328"/>
+      <point x="9" y="172" type="curve" smooth="yes"/>
+      <point x="9" y="68"/>
+      <point x="48" y="-14"/>
+      <point x="150" y="-14" type="curve" smooth="yes"/>
+      <point x="249" y="-14"/>
+      <point x="295" y="67"/>
+      <point x="295" y="67" type="curve"/>
+    </contour>
+    <contour>
+      <point x="257" y="162" type="curve" smooth="yes"/>
+      <point x="241" y="162"/>
+      <point x="226" y="176"/>
+      <point x="226" y="231" type="curve" smooth="yes"/>
+      <point x="226" y="275"/>
+      <point x="241" y="376"/>
+      <point x="280" y="376" type="curve" smooth="yes"/>
+      <point x="303" y="376"/>
+      <point x="347" y="365"/>
+      <point x="347" y="365" type="curve"/>
+      <point x="312" y="202" type="line"/>
+      <point x="312" y="202"/>
+      <point x="283" y="162"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 19:24:06 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>d</string>
+    </dict>
+  </lib>
 </glyph>

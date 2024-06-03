@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldotbelowmacron.ss02" format="2">
-	<advance width="220"/>
-	<note>
-		ldotbelowmacron.ss02
-	</note>
-	<outline>
-		<contour>
-			<point x="306" y="893" type="line"/>
-			<point x="31" y="893" type="line"/>
-			<point x="19" y="834" type="line"/>
-			<point x="294" y="834" type="line"/>
-		</contour>
-		<contour>
-			<point x="20" y="0" type="line"/>
-			<point x="94" y="0" type="line"/>
-			<point x="248" y="730" type="line"/>
-			<point x="174" y="730" type="line"/>
-		</contour>
-		<contour>
-			<point x="81" y="-82" type="line"/>
-			<point x="8" y="-82" type="line"/>
-			<point x="-13" y="-178" type="line"/>
-			<point x="61" y="-178" type="line"/>
-		</contour>
-	</outline>
+  <advance width="220"/>
+  <note>
+ldotbelowmacron.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="306" y="893" type="line"/>
+      <point x="31" y="893" type="line"/>
+      <point x="19" y="834" type="line"/>
+      <point x="294" y="834" type="line"/>
+    </contour>
+    <contour>
+      <point x="20" y="0" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="248" y="730" type="line"/>
+      <point x="174" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="81" y="-82" type="line"/>
+      <point x="8" y="-82" type="line"/>
+      <point x="-13" y="-178" type="line"/>
+      <point x="61" y="-178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

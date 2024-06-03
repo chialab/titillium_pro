@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="exclamdown.case" format="2">
-	<advance width="236"/>
-	<note>
-		exclamdown.case
-	</note>
-	<outline>
-		<contour>
-			<point x="147" y="591" type="line"/>
-			<point x="229" y="591" type="line"/>
-			<point x="252" y="700" type="line"/>
-			<point x="170" y="700" type="line"/>
-		</contour>
-		<contour>
-			<point x="26" y="0" type="line"/>
-			<point x="105" y="0" type="line"/>
-			<point x="200" y="472" type="line"/>
-			<point x="131" y="472" type="line"/>
-		</contour>
-	</outline>
+  <advance width="236"/>
+  <note>
+exclamdown.case
+</note>
+  <outline>
+    <contour>
+      <point x="147" y="591" type="line"/>
+      <point x="229" y="591" type="line"/>
+      <point x="252" y="700" type="line"/>
+      <point x="170" y="700" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="200" y="472" type="line"/>
+      <point x="131" y="472" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

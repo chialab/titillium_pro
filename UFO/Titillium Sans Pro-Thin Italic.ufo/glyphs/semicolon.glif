@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-	<advance width="230"/>
-	<unicode hex="003B"/>
-	<note>
-		semicolon
-	</note>
-	<outline>
-		<contour>
-			<point x="164" y="420" type="line"/>
-			<point x="124" y="420" type="line"/>
-			<point x="106" y="340" type="line"/>
-			<point x="146" y="340" type="line"/>
-		</contour>
-		<contour>
-			<point x="113" y="80" type="line"/>
-			<point x="73" y="80" type="line"/>
-			<point x="-13" y="-123" type="line"/>
-			<point x="18" y="-123" type="line"/>
-		</contour>
-	</outline>
+  <advance width="230"/>
+  <unicode hex="003B"/>
+  <note>
+semicolon
+</note>
+  <outline>
+    <contour>
+      <point x="164" y="420" type="line"/>
+      <point x="124" y="420" type="line"/>
+      <point x="106" y="340" type="line"/>
+      <point x="146" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="113" y="80" type="line"/>
+      <point x="73" y="80" type="line"/>
+      <point x="-13" y="-123" type="line"/>
+      <point x="18" y="-123" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

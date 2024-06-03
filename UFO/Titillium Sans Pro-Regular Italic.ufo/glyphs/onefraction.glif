@@ -1,25 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onefraction" format="2">
-	<advance width="533"/>
-	<unicode hex="215F"/>
-	<note>
-		onefraction
-	</note>
-	<outline>
-		<contour>
-			<point x="605" y="681" type="line"/>
-			<point x="572" y="710" type="line"/>
-			<point x="-5" y="16" type="line"/>
-			<point x="26" y="-12" type="line"/>
-		</contour>
-		<contour>
-			<point x="287" y="702" type="line"/>
-			<point x="227" y="702" type="line"/>
-			<point x="111" y="632" type="line"/>
-			<point x="130" y="585" type="line"/>
-			<point x="208" y="632" type="line"/>
-			<point x="156" y="386" type="line"/>
-			<point x="220" y="386" type="line"/>
-		</contour>
-	</outline>
+  <advance width="533"/>
+  <unicode hex="215F"/>
+  <note>
+onefraction
+</note>
+  <outline>
+    <contour>
+      <point x="605" y="681" type="line"/>
+      <point x="572" y="710" type="line"/>
+      <point x="-5" y="16" type="line"/>
+      <point x="26" y="-12" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="702" type="line"/>
+      <point x="227" y="702" type="line"/>
+      <point x="111" y="632" type="line"/>
+      <point x="130" y="585" type="line"/>
+      <point x="208" y="632" type="line"/>
+      <point x="156" y="386" type="line"/>
+      <point x="220" y="386" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ellipsis" format="2">
-	<advance width="607"/>
-	<unicode hex="2026"/>
-	<note>
-		ellipsis
-	</note>
-	<outline>
-		<contour>
-			<point x="499" y="80" type="line"/>
-			<point x="459" y="80" type="line"/>
-			<point x="441" y="0" type="line"/>
-			<point x="481" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="289" y="80" type="line"/>
-			<point x="249" y="80" type="line"/>
-			<point x="231" y="0" type="line"/>
-			<point x="271" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="79" y="80" type="line"/>
-			<point x="39" y="80" type="line"/>
-			<point x="21" y="0" type="line"/>
-			<point x="61" y="0" type="line"/>
-		</contour>
-	</outline>
+  <advance width="607"/>
+  <unicode hex="2026"/>
+  <note>
+ellipsis
+</note>
+  <outline>
+    <contour>
+      <point x="499" y="80" type="line"/>
+      <point x="459" y="80" type="line"/>
+      <point x="441" y="0" type="line"/>
+      <point x="481" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="80" type="line"/>
+      <point x="249" y="80" type="line"/>
+      <point x="231" y="0" type="line"/>
+      <point x="271" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="79" y="80" type="line"/>
+      <point x="39" y="80" type="line"/>
+      <point x="21" y="0" type="line"/>
+      <point x="61" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

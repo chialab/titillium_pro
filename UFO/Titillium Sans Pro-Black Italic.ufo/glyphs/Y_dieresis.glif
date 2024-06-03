@@ -1,33 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ydieresis" format="2">
-	<advance width="583"/>
-	<unicode hex="0178"/>
-	<note>
-		Ydieresis
-	</note>
-	<outline>
-		<contour>
-			<point x="624" y="911" type="line"/>
-			<point x="440" y="911" type="line"/>
-			<point x="408" y="757" type="line"/>
-			<point x="592" y="757" type="line"/>
-		</contour>
-		<contour>
-			<point x="390" y="911" type="line"/>
-			<point x="206" y="911" type="line"/>
-			<point x="174" y="757" type="line"/>
-			<point x="358" y="757" type="line"/>
-		</contour>
-		<contour>
-			<point x="172" y="240" type="line"/>
-			<point x="124" y="0" type="line"/>
-			<point x="351" y="0" type="line"/>
-			<point x="400" y="240" type="line"/>
-			<point x="692" y="710" type="line"/>
-			<point x="448" y="710" type="line"/>
-			<point x="332" y="455" type="line"/>
-			<point x="308" y="710" type="line"/>
-			<point x="85" y="710" type="line"/>
-		</contour>
-	</outline>
+  <advance width="583"/>
+  <unicode hex="0178"/>
+  <note>
+Ydieresis
+</note>
+  <outline>
+    <contour>
+      <point x="624" y="911" type="line"/>
+      <point x="440" y="911" type="line"/>
+      <point x="408" y="757" type="line"/>
+      <point x="592" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="390" y="911" type="line"/>
+      <point x="206" y="911" type="line"/>
+      <point x="174" y="757" type="line"/>
+      <point x="358" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="240" type="line"/>
+      <point x="124" y="0" type="line"/>
+      <point x="351" y="0" type="line"/>
+      <point x="400" y="240" type="line"/>
+      <point x="692" y="710" type="line"/>
+      <point x="448" y="710" type="line"/>
+      <point x="332" y="455" type="line"/>
+      <point x="308" y="710" type="line"/>
+      <point x="85" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

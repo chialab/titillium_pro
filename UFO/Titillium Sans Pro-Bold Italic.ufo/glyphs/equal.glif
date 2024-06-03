@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="equal" format="2">
-	<advance width="560"/>
-	<unicode hex="003D"/>
-	<note>
-		equal
-	</note>
-	<outline>
-		<contour>
-			<point x="99" y="435" type="line"/>
-			<point x="74" y="319" type="line"/>
-			<point x="514" y="319" type="line"/>
-			<point x="539" y="435" type="line"/>
-		</contour>
-		<contour>
-			<point x="56" y="235" type="line"/>
-			<point x="31" y="119" type="line"/>
-			<point x="471" y="119" type="line"/>
-			<point x="496" y="235" type="line"/>
-		</contour>
-	</outline>
+  <advance width="560"/>
+  <unicode hex="003D"/>
+  <note>
+equal
+</note>
+  <outline>
+    <contour>
+      <point x="99" y="435" type="line"/>
+      <point x="74" y="319" type="line"/>
+      <point x="514" y="319" type="line"/>
+      <point x="539" y="435" type="line"/>
+    </contour>
+    <contour>
+      <point x="56" y="235" type="line"/>
+      <point x="31" y="119" type="line"/>
+      <point x="471" y="119" type="line"/>
+      <point x="496" y="235" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

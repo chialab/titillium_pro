@@ -1,33 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Wacute" format="2">
-	<advance width="922"/>
-	<unicode hex="1E82"/>
-	<note>
-		Wacute
-	</note>
-	<outline>
-		<contour>
-			<point x="689" y="952" type="line"/>
-			<point x="443" y="850" type="line"/>
-			<point x="477" y="763" type="line"/>
-			<point x="735" y="837" type="line"/>
-		</contour>
-		<contour>
-			<point x="221" y="118" type="line"/>
-			<point x="262" y="710" type="line"/>
-			<point x="127" y="710" type="line"/>
-			<point x="84" y="0" type="line"/>
-			<point x="316" y="0" type="line"/>
-			<point x="523" y="539" type="line"/>
-			<point x="502" y="0" type="line"/>
-			<point x="723" y="0" type="line"/>
-			<point x="990" y="710" type="line"/>
-			<point x="852" y="710" type="line"/>
-			<point x="646" y="118" type="line"/>
-			<point x="616" y="118" type="line"/>
-			<point x="638" y="696" type="line"/>
-			<point x="473" y="696" type="line"/>
-			<point x="251" y="118" type="line"/>
-		</contour>
-	</outline>
+  <advance width="922"/>
+  <unicode hex="1E82"/>
+  <note>
+Wacute
+</note>
+  <outline>
+    <contour>
+      <point x="689" y="952" type="line"/>
+      <point x="443" y="850" type="line"/>
+      <point x="477" y="763" type="line"/>
+      <point x="735" y="837" type="line"/>
+    </contour>
+    <contour>
+      <point x="221" y="118" type="line"/>
+      <point x="262" y="710" type="line"/>
+      <point x="127" y="710" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="523" y="539" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="723" y="0" type="line"/>
+      <point x="990" y="710" type="line"/>
+      <point x="852" y="710" type="line"/>
+      <point x="646" y="118" type="line"/>
+      <point x="616" y="118" type="line"/>
+      <point x="638" y="696" type="line"/>
+      <point x="473" y="696" type="line"/>
+      <point x="251" y="118" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

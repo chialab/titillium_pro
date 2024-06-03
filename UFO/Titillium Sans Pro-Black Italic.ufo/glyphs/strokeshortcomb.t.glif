@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="strokeshortcomb.t" format="2">
-	<advance width="317"/>
-	<note>
-		strokeshortcomb.t
-	</note>
-	<outline>
-		<contour>
-			<point x="331" y="330" type="line"/>
-			<point x="15" y="330" type="line"/>
-			<point x="-13" y="196" type="line"/>
-			<point x="303" y="196" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="317"/>
+  <note>
+strokeshortcomb.t
+</note>
+  <outline>
+    <contour>
+      <point x="331" y="330" type="line"/>
+      <point x="15" y="330" type="line"/>
+      <point x="-13" y="196" type="line"/>
+      <point x="303" y="196" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 18:55:41 +0000</string>
+    </dict>
+  </lib>
 </glyph>

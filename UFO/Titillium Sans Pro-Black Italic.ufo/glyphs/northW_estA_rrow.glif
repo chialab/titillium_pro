@@ -1,23 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="northWestArrow" format="2">
-	<advance width="660"/>
-	<unicode hex="2196"/>
-	<note>
-		northWestArrow
-	</note>
-	<outline>
-		<contour>
-			<point x="445" y="96" type="line"/>
-			<point x="642" y="259" type="line"/>
-			<point x="506" y="431" type="line"/>
-			<point x="413" y="527" type="line"/>
-			<point x="590" y="515" type="line"/>
-			<point x="629" y="701" type="line"/>
-			<point x="132" y="700" type="line"/>
-			<point x="26" y="203" type="line"/>
-			<point x="221" y="203" type="line"/>
-			<point x="246" y="370" type="line"/>
-			<point x="309" y="269" type="line"/>
-		</contour>
-	</outline>
+  <advance width="660"/>
+  <unicode hex="2196"/>
+  <note>
+northWestArrow
+</note>
+  <outline>
+    <contour>
+      <point x="445" y="96" type="line"/>
+      <point x="642" y="259" type="line"/>
+      <point x="506" y="431" type="line"/>
+      <point x="413" y="527" type="line"/>
+      <point x="590" y="515" type="line"/>
+      <point x="629" y="701" type="line"/>
+      <point x="132" y="700" type="line"/>
+      <point x="26" y="203" type="line"/>
+      <point x="221" y="203" type="line"/>
+      <point x="246" y="370" type="line"/>
+      <point x="309" y="269" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

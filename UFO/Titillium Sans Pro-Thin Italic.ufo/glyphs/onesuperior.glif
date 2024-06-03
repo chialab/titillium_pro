@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="onesuperior" format="2">
-	<advance width="189"/>
-	<unicode hex="00B9"/>
-	<note>
-		onesuperior
-	</note>
-	<outline>
-		<contour>
-			<point x="245" y="730" type="line"/>
-			<point x="210" y="730" type="line"/>
-			<point x="97" y="663" type="line"/>
-			<point x="108" y="635" type="line"/>
-			<point x="202" y="691" type="line"/>
-			<point x="144" y="418" type="line"/>
-			<point x="179" y="418" type="line"/>
-		</contour>
-	</outline>
+  <advance width="189"/>
+  <unicode hex="00B9"/>
+  <note>
+onesuperior
+</note>
+  <outline>
+    <contour>
+      <point x="245" y="730" type="line"/>
+      <point x="210" y="730" type="line"/>
+      <point x="97" y="663" type="line"/>
+      <point x="108" y="635" type="line"/>
+      <point x="202" y="691" type="line"/>
+      <point x="144" y="418" type="line"/>
+      <point x="179" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

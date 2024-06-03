@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="endash" format="2">
-	<advance width="556"/>
-	<unicode hex="2013"/>
-	<note>
-		endash
-	</note>
-	<outline>
-		<contour>
-			<point x="548" y="354" type="line"/>
-			<point x="48" y="354" type="line"/>
-			<point x="18" y="214" type="line"/>
-			<point x="518" y="214" type="line"/>
-		</contour>
-	</outline>
+  <advance width="556"/>
+  <unicode hex="2013"/>
+  <note>
+endash
+</note>
+  <outline>
+    <contour>
+      <point x="548" y="354" type="line"/>
+      <point x="48" y="354" type="line"/>
+      <point x="18" y="214" type="line"/>
+      <point x="518" y="214" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

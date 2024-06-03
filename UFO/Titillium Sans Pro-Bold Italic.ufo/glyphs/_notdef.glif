@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name=".notdef" format="2">
-	<advance width="562"/>
-	<note>
-		.notdef
-	</note>
-	<outline>
-		<contour>
-			<point x="147" y="710" type="line"/>
-			<point x="-53" y="-230" type="line"/>
-			<point x="409" y="-230" type="line"/>
-			<point x="609" y="710" type="line"/>
-		</contour>
-		<contour>
-			<point x="182" y="668" type="line"/>
-			<point x="556" y="668" type="line"/>
-			<point x="374" y="-188" type="line"/>
-			<point x="0" y="-188" type="line"/>
-		</contour>
-	</outline>
+  <advance width="562"/>
+  <note>
+.notdef
+</note>
+  <outline>
+    <contour>
+      <point x="147" y="710" type="line"/>
+      <point x="-53" y="-230" type="line"/>
+      <point x="409" y="-230" type="line"/>
+      <point x="609" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="182" y="668" type="line"/>
+      <point x="556" y="668" type="line"/>
+      <point x="374" y="-188" type="line"/>
+      <point x="0" y="-188" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:18:02 +0000</string>
+    </dict>
+  </lib>
 </glyph>

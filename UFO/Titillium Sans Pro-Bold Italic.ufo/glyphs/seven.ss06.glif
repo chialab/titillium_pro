@@ -1,30 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.ss06" format="2">
-	<advance width="1183"/>
-	<outline>
-		<contour>
-			<point x="163" y="904" type="line"/>
-			<point x="1297" y="904" type="line"/>
-			<point x="1055" y="-230" type="line"/>
-			<point x="-79" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="885" y="670" type="line"/>
-			<point x="464" y="670" type="line"/>
-			<point x="438" y="547" type="line"/>
-			<point x="717" y="547" type="line"/>
-			<point x="711" y="522" type="line"/>
-			<point x="411" y="48" type="line"/>
-			<point x="520" y="-16" type="line"/>
-			<point x="853" y="521" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>seven.ss05</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>seven.ss05</string>
-		</dict>
-	</lib>
+  <advance width="1183"/>
+  <outline>
+    <contour>
+      <point x="163" y="904" type="line"/>
+      <point x="1297" y="904" type="line"/>
+      <point x="1055" y="-230" type="line"/>
+      <point x="-79" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="885" y="670" type="line"/>
+      <point x="464" y="670" type="line"/>
+      <point x="438" y="547" type="line"/>
+      <point x="717" y="547" type="line"/>
+      <point x="711" y="522" type="line"/>
+      <point x="411" y="48" type="line"/>
+      <point x="520" y="-16" type="line"/>
+      <point x="853" y="521" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 17:27:15 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>seven.ss05</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>seven.ss05</string>
+    </dict>
+  </lib>
 </glyph>

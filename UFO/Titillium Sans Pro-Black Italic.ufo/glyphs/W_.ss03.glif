@@ -1,35 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W.ss03" format="2">
-	<advance width="1266"/>
-	<note>
-		W
-	</note>
-	<outline>
-		<contour>
-			<point x="551" y="700" type="line"/>
-			<point x="330" y="700" type="line"/>
-			<point x="247" y="0" type="line"/>
-			<point x="542" y="0" type="line"/>
-			<point x="670" y="439" type="line"/>
-			<point x="618" y="0" type="line"/>
-			<point x="920" y="0" type="line"/>
-			<point x="1127" y="700" type="line"/>
-			<point x="906" y="700" type="line"/>
-			<point x="797" y="234" type="line"/>
-			<point x="773" y="234" type="line"/>
-			<point x="824" y="690" type="line"/>
-			<point x="629" y="690" type="line"/>
-			<point x="497" y="234" type="line"/>
-			<point x="473" y="234" type="line"/>
-		</contour>
-		<component base="_sferiliumstroke"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>_sferiliumstroke</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>_sferiliumstroke</string>
-		</dict>
-	</lib>
+  <advance width="1266"/>
+  <note>
+W
+</note>
+  <outline>
+    <contour>
+      <point x="551" y="700" type="line"/>
+      <point x="330" y="700" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="670" y="439" type="line"/>
+      <point x="618" y="0" type="line"/>
+      <point x="920" y="0" type="line"/>
+      <point x="1127" y="700" type="line"/>
+      <point x="906" y="700" type="line"/>
+      <point x="797" y="234" type="line"/>
+      <point x="773" y="234" type="line"/>
+      <point x="824" y="690" type="line"/>
+      <point x="629" y="690" type="line"/>
+      <point x="497" y="234" type="line"/>
+      <point x="473" y="234" type="line"/>
+    </contour>
+    <component base="_sferiliumstroke"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-29 13:39:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_sferiliumstroke</string>
+    </dict>
+  </lib>
 </glyph>

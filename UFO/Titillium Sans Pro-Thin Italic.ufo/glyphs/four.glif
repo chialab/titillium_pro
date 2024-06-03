@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-	<advance width="520"/>
-	<unicode hex="0034"/>
-	<note>
-		four
-	</note>
-	<outline>
-		<contour>
-			<point x="10" y="142" type="line"/>
-			<point x="332" y="142" type="line"/>
-			<point x="302" y="0" type="line"/>
-			<point x="337" y="0" type="line"/>
-			<point x="367" y="142" type="line"/>
-			<point x="469" y="142" type="line"/>
-			<point x="476" y="174" type="line"/>
-			<point x="374" y="174" type="line"/>
-			<point x="421" y="395" type="line"/>
-			<point x="386" y="395" type="line"/>
-			<point x="339" y="174" type="line"/>
-			<point x="56" y="174" type="line"/>
-			<point x="395" y="660" type="line"/>
-			<point x="353" y="660" type="line"/>
-			<point x="16" y="172" type="line"/>
-		</contour>
-	</outline>
+  <advance width="520"/>
+  <unicode hex="0034"/>
+  <note>
+four
+</note>
+  <outline>
+    <contour>
+      <point x="10" y="142" type="line"/>
+      <point x="332" y="142" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="337" y="0" type="line"/>
+      <point x="367" y="142" type="line"/>
+      <point x="469" y="142" type="line"/>
+      <point x="476" y="174" type="line"/>
+      <point x="374" y="174" type="line"/>
+      <point x="421" y="395" type="line"/>
+      <point x="386" y="395" type="line"/>
+      <point x="339" y="174" type="line"/>
+      <point x="56" y="174" type="line"/>
+      <point x="395" y="660" type="line"/>
+      <point x="353" y="660" type="line"/>
+      <point x="16" y="172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

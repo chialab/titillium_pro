@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedabovecomb" format="2">
-	<advance width="106"/>
-	<unicode hex="0312"/>
-	<note>
-		commaturnedabovecomb
-	</note>
-	<outline>
-		<contour>
-			<point x="81" y="630" type="line"/>
-			<point x="104" y="609" type="line"/>
-			<point x="205" y="717" type="line"/>
-			<point x="189" y="732" type="line"/>
-		</contour>
-	</outline>
+  <advance width="106"/>
+  <unicode hex="0312"/>
+  <note>
+commaturnedabovecomb
+</note>
+  <outline>
+    <contour>
+      <point x="81" y="630" type="line"/>
+      <point x="104" y="609" type="line"/>
+      <point x="205" y="717" type="line"/>
+      <point x="189" y="732" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
-	<advance width="394"/>
-	<unicode hex="030B"/>
-	<note>
-		hungarumlautcomb
-	</note>
-	<outline>
-		<contour>
-			<point x="265" y="740" type="line"/>
-			<point x="82" y="638" type="line"/>
-			<point x="96" y="591" type="line"/>
-			<point x="285" y="676" type="line"/>
-		</contour>
-		<contour>
-			<point x="465" y="740" type="line"/>
-			<point x="282" y="638" type="line"/>
-			<point x="296" y="591" type="line"/>
-			<point x="485" y="676" type="line"/>
-		</contour>
-	</outline>
+  <advance width="394"/>
+  <unicode hex="030B"/>
+  <note>
+hungarumlautcomb
+</note>
+  <outline>
+    <contour>
+      <point x="265" y="740" type="line"/>
+      <point x="82" y="638" type="line"/>
+      <point x="96" y="591" type="line"/>
+      <point x="285" y="676" type="line"/>
+    </contour>
+    <contour>
+      <point x="465" y="740" type="line"/>
+      <point x="282" y="638" type="line"/>
+      <point x="296" y="591" type="line"/>
+      <point x="485" y="676" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

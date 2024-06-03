@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_sferilium" format="2">
-	<advance width="1266"/>
-	<outline>
-		<contour>
-			<point x="82" y="810" type="line"/>
-			<point x="922" y="810" type="line"/>
-			<point x="922" y="-110" type="line"/>
-			<point x="82" y="-110" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1266"/>
+  <outline>
+    <contour>
+      <point x="82" y="810" type="line"/>
+      <point x="922" y="810" type="line"/>
+      <point x="922" y="-110" type="line"/>
+      <point x="82" y="-110" type="line"/>
+    </contour>
+  </outline>
 </glyph>

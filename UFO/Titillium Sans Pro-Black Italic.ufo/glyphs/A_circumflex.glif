@@ -1,35 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflex" format="2">
-	<advance width="647"/>
-	<unicode hex="00C2"/>
-	<note>
-		Acircumflex
-	</note>
-	<outline>
-		<contour>
-			<point x="402" y="757" type="line"/>
-			<point x="451" y="840" type="line"/>
-			<point x="464" y="757" type="line"/>
-			<point x="616" y="757" type="line"/>
-			<point x="573" y="937" type="line"/>
-			<point x="349" y="937" type="line"/>
-			<point x="230" y="757" type="line"/>
-		</contour>
-		<contour>
-			<point x="246" y="710" type="line"/>
-			<point x="-48" y="0" type="line"/>
-			<point x="176" y="0" type="line"/>
-			<point x="217" y="111" type="line"/>
-			<point x="367" y="111" type="line"/>
-			<point x="362" y="0" type="line"/>
-			<point x="589" y="0" type="line"/>
-			<point x="590" y="710" type="line"/>
-		</contour>
-		<contour>
-			<point x="367" y="528" type="line"/>
-			<point x="392" y="528" type="line"/>
-			<point x="377" y="288" type="line"/>
-			<point x="281" y="288" type="line"/>
-		</contour>
-	</outline>
+  <advance width="647"/>
+  <unicode hex="00C2"/>
+  <note>
+Acircumflex
+</note>
+  <outline>
+    <contour>
+      <point x="402" y="757" type="line"/>
+      <point x="451" y="840" type="line"/>
+      <point x="464" y="757" type="line"/>
+      <point x="616" y="757" type="line"/>
+      <point x="573" y="937" type="line"/>
+      <point x="349" y="937" type="line"/>
+      <point x="230" y="757" type="line"/>
+    </contour>
+    <contour>
+      <point x="246" y="710" type="line"/>
+      <point x="-48" y="0" type="line"/>
+      <point x="176" y="0" type="line"/>
+      <point x="217" y="111" type="line"/>
+      <point x="367" y="111" type="line"/>
+      <point x="362" y="0" type="line"/>
+      <point x="589" y="0" type="line"/>
+      <point x="590" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="367" y="528" type="line"/>
+      <point x="392" y="528" type="line"/>
+      <point x="377" y="288" type="line"/>
+      <point x="281" y="288" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

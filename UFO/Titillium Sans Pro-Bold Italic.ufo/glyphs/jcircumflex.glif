@@ -1,31 +1,37 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jcircumflex" format="2">
-	<advance width="255"/>
-	<unicode hex="0135"/>
-	<note>
-		jcircumflex
-	</note>
-	<outline>
-		<contour>
-			<point x="127" y="559" type="line"/>
-			<point x="217" y="657" type="line"/>
-			<point x="265" y="559" type="line"/>
-			<point x="375" y="559" type="line"/>
-			<point x="282" y="736" type="line"/>
-			<point x="166" y="736" type="line"/>
-			<point x="-3" y="559" type="line"/>
-		</contour>
-		<contour>
-			<point x="245" y="500" type="line"/>
-			<point x="114" y="500" type="line"/>
-			<point x="10" y="14" type="line" smooth="yes"/>
-			<point x="-8" y="-71"/>
-			<point x="-26" y="-87"/>
-			<point x="-118" y="-141" type="curve"/>
-			<point x="-87" y="-240" type="line"/>
-			<point x="64" y="-170"/>
-			<point x="111" y="-126"/>
-			<point x="141" y="13" type="curve" smooth="yes"/>
-		</contour>
-	</outline>
+  <advance width="255"/>
+  <unicode hex="0135"/>
+  <note>
+jcircumflex
+</note>
+  <outline>
+    <contour>
+      <point x="127" y="559" type="line"/>
+      <point x="217" y="657" type="line"/>
+      <point x="265" y="559" type="line"/>
+      <point x="375" y="559" type="line"/>
+      <point x="282" y="736" type="line"/>
+      <point x="166" y="736" type="line"/>
+      <point x="-3" y="559" type="line"/>
+    </contour>
+    <contour>
+      <point x="245" y="500" type="line"/>
+      <point x="114" y="500" type="line"/>
+      <point x="10" y="14" type="line" smooth="yes"/>
+      <point x="-8" y="-71"/>
+      <point x="-26" y="-87"/>
+      <point x="-118" y="-141" type="curve"/>
+      <point x="-87" y="-240" type="line"/>
+      <point x="64" y="-170"/>
+      <point x="111" y="-126"/>
+      <point x="141" y="13" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,34 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="kcaron" format="2">
-	<advance width="431"/>
-	<unicode hex="01E9"/>
-	<note>
-		kcaron
-	</note>
-	<outline>
-		<contour>
-			<point x="332" y="938" type="line"/>
-			<point x="221" y="853" type="line"/>
-			<point x="146" y="938" type="line"/>
-			<point x="107" y="938" type="line"/>
-			<point x="202" y="823" type="line"/>
-			<point x="236" y="823" type="line"/>
-			<point x="379" y="938" type="line"/>
-		</contour>
-		<contour>
-			<point x="183" y="730" type="line"/>
-			<point x="27" y="0" type="line"/>
-			<point x="62" y="0" type="line"/>
-			<point x="116" y="257" type="line"/>
-			<point x="217" y="257" type="line"/>
-			<point x="323" y="0" type="line"/>
-			<point x="360" y="0" type="line"/>
-			<point x="246" y="274" type="line"/>
-			<point x="454" y="500" type="line"/>
-			<point x="409" y="500" type="line"/>
-			<point x="217" y="289" type="line"/>
-			<point x="123" y="289" type="line"/>
-			<point x="218" y="730" type="line"/>
-		</contour>
-	</outline>
+  <advance width="431"/>
+  <unicode hex="01E9"/>
+  <note>
+kcaron
+</note>
+  <outline>
+    <contour>
+      <point x="332" y="938" type="line"/>
+      <point x="221" y="853" type="line"/>
+      <point x="146" y="938" type="line"/>
+      <point x="107" y="938" type="line"/>
+      <point x="202" y="823" type="line"/>
+      <point x="236" y="823" type="line"/>
+      <point x="379" y="938" type="line"/>
+    </contour>
+    <contour>
+      <point x="183" y="730" type="line"/>
+      <point x="27" y="0" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="116" y="257" type="line"/>
+      <point x="217" y="257" type="line"/>
+      <point x="323" y="0" type="line"/>
+      <point x="360" y="0" type="line"/>
+      <point x="246" y="274" type="line"/>
+      <point x="454" y="500" type="line"/>
+      <point x="409" y="500" type="line"/>
+      <point x="217" y="289" type="line"/>
+      <point x="123" y="289" type="line"/>
+      <point x="218" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

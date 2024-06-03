@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccentcomb" format="2">
-	<advance width="239"/>
-	<unicode hex="0326"/>
-	<note>
-		commaaccentcomb
-	</note>
-	<outline>
-		<contour>
-			<point x="150" y="-160" type="line"/>
-			<point x="5" y="-54" type="line"/>
-			<point x="-107" y="-242" type="line"/>
-			<point x="13" y="-327" type="line"/>
-		</contour>
-	</outline>
+  <advance width="239"/>
+  <unicode hex="0326"/>
+  <note>
+commaaccentcomb
+</note>
+  <outline>
+    <contour>
+      <point x="150" y="-160" type="line"/>
+      <point x="5" y="-54" type="line"/>
+      <point x="-107" y="-242" type="line"/>
+      <point x="13" y="-327" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

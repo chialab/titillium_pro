@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ogonekcomb" format="2">
-	<advance width="259"/>
-	<unicode hex="0328"/>
-	<note>
-		ogonekcomb
-	</note>
-	<outline>
-		<contour>
-			<point x="158" y="-215" type="curve"/>
-			<point x="167" y="-107" type="line"/>
-			<point x="167" y="-107"/>
-			<point x="142" y="-111"/>
-			<point x="121" y="-111" type="curve" smooth="yes"/>
-			<point x="109" y="-111"/>
-			<point x="103" y="-105"/>
-			<point x="103" y="-93" type="curve" smooth="yes"/>
-			<point x="103" y="-75"/>
-			<point x="125" y="-43"/>
-			<point x="170" y="0" type="curve"/>
-			<point x="42" y="21" type="line"/>
-			<point x="-37" y="-42"/>
-			<point x="-86" y="-96"/>
-			<point x="-86" y="-155" type="curve" smooth="yes"/>
-			<point x="-86" y="-206"/>
-			<point x="-40" y="-230"/>
-			<point x="44" y="-230" type="curve" smooth="yes"/>
-			<point x="105" y="-230"/>
-			<point x="158" y="-215"/>
-		</contour>
-	</outline>
+  <advance width="259"/>
+  <unicode hex="0328"/>
+  <note>
+ogonekcomb
+</note>
+  <outline>
+    <contour>
+      <point x="158" y="-215" type="curve"/>
+      <point x="167" y="-107" type="line"/>
+      <point x="167" y="-107"/>
+      <point x="142" y="-111"/>
+      <point x="121" y="-111" type="curve" smooth="yes"/>
+      <point x="109" y="-111"/>
+      <point x="103" y="-105"/>
+      <point x="103" y="-93" type="curve" smooth="yes"/>
+      <point x="103" y="-75"/>
+      <point x="125" y="-43"/>
+      <point x="170" y="0" type="curve"/>
+      <point x="42" y="21" type="line"/>
+      <point x="-37" y="-42"/>
+      <point x="-86" y="-96"/>
+      <point x="-86" y="-155" type="curve" smooth="yes"/>
+      <point x="-86" y="-206"/>
+      <point x="-40" y="-230"/>
+      <point x="44" y="-230" type="curve" smooth="yes"/>
+      <point x="105" y="-230"/>
+      <point x="158" y="-215"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

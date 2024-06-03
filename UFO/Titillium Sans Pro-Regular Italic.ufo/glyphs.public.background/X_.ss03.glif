@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X.ss03" format="2">
-	<advance width="1269"/>
-	<outline>
-		<contour>
-			<point x="278" y="401" type="line"/>
-			<point x="103" y="700" type="line"/>
-			<point x="16" y="700" type="line"/>
-			<point x="230" y="344" type="line"/>
-			<point x="16" y="0" type="line"/>
-			<point x="99" y="0" type="line"/>
-			<point x="276" y="292" type="line"/>
-			<point x="450" y="0" type="line"/>
-			<point x="537" y="0" type="line"/>
-			<point x="324" y="346" type="line"/>
-			<point x="537" y="700" type="line"/>
-			<point x="454" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1269"/>
+  <outline>
+    <contour>
+      <point x="278" y="401" type="line"/>
+      <point x="103" y="700" type="line"/>
+      <point x="16" y="700" type="line"/>
+      <point x="230" y="344" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="99" y="0" type="line"/>
+      <point x="276" y="292" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="537" y="0" type="line"/>
+      <point x="324" y="346" type="line"/>
+      <point x="537" y="700" type="line"/>
+      <point x="454" y="700" type="line"/>
+    </contour>
+  </outline>
 </glyph>

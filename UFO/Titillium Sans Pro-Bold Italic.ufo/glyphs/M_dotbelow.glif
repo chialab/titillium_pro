@@ -1,33 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Mdotbelow" format="2">
-	<advance width="829"/>
-	<unicode hex="1E42"/>
-	<note>
-		Mdotbelow
-	</note>
-	<outline>
-		<contour>
-			<point x="409" y="710" type="line"/>
-			<point x="169" y="710" type="line"/>
-			<point x="18" y="0" type="line"/>
-			<point x="149" y="0" type="line"/>
-			<point x="267" y="556" type="line"/>
-			<point x="297" y="556" type="line"/>
-			<point x="291" y="0" type="line"/>
-			<point x="435" y="0" type="line"/>
-			<point x="664" y="556" type="line"/>
-			<point x="694" y="556" type="line"/>
-			<point x="576" y="0" type="line"/>
-			<point x="703" y="0" type="line"/>
-			<point x="854" y="710" type="line"/>
-			<point x="621" y="710" type="line"/>
-			<point x="395" y="152" type="line"/>
-		</contour>
-		<contour>
-			<point x="421" y="-84" type="line"/>
-			<point x="287" y="-84" type="line"/>
-			<point x="257" y="-227" type="line"/>
-			<point x="391" y="-227" type="line"/>
-		</contour>
-	</outline>
+  <advance width="829"/>
+  <unicode hex="1E42"/>
+  <note>
+Mdotbelow
+</note>
+  <outline>
+    <contour>
+      <point x="409" y="710" type="line"/>
+      <point x="169" y="710" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="149" y="0" type="line"/>
+      <point x="267" y="556" type="line"/>
+      <point x="297" y="556" type="line"/>
+      <point x="291" y="0" type="line"/>
+      <point x="435" y="0" type="line"/>
+      <point x="664" y="556" type="line"/>
+      <point x="694" y="556" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="703" y="0" type="line"/>
+      <point x="854" y="710" type="line"/>
+      <point x="621" y="710" type="line"/>
+      <point x="395" y="152" type="line"/>
+    </contour>
+    <contour>
+      <point x="421" y="-84" type="line"/>
+      <point x="287" y="-84" type="line"/>
+      <point x="257" y="-227" type="line"/>
+      <point x="391" y="-227" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

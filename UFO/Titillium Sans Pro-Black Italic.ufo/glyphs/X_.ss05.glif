@@ -1,26 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X.ss05" format="2">
-	<advance width="1222"/>
-	<note>
-		X
-	</note>
-	<outline>
-		<component base="_quadriliumstroke"/>
-		<component base="X" xOffset="301"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>X</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="1222"/>
+  <note>
+X
+</note>
+  <outline>
+    <component base="_quadriliumstroke"/>
+    <component base="X" xOffset="301" identifier="7CFB5644"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-19 16:37:50 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>7CFB5644</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

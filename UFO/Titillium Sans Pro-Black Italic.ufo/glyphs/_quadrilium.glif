@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="_quadrilium" format="2">
-	<advance width="1183"/>
-	<outline>
-		<contour>
-			<point x="162" y="904" type="line"/>
-			<point x="1296" y="904" type="line"/>
-			<point x="1054" y="-230" type="line"/>
-			<point x="-80" y="-230" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>_quadriliumstroke</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>_quadriliumstroke</string>
-		</dict>
-	</lib>
+  <advance width="1183"/>
+  <outline>
+    <contour>
+      <point x="162" y="904" type="line"/>
+      <point x="1296" y="904" type="line"/>
+      <point x="1054" y="-230" type="line"/>
+      <point x="-80" y="-230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 16:05:18 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_quadriliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_quadriliumstroke</string>
+    </dict>
+  </lib>
 </glyph>

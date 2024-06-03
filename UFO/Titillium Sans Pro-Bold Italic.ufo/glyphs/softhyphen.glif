@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="softhyphen" format="2">
-	<advance width="0"/>
-	<unicode hex="00AD"/>
-	<note>
-		softhyphen
-	</note>
-	<outline>
-		<contour>
-			<point x="178" y="337" type="line"/>
-			<point x="-142" y="337" type="line"/>
-			<point x="-168" y="217" type="line"/>
-			<point x="152" y="217" type="line"/>
-		</contour>
-	</outline>
+  <advance width="0"/>
+  <unicode hex="00AD"/>
+  <note>
+softhyphen
+</note>
+  <outline>
+    <contour>
+      <point x="178" y="337" type="line"/>
+      <point x="-142" y="337" type="line"/>
+      <point x="-168" y="217" type="line"/>
+      <point x="152" y="217" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

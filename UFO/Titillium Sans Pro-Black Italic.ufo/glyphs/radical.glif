@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="radical" format="2">
-	<advance width="727"/>
-	<unicode hex="221A"/>
-	<note>
-		radical
-	</note>
-	<outline>
-		<contour>
-			<point x="349" y="448" type="line"/>
-			<point x="70" y="448" type="line"/>
-			<point x="31" y="264" type="line"/>
-			<point x="131" y="264" type="line"/>
-			<point x="121" y="-200" type="line"/>
-			<point x="474" y="-200" type="line"/>
-			<point x="818" y="730" type="line"/>
-			<point x="588" y="730" type="line"/>
-			<point x="341" y="13" type="line"/>
-			<point x="321" y="13" type="line"/>
-		</contour>
-	</outline>
+  <advance width="727"/>
+  <unicode hex="221A"/>
+  <note>
+radical
+</note>
+  <outline>
+    <contour>
+      <point x="349" y="448" type="line"/>
+      <point x="70" y="448" type="line"/>
+      <point x="31" y="264" type="line"/>
+      <point x="131" y="264" type="line"/>
+      <point x="121" y="-200" type="line"/>
+      <point x="474" y="-200" type="line"/>
+      <point x="818" y="730" type="line"/>
+      <point x="588" y="730" type="line"/>
+      <point x="341" y="13" type="line"/>
+      <point x="321" y="13" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

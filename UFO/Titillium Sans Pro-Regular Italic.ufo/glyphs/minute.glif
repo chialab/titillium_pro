@@ -1,21 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="minute" format="2">
-	<advance width="246"/>
-	<unicode hex="2032"/>
-	<outline>
-		<contour>
-			<point x="270" y="660" type="line"/>
-			<point x="193" y="660" type="line"/>
-			<point x="102" y="438" type="line"/>
-			<point x="169" y="438" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>quotesingle</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>quotesingle</string>
-		</dict>
-	</lib>
+  <advance width="246"/>
+  <unicode hex="2032"/>
+  <outline>
+    <contour>
+      <point x="270" y="660" type="line"/>
+      <point x="193" y="660" type="line"/>
+      <point x="102" y="438" type="line"/>
+      <point x="169" y="438" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 18:17:06 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>quotesingle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>quotesingle</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,35 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="yen" format="2">
-	<advance width="611"/>
-	<unicode hex="00A5"/>
-	<note>
-		yen
-	</note>
-	<outline>
-		<contour>
-			<point x="182" y="0" type="line"/>
-			<point x="316" y="0" type="line"/>
-			<point x="335" y="88" type="line"/>
-			<point x="482" y="88" type="line"/>
-			<point x="505" y="198" type="line"/>
-			<point x="358" y="198" type="line"/>
-			<point x="372" y="262" type="line"/>
-			<point x="519" y="262" type="line"/>
-			<point x="542" y="372" type="line"/>
-			<point x="453" y="372" type="line"/>
-			<point x="676" y="660" type="line"/>
-			<point x="520" y="660" type="line"/>
-			<point x="327" y="392" type="line"/>
-			<point x="240" y="660" type="line"/>
-			<point x="100" y="660" type="line"/>
-			<point x="202" y="372" type="line"/>
-			<point x="114" y="372" type="line"/>
-			<point x="91" y="262" type="line"/>
-			<point x="238" y="262" type="line"/>
-			<point x="224" y="198" type="line"/>
-			<point x="77" y="198" type="line"/>
-			<point x="54" y="88" type="line"/>
-			<point x="201" y="88" type="line"/>
-		</contour>
-	</outline>
+  <advance width="611"/>
+  <unicode hex="00A5"/>
+  <note>
+yen
+</note>
+  <outline>
+    <contour>
+      <point x="182" y="0" type="line"/>
+      <point x="316" y="0" type="line"/>
+      <point x="335" y="88" type="line"/>
+      <point x="482" y="88" type="line"/>
+      <point x="505" y="198" type="line"/>
+      <point x="358" y="198" type="line"/>
+      <point x="372" y="262" type="line"/>
+      <point x="519" y="262" type="line"/>
+      <point x="542" y="372" type="line"/>
+      <point x="453" y="372" type="line"/>
+      <point x="676" y="660" type="line"/>
+      <point x="520" y="660" type="line"/>
+      <point x="327" y="392" type="line"/>
+      <point x="240" y="660" type="line"/>
+      <point x="100" y="660" type="line"/>
+      <point x="202" y="372" type="line"/>
+      <point x="114" y="372" type="line"/>
+      <point x="91" y="262" type="line"/>
+      <point x="238" y="262" type="line"/>
+      <point x="224" y="198" type="line"/>
+      <point x="77" y="198" type="line"/>
+      <point x="54" y="88" type="line"/>
+      <point x="201" y="88" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

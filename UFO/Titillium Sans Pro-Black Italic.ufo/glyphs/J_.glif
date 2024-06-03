@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-	<advance width="345"/>
-	<unicode hex="004A"/>
-	<note>
-		J
-	</note>
-	<outline>
-		<contour>
-			<point x="290" y="183" type="curve" smooth="yes"/>
-			<point x="403" y="710" type="line"/>
-			<point x="176" y="710" type="line"/>
-			<point x="81" y="268" type="line" smooth="yes"/>
-			<point x="64" y="187"/>
-			<point x="60" y="184"/>
-			<point x="8" y="184" type="curve"/>
-			<point x="-32" y="-7" type="line"/>
-			<point x="196" y="-7"/>
-			<point x="256" y="25"/>
-		</contour>
-	</outline>
+  <advance width="345"/>
+  <unicode hex="004A"/>
+  <note>
+J
+</note>
+  <outline>
+    <contour>
+      <point x="290" y="183" type="curve" smooth="yes"/>
+      <point x="403" y="710" type="line"/>
+      <point x="176" y="710" type="line"/>
+      <point x="81" y="268" type="line" smooth="yes"/>
+      <point x="64" y="187"/>
+      <point x="60" y="184"/>
+      <point x="8" y="184" type="curve"/>
+      <point x="-32" y="-7" type="line"/>
+      <point x="196" y="-7"/>
+      <point x="256" y="25"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-	<advance width="632"/>
-	<unicode hex="004E"/>
-	<note>
-		N
-	</note>
-	<outline>
-		<contour>
-			<point x="273" y="700" type="line"/>
-			<point x="188" y="700" type="line"/>
-			<point x="40" y="0" type="line"/>
-			<point x="75" y="0" type="line"/>
-			<point x="216" y="666" type="line"/>
-			<point x="246" y="666" type="line"/>
-			<point x="402" y="0" type="line"/>
-			<point x="487" y="0" type="line"/>
-			<point x="637" y="700" type="line"/>
-			<point x="602" y="700" type="line"/>
-			<point x="459" y="34" type="line"/>
-			<point x="429" y="34" type="line"/>
-		</contour>
-	</outline>
+  <advance width="632"/>
+  <unicode hex="004E"/>
+  <note>
+N
+</note>
+  <outline>
+    <contour>
+      <point x="273" y="700" type="line"/>
+      <point x="188" y="700" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="216" y="666" type="line"/>
+      <point x="246" y="666" type="line"/>
+      <point x="402" y="0" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="637" y="700" type="line"/>
+      <point x="602" y="700" type="line"/>
+      <point x="459" y="34" type="line"/>
+      <point x="429" y="34" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

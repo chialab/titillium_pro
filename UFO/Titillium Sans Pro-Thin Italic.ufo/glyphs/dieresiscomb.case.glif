@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
-	<advance width="225"/>
-	<note>
-		dieresiscomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="174" y="880" type="line"/>
-			<point x="134" y="880" type="line"/>
-			<point x="122" y="822" type="line"/>
-			<point x="162" y="822" type="line"/>
-		</contour>
-		<contour>
-			<point x="359" y="880" type="line"/>
-			<point x="319" y="880" type="line"/>
-			<point x="307" y="822" type="line"/>
-			<point x="347" y="822" type="line"/>
-		</contour>
-	</outline>
+  <advance width="225"/>
+  <note>
+dieresiscomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="174" y="880" type="line"/>
+      <point x="134" y="880" type="line"/>
+      <point x="122" y="822" type="line"/>
+      <point x="162" y="822" type="line"/>
+    </contour>
+    <contour>
+      <point x="359" y="880" type="line"/>
+      <point x="319" y="880" type="line"/>
+      <point x="307" y="822" type="line"/>
+      <point x="347" y="822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="macroncomb.case" format="2">
-	<advance width="267"/>
-	<note>
-		macroncomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="395" y="854" type="line"/>
-			<point x="128" y="854" type="line"/>
-			<point x="122" y="822" type="line"/>
-			<point x="389" y="822" type="line"/>
-		</contour>
-	</outline>
+  <advance width="267"/>
+  <note>
+macroncomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="395" y="854" type="line"/>
+      <point x="128" y="854" type="line"/>
+      <point x="122" y="822" type="line"/>
+      <point x="389" y="822" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

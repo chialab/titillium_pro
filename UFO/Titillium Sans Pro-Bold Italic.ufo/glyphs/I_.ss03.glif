@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I.ss03" format="2">
-	<advance width="1275"/>
-	<note>
-		I
-	</note>
-	<outline>
-		<component base="_sferiliumstroke"/>
-		<component base="I" xOffset="497"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>I</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>_sferiliumstroke</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>_sferiliumstroke</string>
-		</dict>
-	</lib>
+  <advance width="1275"/>
+  <note>
+I
+</note>
+  <outline>
+    <component base="_sferiliumstroke"/>
+    <component base="I" xOffset="497" identifier="CF16F13D"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 12:58:26 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>CF16F13D</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

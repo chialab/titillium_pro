@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="F.ss06" format="2">
-	<advance width="1222"/>
-	<outline>
-		<contour>
-			<point x="164" y="904" type="line"/>
-			<point x="1298" y="904" type="line"/>
-			<point x="1056" y="-230" type="line"/>
-			<point x="-78" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="899" y="700" type="line"/>
-			<point x="525" y="700" type="line"/>
-			<point x="376" y="0" type="line"/>
-			<point x="411" y="0" type="line"/>
-			<point x="478" y="316" type="line"/>
-			<point x="766" y="316" type="line"/>
-			<point x="773" y="350" type="line"/>
-			<point x="486" y="350" type="line"/>
-			<point x="553" y="666" type="line"/>
-			<point x="891" y="666" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+      <point x="-78" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="899" y="700" type="line"/>
+      <point x="525" y="700" type="line"/>
+      <point x="376" y="0" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="478" y="316" type="line"/>
+      <point x="766" y="316" type="line"/>
+      <point x="773" y="350" type="line"/>
+      <point x="486" y="350" type="line"/>
+      <point x="553" y="666" type="line"/>
+      <point x="891" y="666" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 16:14:58 +0000</string>
+    </dict>
+  </lib>
 </glyph>

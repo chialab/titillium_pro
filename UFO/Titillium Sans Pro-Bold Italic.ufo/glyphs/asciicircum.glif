@@ -1,19 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asciicircum" format="2">
-	<advance width="560"/>
-	<unicode hex="005E"/>
-	<note>
-		asciicircum
-	</note>
-	<outline>
-		<contour>
-			<point x="190" y="313" type="line"/>
-			<point x="349" y="530" type="line"/>
-			<point x="416" y="313" type="line"/>
-			<point x="547" y="313" type="line"/>
-			<point x="427" y="660" type="line"/>
-			<point x="309" y="660" type="line"/>
-			<point x="41" y="313" type="line"/>
-		</contour>
-	</outline>
+  <advance width="560"/>
+  <unicode hex="005E"/>
+  <note>
+asciicircum
+</note>
+  <outline>
+    <contour>
+      <point x="190" y="313" type="line"/>
+      <point x="349" y="530" type="line"/>
+      <point x="416" y="313" type="line"/>
+      <point x="547" y="313" type="line"/>
+      <point x="427" y="660" type="line"/>
+      <point x="309" y="660" type="line"/>
+      <point x="41" y="313" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

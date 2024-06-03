@@ -1,30 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Nacute" format="2">
-	<advance width="704"/>
-	<unicode hex="0143"/>
-	<note>
-		Nacute
-	</note>
-	<outline>
-		<contour>
-			<point x="582" y="952" type="line"/>
-			<point x="336" y="850" type="line"/>
-			<point x="370" y="763" type="line"/>
-			<point x="628" y="837" type="line"/>
-		</contour>
-		<contour>
-			<point x="411" y="710" type="line"/>
-			<point x="170" y="710" type="line"/>
-			<point x="18" y="0" type="line"/>
-			<point x="151" y="0" type="line"/>
-			<point x="277" y="590" type="line"/>
-			<point x="307" y="590" type="line"/>
-			<point x="342" y="0" type="line"/>
-			<point x="578" y="0" type="line"/>
-			<point x="729" y="710" type="line"/>
-			<point x="596" y="710" type="line"/>
-			<point x="470" y="120" type="line"/>
-			<point x="440" y="120" type="line"/>
-		</contour>
-	</outline>
+  <advance width="704"/>
+  <unicode hex="0143"/>
+  <note>
+Nacute
+</note>
+  <outline>
+    <contour>
+      <point x="582" y="952" type="line"/>
+      <point x="336" y="850" type="line"/>
+      <point x="370" y="763" type="line"/>
+      <point x="628" y="837" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="710" type="line"/>
+      <point x="170" y="710" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="151" y="0" type="line"/>
+      <point x="277" y="590" type="line"/>
+      <point x="307" y="590" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="578" y="0" type="line"/>
+      <point x="729" y="710" type="line"/>
+      <point x="596" y="710" type="line"/>
+      <point x="470" y="120" type="line"/>
+      <point x="440" y="120" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

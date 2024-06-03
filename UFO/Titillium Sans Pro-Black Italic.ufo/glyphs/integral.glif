@@ -1,34 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="integral" format="2">
-	<advance width="394"/>
-	<unicode hex="222B"/>
-	<note>
-		integral
-	</note>
-	<outline>
-		<contour>
-			<point x="242" y="-31" type="curve" smooth="yes"/>
-			<point x="368" y="560" type="line" smooth="yes"/>
-			<point x="374" y="589"/>
-			<point x="384" y="596"/>
-			<point x="456" y="596" type="curve"/>
-			<point x="487" y="743" type="line"/>
-			<point x="487" y="743"/>
-			<point x="394" y="755"/>
-			<point x="362" y="755" type="curve" smooth="yes"/>
-			<point x="232" y="755"/>
-			<point x="187" y="709"/>
-			<point x="159" y="576" type="curve" smooth="yes"/>
-			<point x="34" y="-11" type="line" smooth="yes"/>
-			<point x="27" y="-40"/>
-			<point x="4" y="-51"/>
-			<point x="-56" y="-51" type="curve"/>
-			<point x="-87" y="-198" type="line"/>
-			<point x="-87" y="-198"/>
-			<point x="6" y="-210"/>
-			<point x="38" y="-210" type="curve" smooth="yes"/>
-			<point x="168" y="-210"/>
-			<point x="213" y="-164"/>
-		</contour>
-	</outline>
+  <advance width="394"/>
+  <unicode hex="222B"/>
+  <note>
+integral
+</note>
+  <outline>
+    <contour>
+      <point x="242" y="-31" type="curve" smooth="yes"/>
+      <point x="368" y="560" type="line" smooth="yes"/>
+      <point x="374" y="589"/>
+      <point x="384" y="596"/>
+      <point x="456" y="596" type="curve"/>
+      <point x="487" y="743" type="line"/>
+      <point x="487" y="743"/>
+      <point x="394" y="755"/>
+      <point x="362" y="755" type="curve" smooth="yes"/>
+      <point x="232" y="755"/>
+      <point x="187" y="709"/>
+      <point x="159" y="576" type="curve" smooth="yes"/>
+      <point x="34" y="-11" type="line" smooth="yes"/>
+      <point x="27" y="-40"/>
+      <point x="4" y="-51"/>
+      <point x="-56" y="-51" type="curve"/>
+      <point x="-87" y="-198" type="line"/>
+      <point x="-87" y="-198"/>
+      <point x="6" y="-210"/>
+      <point x="38" y="-210" type="curve" smooth="yes"/>
+      <point x="168" y="-210"/>
+      <point x="213" y="-164"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,25 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lessequal" format="2">
-	<advance width="560"/>
-	<unicode hex="2264"/>
-	<note>
-		lessequal
-	</note>
-	<outline>
-		<contour>
-			<point x="500" y="295" type="line"/>
-			<point x="234" y="353" type="line"/>
-			<point x="524" y="411" type="line"/>
-			<point x="549" y="532" type="line"/>
-			<point x="103" y="422" type="line"/>
-			<point x="75" y="292" type="line"/>
-			<point x="475" y="182" type="line"/>
-		</contour>
-		<contour>
-			<point x="42" y="138" type="line"/>
-			<point x="18" y="22" type="line"/>
-			<point x="441" y="22" type="line"/>
-			<point x="465" y="138" type="line"/>
-		</contour>
-	</outline>
+  <advance width="560"/>
+  <unicode hex="2264"/>
+  <note>
+lessequal
+</note>
+  <outline>
+    <contour>
+      <point x="500" y="295" type="line"/>
+      <point x="234" y="353" type="line"/>
+      <point x="524" y="411" type="line"/>
+      <point x="549" y="532" type="line"/>
+      <point x="103" y="422" type="line"/>
+      <point x="75" y="292" type="line"/>
+      <point x="475" y="182" type="line"/>
+    </contour>
+    <contour>
+      <point x="42" y="138" type="line"/>
+      <point x="18" y="22" type="line"/>
+      <point x="441" y="22" type="line"/>
+      <point x="465" y="138" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

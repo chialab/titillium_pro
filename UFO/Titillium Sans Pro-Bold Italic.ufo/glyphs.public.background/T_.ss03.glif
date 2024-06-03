@@ -1,16 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T.ss03" format="2">
-	<advance width="1275"/>
-	<outline>
-		<contour>
-			<point x="15" y="700" type="line"/>
-			<point x="15" y="630" type="line"/>
-			<point x="225" y="630" type="line"/>
-			<point x="225" y="0" type="line"/>
-			<point x="303" y="0" type="line"/>
-			<point x="303" y="630" type="line"/>
-			<point x="513" y="630" type="line"/>
-			<point x="513" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1275"/>
+  <outline>
+    <contour>
+      <point x="15" y="700" type="line"/>
+      <point x="15" y="630" type="line"/>
+      <point x="225" y="630" type="line"/>
+      <point x="225" y="0" type="line"/>
+      <point x="303" y="0" type="line"/>
+      <point x="303" y="630" type="line"/>
+      <point x="513" y="630" type="line"/>
+      <point x="513" y="700" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Fdotaccent" format="2">
-	<advance width="525"/>
-	<unicode hex="1E1E"/>
-	<note>
-		Fdotaccent
-	</note>
-	<outline>
-		<contour>
-			<point x="500" y="920" type="line"/>
-			<point x="366" y="920" type="line"/>
-			<point x="336" y="777" type="line"/>
-			<point x="470" y="777" type="line"/>
-		</contour>
-		<contour>
-			<point x="595" y="710" type="line"/>
-			<point x="170" y="710" type="line"/>
-			<point x="18" y="0" type="line"/>
-			<point x="155" y="0" type="line"/>
-			<point x="211" y="260" type="line"/>
-			<point x="447" y="260" type="line"/>
-			<point x="472" y="380" type="line"/>
-			<point x="236" y="380" type="line"/>
-			<point x="281" y="590" type="line"/>
-			<point x="570" y="590" type="line"/>
-		</contour>
-	</outline>
+  <advance width="525"/>
+  <unicode hex="1E1E"/>
+  <note>
+Fdotaccent
+</note>
+  <outline>
+    <contour>
+      <point x="500" y="920" type="line"/>
+      <point x="366" y="920" type="line"/>
+      <point x="336" y="777" type="line"/>
+      <point x="470" y="777" type="line"/>
+    </contour>
+    <contour>
+      <point x="595" y="710" type="line"/>
+      <point x="170" y="710" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="211" y="260" type="line"/>
+      <point x="447" y="260" type="line"/>
+      <point x="472" y="380" type="line"/>
+      <point x="236" y="380" type="line"/>
+      <point x="281" y="590" type="line"/>
+      <point x="570" y="590" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

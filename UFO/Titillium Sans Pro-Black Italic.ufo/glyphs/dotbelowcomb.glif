@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotbelowcomb" format="2">
-	<advance width="305"/>
-	<unicode hex="0323"/>
-	<note>
-		dotbelowcomb
-	</note>
-	<outline>
-		<contour>
-			<point x="185" y="-64" type="line"/>
-			<point x="-19" y="-64" type="line"/>
-			<point x="-51" y="-218" type="line"/>
-			<point x="153" y="-218" type="line"/>
-		</contour>
-	</outline>
+  <advance width="305"/>
+  <unicode hex="0323"/>
+  <note>
+dotbelowcomb
+</note>
+  <outline>
+    <contour>
+      <point x="185" y="-64" type="line"/>
+      <point x="-19" y="-64" type="line"/>
+      <point x="-51" y="-218" type="line"/>
+      <point x="153" y="-218" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

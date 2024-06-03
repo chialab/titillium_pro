@@ -1,23 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslash.ss02" format="2">
-	<advance width="386"/>
-	<note>
-		lslash.ss02
-	</note>
-	<outline>
-		<contour>
-			<point x="62" y="0" type="line"/>
-			<point x="193" y="0" type="line"/>
-			<point x="258" y="310" type="line"/>
-			<point x="413" y="371" type="line"/>
-			<point x="387" y="462" type="line"/>
-			<point x="282" y="420" type="line"/>
-			<point x="347" y="730" type="line"/>
-			<point x="216" y="730" type="line"/>
-			<point x="143" y="385" type="line"/>
-			<point x="20" y="335" type="line"/>
-			<point x="46" y="245" type="line"/>
-			<point x="120" y="275" type="line"/>
-		</contour>
-	</outline>
+  <advance width="386"/>
+  <note>
+lslash.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="62" y="0" type="line"/>
+      <point x="193" y="0" type="line"/>
+      <point x="258" y="310" type="line"/>
+      <point x="413" y="371" type="line"/>
+      <point x="387" y="462" type="line"/>
+      <point x="282" y="420" type="line"/>
+      <point x="347" y="730" type="line"/>
+      <point x="216" y="730" type="line"/>
+      <point x="143" y="385" type="line"/>
+      <point x="20" y="335" type="line"/>
+      <point x="46" y="245" type="line"/>
+      <point x="120" y="275" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

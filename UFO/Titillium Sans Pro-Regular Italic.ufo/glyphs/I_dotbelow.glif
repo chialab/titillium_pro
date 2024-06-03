@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Idotbelow" format="2">
-	<advance width="248"/>
-	<unicode hex="1ECA"/>
-	<note>
-		Idotbelow
-	</note>
-	<outline>
-		<contour>
-			<point x="259" y="700" type="line"/>
-			<point x="181" y="700" type="line"/>
-			<point x="32" y="0" type="line"/>
-			<point x="110" y="0" type="line"/>
-		</contour>
-		<contour>
-			<point x="93" y="-82" type="line"/>
-			<point x="20" y="-82" type="line"/>
-			<point x="-1" y="-178" type="line"/>
-			<point x="73" y="-178" type="line"/>
-		</contour>
-	</outline>
+  <advance width="248"/>
+  <unicode hex="1ECA"/>
+  <note>
+Idotbelow
+</note>
+  <outline>
+    <contour>
+      <point x="259" y="700" type="line"/>
+      <point x="181" y="700" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="-82" type="line"/>
+      <point x="20" y="-82" type="line"/>
+      <point x="-1" y="-178" type="line"/>
+      <point x="73" y="-178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

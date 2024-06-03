@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedbl" format="2">
-	<advance width="356"/>
-	<unicode hex="0022"/>
-	<note>
-		quotedbl
-	</note>
-	<outline>
-		<contour>
-			<point x="241" y="730" type="line"/>
-			<point x="164" y="730" type="line"/>
-			<point x="121" y="508" type="line"/>
-			<point x="188" y="508" type="line"/>
-		</contour>
-		<contour>
-			<point x="395" y="730" type="line"/>
-			<point x="318" y="730" type="line"/>
-			<point x="275" y="508" type="line"/>
-			<point x="342" y="508" type="line"/>
-		</contour>
-	</outline>
+  <advance width="356"/>
+  <unicode hex="0022"/>
+  <note>
+quotedbl
+</note>
+  <outline>
+    <contour>
+      <point x="241" y="730" type="line"/>
+      <point x="164" y="730" type="line"/>
+      <point x="121" y="508" type="line"/>
+      <point x="188" y="508" type="line"/>
+    </contour>
+    <contour>
+      <point x="395" y="730" type="line"/>
+      <point x="318" y="730" type="line"/>
+      <point x="275" y="508" type="line"/>
+      <point x="342" y="508" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

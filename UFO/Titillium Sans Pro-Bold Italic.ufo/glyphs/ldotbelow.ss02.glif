@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldotbelow.ss02" format="2">
-	<advance width="255"/>
-	<note>
-		ldotbelow.ss02
-	</note>
-	<outline>
-		<contour>
-			<point x="9" y="0" type="line"/>
-			<point x="140" y="0" type="line"/>
-			<point x="294" y="730" type="line"/>
-			<point x="163" y="730" type="line"/>
-		</contour>
-		<contour>
-			<point x="129" y="-84" type="line"/>
-			<point x="-5" y="-84" type="line"/>
-			<point x="-35" y="-227" type="line"/>
-			<point x="99" y="-227" type="line"/>
-		</contour>
-	</outline>
+  <advance width="255"/>
+  <note>
+ldotbelow.ss02
+</note>
+  <outline>
+    <contour>
+      <point x="9" y="0" type="line"/>
+      <point x="140" y="0" type="line"/>
+      <point x="294" y="730" type="line"/>
+      <point x="163" y="730" type="line"/>
+    </contour>
+    <contour>
+      <point x="129" y="-84" type="line"/>
+      <point x="-5" y="-84" type="line"/>
+      <point x="-35" y="-227" type="line"/>
+      <point x="99" y="-227" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

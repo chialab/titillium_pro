@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="caroncomb.case" format="2">
-	<advance width="272"/>
-	<note>
-		caroncomb.case
-	</note>
-	<outline>
-		<contour>
-			<point x="365" y="908" type="line"/>
-			<point x="254" y="823" type="line"/>
-			<point x="179" y="908" type="line"/>
-			<point x="140" y="908" type="line"/>
-			<point x="235" y="793" type="line"/>
-			<point x="269" y="793" type="line"/>
-			<point x="412" y="908" type="line"/>
-		</contour>
-	</outline>
+  <advance width="272"/>
+  <note>
+caroncomb.case
+</note>
+  <outline>
+    <contour>
+      <point x="365" y="908" type="line"/>
+      <point x="254" y="823" type="line"/>
+      <point x="179" y="908" type="line"/>
+      <point x="140" y="908" type="line"/>
+      <point x="235" y="793" type="line"/>
+      <point x="269" y="793" type="line"/>
+      <point x="412" y="908" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="acute" format="2">
-	<advance width="446"/>
-	<unicode hex="00B4"/>
-	<note>
-		acute
-	</note>
-	<outline>
-		<contour>
-			<point x="455" y="640" type="line"/>
-			<point x="401" y="800" type="line"/>
-			<point x="89" y="680" type="line"/>
-			<point x="123" y="561" type="line"/>
-		</contour>
-	</outline>
+  <advance width="446"/>
+  <unicode hex="00B4"/>
+  <note>
+acute
+</note>
+  <outline>
+    <contour>
+      <point x="455" y="640" type="line"/>
+      <point x="401" y="800" type="line"/>
+      <point x="89" y="680" type="line"/>
+      <point x="123" y="561" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

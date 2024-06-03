@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="comma" format="2">
-	<advance width="258"/>
-	<unicode hex="002C"/>
-	<note>
-		comma
-	</note>
-	<outline>
-		<contour>
-			<point x="200" y="165" type="line"/>
-			<point x="52" y="165" type="line"/>
-			<point x="-60" y="-123" type="line"/>
-			<point x="48" y="-123" type="line"/>
-		</contour>
-	</outline>
+  <advance width="258"/>
+  <unicode hex="002C"/>
+  <note>
+comma
+</note>
+  <outline>
+    <contour>
+      <point x="200" y="165" type="line"/>
+      <point x="52" y="165" type="line"/>
+      <point x="-60" y="-123" type="line"/>
+      <point x="48" y="-123" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

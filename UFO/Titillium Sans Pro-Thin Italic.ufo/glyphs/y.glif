@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="y" format="2">
-	<advance width="453"/>
-	<unicode hex="0079"/>
-	<note>
-		y
-	</note>
-	<outline>
-		<contour>
-			<point x="164" y="32" type="line"/>
-			<point x="123" y="500" type="line"/>
-			<point x="87" y="500" type="line"/>
-			<point x="133" y="0" type="line"/>
-			<point x="165" y="0" type="line"/>
-			<point x="39" y="-230" type="line"/>
-			<point x="78" y="-230" type="line"/>
-			<point x="481" y="500" type="line"/>
-			<point x="443" y="500" type="line"/>
-			<point x="184" y="32" type="line"/>
-		</contour>
-	</outline>
+  <advance width="453"/>
+  <unicode hex="0079"/>
+  <note>
+y
+</note>
+  <outline>
+    <contour>
+      <point x="164" y="32" type="line"/>
+      <point x="123" y="500" type="line"/>
+      <point x="87" y="500" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="165" y="0" type="line"/>
+      <point x="39" y="-230" type="line"/>
+      <point x="78" y="-230" type="line"/>
+      <point x="481" y="500" type="line"/>
+      <point x="443" y="500" type="line"/>
+      <point x="184" y="32" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

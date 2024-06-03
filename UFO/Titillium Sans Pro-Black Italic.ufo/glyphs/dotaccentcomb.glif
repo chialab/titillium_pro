@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb" format="2">
-	<advance width="293"/>
-	<unicode hex="0307"/>
-	<note>
-		dotaccentcomb
-	</note>
-	<outline>
-		<contour>
-			<point x="342" y="730" type="line"/>
-			<point x="150" y="730" type="line"/>
-			<point x="118" y="576" type="line"/>
-			<point x="310" y="576" type="line"/>
-		</contour>
-	</outline>
+  <advance width="293"/>
+  <unicode hex="0307"/>
+  <note>
+dotaccentcomb
+</note>
+  <outline>
+    <contour>
+      <point x="342" y="730" type="line"/>
+      <point x="150" y="730" type="line"/>
+      <point x="118" y="576" type="line"/>
+      <point x="310" y="576" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

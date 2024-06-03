@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Lmacronbelow" format="2">
-	<advance width="484"/>
-	<unicode hex="1E3A"/>
-	<note>
-		Lmacronbelow
-	</note>
-	<outline>
-		<contour>
-			<point x="170" y="710" type="line"/>
-			<point x="18" y="0" type="line"/>
-			<point x="419" y="0" type="line"/>
-			<point x="445" y="122" type="line"/>
-			<point x="181" y="122" type="line"/>
-			<point x="307" y="710" type="line"/>
-		</contour>
-		<contour>
-			<point x="342" y="-84" type="line"/>
-			<point x="55" y="-84" type="line"/>
-			<point x="33" y="-184" type="line"/>
-			<point x="320" y="-184" type="line"/>
-		</contour>
-	</outline>
+  <advance width="484"/>
+  <unicode hex="1E3A"/>
+  <note>
+Lmacronbelow
+</note>
+  <outline>
+    <contour>
+      <point x="170" y="710" type="line"/>
+      <point x="18" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="445" y="122" type="line"/>
+      <point x="181" y="122" type="line"/>
+      <point x="307" y="710" type="line"/>
+    </contour>
+    <contour>
+      <point x="342" y="-84" type="line"/>
+      <point x="55" y="-84" type="line"/>
+      <point x="33" y="-184" type="line"/>
+      <point x="320" y="-184" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>

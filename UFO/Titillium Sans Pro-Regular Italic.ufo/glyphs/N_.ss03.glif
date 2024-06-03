@@ -1,30 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N.ss03" format="2">
-	<advance width="1269"/>
-	<note>
-		N
-	</note>
-	<outline>
-		<component base="_sferiliumstroke"/>
-		<component base="N" xOffset="290"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>-1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>N</string>
-				</dict>
-			</array>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>_sferiliumstroke</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>_sferiliumstroke</string>
-		</dict>
-	</lib>
+  <advance width="1269"/>
+  <note>
+N
+</note>
+  <outline>
+    <component base="_sferiliumstroke"/>
+    <component base="N" xOffset="290" identifier="5B370036"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-29 13:39:23 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>_sferiliumstroke</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5B370036</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

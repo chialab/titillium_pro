@@ -1,37 +1,39 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.ss06" format="2">
-	<advance width="1183"/>
-	<outline>
-		<contour>
-			<point x="164" y="904" type="line"/>
-			<point x="1298" y="904" type="line"/>
-			<point x="1056" y="-230" type="line"/>
-			<point x="-78" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="318" y="142" type="line"/>
-			<point x="640" y="142" type="line"/>
-			<point x="610" y="0" type="line"/>
-			<point x="645" y="0" type="line"/>
-			<point x="675" y="142" type="line"/>
-			<point x="777" y="142" type="line"/>
-			<point x="784" y="174" type="line"/>
-			<point x="682" y="174" type="line"/>
-			<point x="729" y="395" type="line"/>
-			<point x="694" y="395" type="line"/>
-			<point x="647" y="174" type="line"/>
-			<point x="364" y="174" type="line"/>
-			<point x="703" y="660" type="line"/>
-			<point x="661" y="660" type="line"/>
-			<point x="324" y="172" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>four.ss05</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>four.ss05</string>
-		</dict>
-	</lib>
+  <advance width="1183"/>
+  <outline>
+    <contour>
+      <point x="164" y="904" type="line"/>
+      <point x="1298" y="904" type="line"/>
+      <point x="1056" y="-230" type="line"/>
+      <point x="-78" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="318" y="142" type="line"/>
+      <point x="640" y="142" type="line"/>
+      <point x="610" y="0" type="line"/>
+      <point x="645" y="0" type="line"/>
+      <point x="675" y="142" type="line"/>
+      <point x="777" y="142" type="line"/>
+      <point x="784" y="174" type="line"/>
+      <point x="682" y="174" type="line"/>
+      <point x="729" y="395" type="line"/>
+      <point x="694" y="395" type="line"/>
+      <point x="647" y="174" type="line"/>
+      <point x="364" y="174" type="line"/>
+      <point x="703" y="660" type="line"/>
+      <point x="661" y="660" type="line"/>
+      <point x="324" y="172" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-21 17:26:47 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>four.ss05</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>four.ss05</string>
+    </dict>
+  </lib>
 </glyph>

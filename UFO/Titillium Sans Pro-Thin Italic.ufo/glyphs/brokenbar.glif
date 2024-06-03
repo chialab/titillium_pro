@@ -1,22 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="brokenbar" format="2">
-	<advance width="219"/>
-	<unicode hex="00A6"/>
-	<note>
-		brokenbar
-	</note>
-	<outline>
-		<contour>
-			<point x="230" y="730" type="line"/>
-			<point x="195" y="730" type="line"/>
-			<point x="116" y="360" type="line"/>
-			<point x="151" y="360" type="line"/>
-		</contour>
-		<contour>
-			<point x="105" y="140" type="line"/>
-			<point x="70" y="140" type="line"/>
-			<point x="-9" y="-230" type="line"/>
-			<point x="26" y="-230" type="line"/>
-		</contour>
-	</outline>
+  <advance width="219"/>
+  <unicode hex="00A6"/>
+  <note>
+brokenbar
+</note>
+  <outline>
+    <contour>
+      <point x="230" y="730" type="line"/>
+      <point x="195" y="730" type="line"/>
+      <point x="116" y="360" type="line"/>
+      <point x="151" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="105" y="140" type="line"/>
+      <point x="70" y="140" type="line"/>
+      <point x="-9" y="-230" type="line"/>
+      <point x="26" y="-230" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 09:15:18 +0000</string>
+    </dict>
+  </lib>
 </glyph>
