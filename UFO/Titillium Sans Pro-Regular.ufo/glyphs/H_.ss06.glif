@@ -1,29 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H.ss06" format="2">
-	<advance width="1222"/>
-	<note>
-		H
-	</note>
-	<outline>
-		<contour>
-			<point x="44" y="904" type="line"/>
-			<point x="1178" y="904" type="line"/>
-			<point x="1178" y="-230" type="line"/>
-			<point x="44" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="785" y="321" type="line"/>
-			<point x="785" y="0" type="line"/>
-			<point x="863" y="0" type="line"/>
-			<point x="863" y="700" type="line"/>
-			<point x="785" y="700" type="line"/>
-			<point x="785" y="391" type="line"/>
-			<point x="436" y="391" type="line"/>
-			<point x="436" y="700" type="line"/>
-			<point x="358" y="700" type="line"/>
-			<point x="358" y="0" type="line"/>
-			<point x="436" y="0" type="line"/>
-			<point x="436" y="321" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <note>
+H
+</note>
+  <outline>
+    <contour>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+      <point x="44" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="785" y="321" type="line"/>
+      <point x="785" y="0" type="line"/>
+      <point x="863" y="0" type="line"/>
+      <point x="863" y="700" type="line"/>
+      <point x="785" y="700" type="line"/>
+      <point x="785" y="391" type="line"/>
+      <point x="436" y="391" type="line"/>
+      <point x="436" y="700" type="line"/>
+      <point x="358" y="700" type="line"/>
+      <point x="358" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="321" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft.case" format="2">
-	<advance width="382"/>
-	<outline>
-		<contour>
-			<point x="225" y="259" type="line"/>
-			<point x="341" y="352" type="line"/>
-			<point x="240" y="499" type="line"/>
-			<point x="30" y="329" type="line"/>
-			<point x="30" y="189" type="line"/>
-			<point x="240" y="19" type="line"/>
-			<point x="341" y="166" type="line"/>
-		</contour>
-	</outline>
+  <advance width="382"/>
+  <outline>
+    <contour>
+      <point x="225" y="259" type="line"/>
+      <point x="341" y="352" type="line"/>
+      <point x="240" y="499" type="line"/>
+      <point x="30" y="329" type="line"/>
+      <point x="30" y="189" type="line"/>
+      <point x="240" y="19" type="line"/>
+      <point x="341" y="166" type="line"/>
+    </contour>
+  </outline>
 </glyph>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-	<advance width="463"/>
-	<outline>
-		<contour>
-			<point x="101" y="180" type="line"/>
-			<point x="101" y="0" type="line"/>
-			<point x="329" y="0" type="line"/>
-			<point x="329" y="180" type="line"/>
-		</contour>
-	</outline>
+  <advance width="463"/>
+  <outline>
+    <contour>
+      <point x="101" y="180" type="line"/>
+      <point x="101" y="0" type="line"/>
+      <point x="329" y="0" type="line"/>
+      <point x="329" y="180" type="line"/>
+    </contour>
+  </outline>
 </glyph>

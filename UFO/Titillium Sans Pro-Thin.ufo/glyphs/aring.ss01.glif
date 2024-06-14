@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="aring.ss01" format="2">
-	<advance width="533"/>
-	<outline>
-		<component base="a.ss01"/>
-		<component base="ringcomb" xOffset="120"/>
-	</outline>
+  <advance width="533"/>
+  <outline>
+    <component base="a.ss01"/>
+    <component base="ringcomb" xOffset="120"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-06-13 10:31:09 +0000</string>
+    </dict>
+  </lib>
 </glyph>

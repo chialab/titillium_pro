@@ -18,25 +18,25 @@
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>420</integer>
+        <integer>475</integer>
         <key>y</key>
-        <integer>660</integer>
+        <integer>771</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>421</integer>
+        <integer>405</integer>
         <key>y</key>
-        <integer>169</integer>
+        <integer>-206</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
-        <integer>420</integer>
+        <integer>367</integer>
         <key>y</key>
-        <integer>532</integer>
+        <integer>591</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -45,6 +45,14 @@
         <integer>421</integer>
         <key>y</key>
         <integer>184</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>423</integer>
+        <key>y</key>
+        <integer>915</integer>
       </dict>
     </array>
     <key>italicAngle</key>

@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="southEastArrow" format="2">
-	<advance width="614"/>
-	<unicode hex="2198"/>
-	<outline>
-		<component base="upArrow" xScale="-0.7071" xyScale="-0.7071" yScale="-0.7071" yxScale="0.7071" xOffset="279.536" yOffset="712.535"/>
-	</outline>
+  <advance width="614"/>
+  <unicode hex="2198"/>
+  <outline>
+    <component base="upArrow" xScale="-0.7071" xyScale="-0.7071" yScale="-0.7071" yxScale="0.7071" xOffset="279.536" yOffset="712.535"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

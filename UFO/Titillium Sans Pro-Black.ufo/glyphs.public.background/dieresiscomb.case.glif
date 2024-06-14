@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dieresiscomb.case" format="2">
-	<advance width="538"/>
-	<outline>
-		<contour>
-			<point x="70" y="910" type="line"/>
-			<point x="70" y="777" type="line"/>
-			<point x="198" y="777" type="line"/>
-			<point x="198" y="910" type="line"/>
-		</contour>
-		<contour>
-			<point x="286" y="910" type="line"/>
-			<point x="286" y="777" type="line"/>
-			<point x="414" y="777" type="line"/>
-			<point x="414" y="910" type="line"/>
-		</contour>
-	</outline>
+  <advance width="538"/>
+  <outline>
+    <contour>
+      <point x="70" y="910" type="line"/>
+      <point x="70" y="777" type="line"/>
+      <point x="198" y="777" type="line"/>
+      <point x="198" y="910" type="line"/>
+    </contour>
+    <contour>
+      <point x="286" y="910" type="line"/>
+      <point x="286" y="777" type="line"/>
+      <point x="414" y="777" type="line"/>
+      <point x="414" y="910" type="line"/>
+    </contour>
+  </outline>
 </glyph>

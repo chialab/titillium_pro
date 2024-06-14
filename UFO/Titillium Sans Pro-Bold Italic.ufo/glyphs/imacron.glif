@@ -7,10 +7,10 @@ imacron
 </note>
   <outline>
     <contour>
-      <point x="358" y="677" type="line"/>
-      <point x="71" y="677" type="line"/>
-      <point x="49" y="577" type="line"/>
-      <point x="336" y="577" type="line"/>
+      <point x="361" y="687" type="line"/>
+      <point x="74" y="687" type="line"/>
+      <point x="52" y="587" type="line"/>
+      <point x="339" y="587" type="line"/>
     </contour>
     <contour>
       <point x="247" y="500" type="line"/>
@@ -22,7 +22,7 @@ imacron
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-13 10:51:26 +0000</string>
     </dict>
   </lib>
 </glyph>

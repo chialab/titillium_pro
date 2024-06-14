@@ -7,16 +7,16 @@ uhungarumlaut
 </note>
   <outline>
     <contour>
-      <point x="319" y="732" type="line"/>
-      <point x="159" y="634" type="line"/>
-      <point x="170" y="609" type="line"/>
-      <point x="332" y="701" type="line"/>
+      <point x="359" y="732" type="line"/>
+      <point x="199" y="634" type="line"/>
+      <point x="210" y="609" type="line"/>
+      <point x="372" y="701" type="line"/>
     </contour>
     <contour>
-      <point x="469" y="732" type="line"/>
-      <point x="309" y="634" type="line"/>
-      <point x="320" y="609" type="line"/>
-      <point x="482" y="701" type="line"/>
+      <point x="509" y="732" type="line"/>
+      <point x="349" y="634" type="line"/>
+      <point x="360" y="609" type="line"/>
+      <point x="522" y="701" type="line"/>
     </contour>
     <contour>
       <point x="360" y="0" type="line"/>
@@ -50,7 +50,7 @@ uhungarumlaut
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-14 06:31:10 +0000</string>
     </dict>
   </lib>
 </glyph>

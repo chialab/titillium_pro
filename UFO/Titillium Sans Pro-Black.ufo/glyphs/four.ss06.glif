@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four.ss06" format="2">
-	<advance width="1222"/>
-	<note>
-		four
-	</note>
-	<outline>
-		<contour>
-			<point x="44" y="904" type="line"/>
-			<point x="1178" y="904" type="line"/>
-			<point x="1178" y="-230" type="line"/>
-			<point x="44" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="624" y="90" type="line"/>
-			<point x="624" y="10" type="line"/>
-			<point x="851" y="10" type="line"/>
-			<point x="851" y="90" type="line"/>
-			<point x="876" y="90" type="line"/>
-			<point x="876" y="278" type="line"/>
-			<point x="851" y="278" type="line"/>
-			<point x="851" y="398" type="line"/>
-			<point x="645" y="391" type="line"/>
-			<point x="625" y="278" type="line"/>
-			<point x="576" y="278" type="line"/>
-			<point x="705" y="675" type="line"/>
-			<point x="443" y="675" type="line"/>
-			<point x="353" y="252" type="line"/>
-			<point x="353" y="90" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <note>
+four
+</note>
+  <outline>
+    <contour>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+      <point x="44" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="624" y="90" type="line"/>
+      <point x="624" y="10" type="line"/>
+      <point x="851" y="10" type="line"/>
+      <point x="851" y="90" type="line"/>
+      <point x="876" y="90" type="line"/>
+      <point x="876" y="278" type="line"/>
+      <point x="851" y="278" type="line"/>
+      <point x="851" y="398" type="line"/>
+      <point x="645" y="391" type="line"/>
+      <point x="625" y="278" type="line"/>
+      <point x="576" y="278" type="line"/>
+      <point x="705" y="675" type="line"/>
+      <point x="443" y="675" type="line"/>
+      <point x="353" y="252" type="line"/>
+      <point x="353" y="90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

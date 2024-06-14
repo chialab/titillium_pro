@@ -7,19 +7,19 @@ caroncomb
 </note>
   <outline>
     <contour>
-      <point x="353" y="748" type="line"/>
-      <point x="263" y="650" type="line"/>
-      <point x="215" y="748" type="line"/>
-      <point x="105" y="748" type="line"/>
-      <point x="198" y="571" type="line"/>
-      <point x="314" y="571" type="line"/>
-      <point x="483" y="748" type="line"/>
+      <point x="353" y="746" type="line"/>
+      <point x="263" y="648" type="line"/>
+      <point x="215" y="746" type="line"/>
+      <point x="105" y="746" type="line"/>
+      <point x="198" y="569" type="line"/>
+      <point x="314" y="569" type="line"/>
+      <point x="483" y="746" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-13 11:01:34 +0000</string>
     </dict>
   </lib>
 </glyph>

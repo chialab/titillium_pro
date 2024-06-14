@@ -3,7 +3,7 @@
   <advance width="860"/>
   <unicode hex="277E"/>
   <outline>
-    <component base="nine.dnom" xScale="1.1" yScale="1.1" xOffset="295" yOffset="174" identifier="4CA9B0D4"/>
+    <component base="nine.dnom" xScale="1.1" yScale="1.1" xOffset="295" yOffset="174" identifier="13108FA4"/>
     <component base="blackCircle"/>
   </outline>
   <lib>
@@ -16,7 +16,7 @@
       <string>blackCircle</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>4CA9B0D4</key>
+        <key>13108FA4</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

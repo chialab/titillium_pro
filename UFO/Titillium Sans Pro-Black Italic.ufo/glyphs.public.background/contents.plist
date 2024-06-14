@@ -84,6 +84,8 @@
     <string>pdotaccent.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>sheqel</key>
+    <string>sheqel.glif</string>
     <key>two.ss03</key>
     <string>two.ss03.glif</string>
     <key>zero.blackCircled</key>

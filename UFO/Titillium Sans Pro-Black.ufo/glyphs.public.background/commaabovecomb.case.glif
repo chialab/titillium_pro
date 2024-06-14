@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaabovecomb.case" format="2">
-	<advance width="322"/>
-	<outline>
-		<contour>
-			<point x="152" y="952" type="line"/>
-			<point x="75" y="806" type="line"/>
-			<point x="148" y="763" type="line"/>
-			<point x="244" y="899" type="line"/>
-		</contour>
-	</outline>
+  <advance width="322"/>
+  <outline>
+    <contour>
+      <point x="152" y="952" type="line"/>
+      <point x="75" y="806" type="line"/>
+      <point x="148" y="763" type="line"/>
+      <point x="244" y="899" type="line"/>
+    </contour>
+  </outline>
 </glyph>

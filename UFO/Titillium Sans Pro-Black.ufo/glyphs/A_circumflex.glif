@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Acircumflex" format="2">
-	<advance width="657"/>
-	<unicode hex="00C2"/>
-	<outline>
-		<component base="A"/>
-		<component base="circumflexcomb.case" xOffset="86"/>
-	</outline>
+  <advance width="657"/>
+  <unicode hex="00C2"/>
+  <outline>
+    <component base="A"/>
+    <component base="circumflexcomb.case" xOffset="86"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-06-13 10:16:25 +0000</string>
+    </dict>
+  </lib>
 </glyph>

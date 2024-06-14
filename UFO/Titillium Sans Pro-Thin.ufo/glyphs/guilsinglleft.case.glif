@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="guilsinglleft.case" format="2">
-	<advance width="320"/>
-	<outline>
-		<contour>
-			<point x="85" y="361" type="line"/>
-			<point x="248" y="499" type="line"/>
-			<point x="231" y="525" type="line"/>
-			<point x="54" y="376" type="line"/>
-			<point x="54" y="346" type="line"/>
-			<point x="231" y="197" type="line"/>
-			<point x="248" y="223" type="line"/>
-		</contour>
-	</outline>
+  <advance width="320"/>
+  <outline>
+    <contour>
+      <point x="85" y="361" type="line"/>
+      <point x="248" y="499" type="line"/>
+      <point x="231" y="525" type="line"/>
+      <point x="54" y="376" type="line"/>
+      <point x="54" y="346" type="line"/>
+      <point x="231" y="197" type="line"/>
+      <point x="248" y="223" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-17 10:15:34 +0000</string>
+    </dict>
+  </lib>
 </glyph>

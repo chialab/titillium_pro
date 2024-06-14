@@ -7,13 +7,13 @@ zcaron
 </note>
   <outline>
     <contour>
-      <point x="388" y="748" type="line"/>
-      <point x="298" y="650" type="line"/>
-      <point x="250" y="748" type="line"/>
-      <point x="140" y="748" type="line"/>
-      <point x="233" y="571" type="line"/>
-      <point x="349" y="571" type="line"/>
-      <point x="518" y="748" type="line"/>
+      <point x="388" y="746" type="line"/>
+      <point x="298" y="648" type="line"/>
+      <point x="250" y="746" type="line"/>
+      <point x="140" y="746" type="line"/>
+      <point x="233" y="569" type="line"/>
+      <point x="349" y="569" type="line"/>
+      <point x="518" y="746" type="line"/>
     </contour>
     <contour>
       <point x="459" y="510" type="line"/>
@@ -33,7 +33,7 @@ zcaron
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-13 11:01:47 +0000</string>
     </dict>
   </lib>
 </glyph>

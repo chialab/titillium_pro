@@ -1,10 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twofifths" format="2">
-	<advance width="636"/>
-	<unicode hex="2156"/>
-	<outline>
-		<component base="two.numr" xOffset="26"/>
-		<component base="fraction" xOffset="266"/>
-		<component base="five.dnom" xOffset="354"/>
-	</outline>
+  <advance width="636"/>
+  <unicode hex="2156"/>
+  <outline>
+    <component base="two.numr" xOffset="26"/>
+    <component base="fraction" xOffset="266"/>
+    <component base="five.dnom" xOffset="354"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

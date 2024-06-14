@@ -7,10 +7,10 @@ fdotaccent
 </note>
   <outline>
     <contour>
-      <point x="444" y="950" type="line"/>
-      <point x="310" y="950" type="line"/>
-      <point x="280" y="807" type="line"/>
-      <point x="414" y="807" type="line"/>
+      <point x="444" y="940" type="line"/>
+      <point x="310" y="940" type="line"/>
+      <point x="280" y="797" type="line"/>
+      <point x="414" y="797" type="line"/>
     </contour>
     <contour>
       <point x="-10" y="-230" type="line"/>
@@ -42,7 +42,7 @@ fdotaccent
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-13 11:06:12 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="OE" format="2">
-	<advance width="927"/>
-	<outline>
-		<component base="C"/>
-		<component base="E" xOffset="378"/>
-	</outline>
+  <advance width="927"/>
+  <outline>
+    <component base="C"/>
+    <component base="E" xOffset="378"/>
+  </outline>
 </glyph>

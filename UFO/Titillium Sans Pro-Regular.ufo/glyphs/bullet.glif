@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bullet" format="2">
-	<advance width="428"/>
-	<unicode hex="2022"/>
-	<outline>
-		<contour>
-			<point x="89" y="425" type="line"/>
-			<point x="89" y="145" type="line"/>
-			<point x="339" y="145" type="line"/>
-			<point x="339" y="425" type="line"/>
-		</contour>
-	</outline>
+  <advance width="428"/>
+  <unicode hex="2022"/>
+  <outline>
+    <contour>
+      <point x="89" y="425" type="line"/>
+      <point x="89" y="145" type="line"/>
+      <point x="339" y="145" type="line"/>
+      <point x="339" y="425" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

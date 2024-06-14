@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oslash" format="2">
-	<advance width="566"/>
-	<outline>
-		<contour>
-			<point x="298" y="406" type="line"/>
-			<point x="396" y="344" type="line"/>
-			<point x="510" y="555" type="line"/>
-			<point x="408" y="609" type="line"/>
-		</contour>
-		<contour>
-			<point x="266" y="151" type="line"/>
-			<point x="168" y="213" type="line"/>
-			<point x="39" y="-29" type="line"/>
-			<point x="139" y="-85" type="line"/>
-		</contour>
-	</outline>
+  <advance width="566"/>
+  <outline>
+    <contour>
+      <point x="298" y="406" type="line"/>
+      <point x="396" y="344" type="line"/>
+      <point x="510" y="555" type="line"/>
+      <point x="408" y="609" type="line"/>
+    </contour>
+    <contour>
+      <point x="266" y="151" type="line"/>
+      <point x="168" y="213" type="line"/>
+      <point x="39" y="-29" type="line"/>
+      <point x="139" y="-85" type="line"/>
+    </contour>
+  </outline>
 </glyph>

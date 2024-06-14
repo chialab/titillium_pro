@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slashshortcomb_l" format="2">
-	<advance width="211"/>
-	<anchor x="101" y="350" name="_center"/>
-	<outline>
-		<contour>
-			<point x="103" y="330" type="line"/>
-			<point x="110" y="370" type="line"/>
-			<point x="3" y="317" type="line"/>
-			<point x="16" y="286" type="line"/>
-		</contour>
-		<contour>
-			<point x="116" y="369" type="line"/>
-			<point x="109" y="329" type="line"/>
-			<point x="210" y="378" type="line"/>
-			<point x="195" y="409" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="211"/>
+  <anchor x="101" y="350" name="_center"/>
+  <outline>
+    <contour>
+      <point x="103" y="330" type="line"/>
+      <point x="110" y="370" type="line"/>
+      <point x="3" y="317" type="line"/>
+      <point x="16" y="286" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="369" type="line"/>
+      <point x="109" y="329" type="line"/>
+      <point x="210" y="378" type="line"/>
+      <point x="195" y="409" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:27:15 +0000</string>
+    </dict>
+  </lib>
 </glyph>

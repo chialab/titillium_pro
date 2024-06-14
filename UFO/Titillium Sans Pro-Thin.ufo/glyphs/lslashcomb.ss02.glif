@@ -1,25 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslashcomb.ss02" format="2">
-	<advance width="174"/>
-	<anchor x="87" y="358" name="_center"/>
-	<outline>
-		<contour>
-			<point x="82" y="340" type="line"/>
-			<point x="82" y="374" type="line"/>
-			<point x="0" y="346" type="line"/>
-			<point x="0" y="311" type="line"/>
-		</contour>
-		<contour>
-			<point x="92" y="376" type="line"/>
-			<point x="92" y="340" type="line"/>
-			<point x="184" y="373" type="line"/>
-			<point x="184" y="408" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-		</dict>
-	</lib>
+  <advance width="174"/>
+  <anchor x="87" y="358" name="_center"/>
+  <outline>
+    <contour>
+      <point x="82" y="340" type="line"/>
+      <point x="82" y="374" type="line"/>
+      <point x="0" y="346" type="line"/>
+      <point x="0" y="311" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="376" type="line"/>
+      <point x="92" y="340" type="line"/>
+      <point x="184" y="373" type="line"/>
+      <point x="184" y="408" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:27:15 +0000</string>
+    </dict>
+  </lib>
 </glyph>

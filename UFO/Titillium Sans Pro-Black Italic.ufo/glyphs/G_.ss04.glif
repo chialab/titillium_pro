@@ -5,7 +5,7 @@
 G
 </note>
   <outline>
-    <component base="G" xOffset="291" identifier="0BC5CCE7"/>
+    <component base="G" xOffset="291" identifier="DDA134BE"/>
     <component base="_sferilium"/>
   </outline>
   <lib>
@@ -18,7 +18,7 @@ G
       <string>_sferilium</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>0BC5CCE7</key>
+        <key>DDA134BE</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

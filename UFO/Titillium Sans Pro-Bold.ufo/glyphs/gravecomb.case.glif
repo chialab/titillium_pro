@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="gravecomb.case" format="2">
-	<advance width="406"/>
-	<anchor x="203" y="710" name="_top"/>
-	<anchor x="203" y="943" name="top"/>
-	<outline>
-		<contour>
-			<point x="356" y="850" type="line"/>
-			<point x="88" y="952" type="line"/>
-			<point x="50" y="837" type="line"/>
-			<point x="328" y="763" type="line"/>
-		</contour>
-	</outline>
+  <advance width="406"/>
+  <anchor x="203" y="710" name="_top"/>
+  <anchor x="203" y="943" name="top"/>
+  <outline>
+    <contour>
+      <point x="356" y="850" type="line"/>
+      <point x="88" y="952" type="line"/>
+      <point x="50" y="837" type="line"/>
+      <point x="328" y="763" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

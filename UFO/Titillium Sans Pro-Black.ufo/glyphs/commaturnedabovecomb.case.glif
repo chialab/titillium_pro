@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaturnedabovecomb.case" format="2">
-	<advance width="322"/>
-	<anchor x="161" y="710" name="_top"/>
-	<anchor x="161" y="954" name="top"/>
-	<outline>
-		<component base="commaabovecomb" xScale="-1" yScale="-1" xOffset="322" yOffset="1522"/>
-	</outline>
+  <advance width="322"/>
+  <anchor x="161" y="710" name="_top"/>
+  <anchor x="161" y="954" name="top"/>
+  <outline>
+    <component base="commaabovecomb" xScale="-1" yScale="-1" xOffset="322" yOffset="1522"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

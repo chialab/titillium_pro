@@ -1,16 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="idotless" format="2">
-	<advance width="258"/>
-	<unicode hex="0131"/>
-	<anchor x="129" y="0" name="bottom"/>
-	<anchor x="196" y="0" name="ogonek"/>
-	<anchor x="129" y="510" name="top"/>
-	<outline>
-		<contour>
-			<point x="62" y="510" type="line"/>
-			<point x="62" y="0" type="line"/>
-			<point x="196" y="0" type="line"/>
-			<point x="196" y="510" type="line"/>
-		</contour>
-	</outline>
+  <advance width="258"/>
+  <unicode hex="0131"/>
+  <anchor x="129" y="0" name="bottom"/>
+  <anchor x="196" y="0" name="ogonek"/>
+  <anchor x="129" y="510" name="top"/>
+  <outline>
+    <contour>
+      <point x="62" y="510" type="line"/>
+      <point x="62" y="0" type="line"/>
+      <point x="196" y="0" type="line"/>
+      <point x="196" y="510" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

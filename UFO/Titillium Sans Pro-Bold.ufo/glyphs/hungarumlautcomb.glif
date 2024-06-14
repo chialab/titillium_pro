@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlautcomb" format="2">
-	<advance width="595"/>
-	<unicode hex="030B"/>
-	<anchor x="298" y="510" name="_top"/>
-	<anchor x="298" y="784" name="top"/>
-	<outline>
-		<contour>
-			<point x="50" y="639" type="line"/>
-			<point x="97" y="564" type="line"/>
-			<point x="295" y="678" type="line"/>
-			<point x="231" y="784" type="line"/>
-		</contour>
-		<contour>
-			<point x="300" y="639" type="line"/>
-			<point x="347" y="564" type="line"/>
-			<point x="545" y="678" type="line"/>
-			<point x="481" y="784" type="line"/>
-		</contour>
-	</outline>
+  <advance width="595"/>
+  <unicode hex="030B"/>
+  <anchor x="268" y="510" name="_top"/>
+  <anchor x="298" y="784" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="639" type="line"/>
+      <point x="97" y="564" type="line"/>
+      <point x="295" y="678" type="line"/>
+      <point x="231" y="784" type="line"/>
+    </contour>
+    <contour>
+      <point x="300" y="639" type="line"/>
+      <point x="347" y="564" type="line"/>
+      <point x="545" y="678" type="line"/>
+      <point x="481" y="784" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-06-13 10:37:07 +0000</string>
+    </dict>
+  </lib>
 </glyph>

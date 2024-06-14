@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="greaterequal" format="2">
-	<advance width="560"/>
-	<outline>
-		<contour>
-			<point x="494" y="40" type="line"/>
-			<point x="494" y="108" type="line"/>
-			<point x="71" y="108" type="line"/>
-			<point x="71" y="40" type="line"/>
-		</contour>
-		<contour>
-			<point x="407" y="345" type="line"/>
-			<point x="71" y="232" type="line"/>
-			<point x="71" y="160" type="line"/>
-			<point x="494" y="310" type="line"/>
-			<point x="494" y="380" type="line"/>
-			<point x="71" y="530" type="line"/>
-			<point x="71" y="458" type="line"/>
-		</contour>
-	</outline>
+  <advance width="560"/>
+  <outline>
+    <contour>
+      <point x="494" y="40" type="line"/>
+      <point x="494" y="108" type="line"/>
+      <point x="71" y="108" type="line"/>
+      <point x="71" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="407" y="345" type="line"/>
+      <point x="71" y="232" type="line"/>
+      <point x="71" y="160" type="line"/>
+      <point x="494" y="310" type="line"/>
+      <point x="494" y="380" type="line"/>
+      <point x="71" y="530" type="line"/>
+      <point x="71" y="458" type="line"/>
+    </contour>
+  </outline>
 </glyph>

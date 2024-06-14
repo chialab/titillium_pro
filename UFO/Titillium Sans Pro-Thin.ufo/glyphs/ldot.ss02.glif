@@ -1,23 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ldot.ss02" format="2">
-	<advance width="249"/>
-	<outline>
-		<component base="l.ss02"/>
-		<component base="periodcentered.loclCAT.ss02" xOffset="199"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
-			<array>
-				<dict>
-					<key>alignment</key>
-					<integer>1</integer>
-					<key>index</key>
-					<integer>1</integer>
-					<key>name</key>
-					<string>periodcentered.loclCAT.ss02</string>
-				</dict>
-			</array>
-		</dict>
-	</lib>
+  <advance width="249"/>
+  <outline>
+    <component base="l.ss02"/>
+    <component base="periodcentered.loclCAT.ss02" xOffset="199" identifier="E3868015"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>E3868015</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

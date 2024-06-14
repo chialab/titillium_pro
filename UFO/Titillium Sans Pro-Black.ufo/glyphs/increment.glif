@@ -1,21 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="increment" format="2">
-	<advance width="606"/>
-	<unicode hex="2206"/>
-	<outline>
-		<contour>
-			<point x="161" y="673" type="line"/>
-			<point x="17" y="162" type="line"/>
-			<point x="17" y="0" type="line"/>
-			<point x="589" y="0" type="line"/>
-			<point x="589" y="162" type="line"/>
-			<point x="445" y="673" type="line"/>
-		</contour>
-		<contour>
-			<point x="293" y="512" type="line"/>
-			<point x="314" y="512" type="line"/>
-			<point x="396" y="178" type="line"/>
-			<point x="210" y="178" type="line"/>
-		</contour>
-	</outline>
+  <advance width="606"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="161" y="673" type="line"/>
+      <point x="17" y="162" type="line"/>
+      <point x="17" y="0" type="line"/>
+      <point x="589" y="0" type="line"/>
+      <point x="589" y="162" type="line"/>
+      <point x="445" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="293" y="512" type="line"/>
+      <point x="314" y="512" type="line"/>
+      <point x="396" y="178" type="line"/>
+      <point x="210" y="178" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

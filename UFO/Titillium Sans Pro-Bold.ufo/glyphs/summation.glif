@@ -1,24 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="summation" format="2">
-	<advance width="576"/>
-	<unicode hex="2211"/>
-	<outline>
-		<contour>
-			<point x="42" y="610" type="line"/>
-			<point x="280" y="298" type="line"/>
-			<point x="32" y="-41" type="line"/>
-			<point x="32" y="-180" type="line"/>
-			<point x="542" y="-180" type="line"/>
-			<point x="542" y="-60" type="line"/>
-			<point x="178" y="-60" type="line"/>
-			<point x="178" y="-45" type="line"/>
-			<point x="403" y="251" type="line"/>
-			<point x="403" y="344" type="line"/>
-			<point x="188" y="615" type="line"/>
-			<point x="188" y="630" type="line"/>
-			<point x="542" y="630" type="line"/>
-			<point x="542" y="750" type="line"/>
-			<point x="42" y="750" type="line"/>
-		</contour>
-	</outline>
+  <advance width="576"/>
+  <unicode hex="2211"/>
+  <outline>
+    <contour>
+      <point x="42" y="610" type="line"/>
+      <point x="280" y="298" type="line"/>
+      <point x="32" y="-41" type="line"/>
+      <point x="32" y="-180" type="line"/>
+      <point x="542" y="-180" type="line"/>
+      <point x="542" y="-60" type="line"/>
+      <point x="178" y="-60" type="line"/>
+      <point x="178" y="-45" type="line"/>
+      <point x="403" y="251" type="line"/>
+      <point x="403" y="344" type="line"/>
+      <point x="188" y="615" type="line"/>
+      <point x="188" y="630" type="line"/>
+      <point x="542" y="630" type="line"/>
+      <point x="542" y="750" type="line"/>
+      <point x="42" y="750" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:53:17 +0000</string>
+    </dict>
+  </lib>
 </glyph>

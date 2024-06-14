@@ -1,23 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-	<advance width="546"/>
-	<unicode hex="0054"/>
-	<anchor x="272" y="0" name="bottom"/>
-	<anchor x="272" y="330" name="center"/>
-	<anchor x="272" y="710" name="top"/>
-	<note>
-		T
-	</note>
-	<outline>
-		<contour>
-			<point x="14" y="710" type="line"/>
-			<point x="14" y="588" type="line"/>
-			<point x="204" y="588" type="line"/>
-			<point x="204" y="0" type="line"/>
-			<point x="342" y="0" type="line"/>
-			<point x="342" y="588" type="line"/>
-			<point x="532" y="588" type="line"/>
-			<point x="532" y="710" type="line"/>
-		</contour>
-	</outline>
+  <advance width="546"/>
+  <unicode hex="0054"/>
+  <note>
+T
+</note>
+  <anchor x="272" y="0" name="bottom"/>
+  <anchor x="272" y="330" name="center"/>
+  <anchor x="272" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="14" y="710" type="line"/>
+      <point x="14" y="588" type="line"/>
+      <point x="204" y="588" type="line"/>
+      <point x="204" y="0" type="line"/>
+      <point x="342" y="0" type="line"/>
+      <point x="342" y="588" type="line"/>
+      <point x="532" y="588" type="line"/>
+      <point x="532" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -776,6 +776,9 @@ lookup SUB_55;
 } calt;
 
 feature ss01 {
+featureNames {
+	name "One story a";
+};
 script DFLT;
 language dflt;
 lookup SUB_43 {
@@ -819,6 +822,9 @@ lookup SUB_43;
 } ss01;
 
 feature ss02 {
+featureNames {
+	name "Straight l";
+};
 script DFLT;
 language dflt;
 lookup SUB_44 {
@@ -860,6 +866,9 @@ lookup SUB_44;
 } ss02;
 
 feature ss03 {
+featureNames {
+	name "Uppercase list circled stroke";
+};
 script DFLT;
 language dflt;
 lookup SUB_45 {
@@ -926,6 +935,9 @@ lookup SUB_45;
 } ss03;
 
 feature ss04 {
+featureNames {
+	name "Uppercase list circled fill";
+};
 script DFLT;
 language dflt;
 lookup SUB_50 {
@@ -992,6 +1004,9 @@ lookup SUB_50;
 } ss04;
 
 feature ss05 {
+featureNames {
+	name "Uppercase list square stroke";
+};
 script DFLT;
 language dflt;
 lookup SUB_51 {
@@ -1058,6 +1073,9 @@ lookup SUB_51;
 } ss05;
 
 feature ss06 {
+featureNames {
+	name "Uppercase list square fill";
+};
 script DFLT;
 language dflt;
 lookup SUB_52 {

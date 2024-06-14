@@ -1,20 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dagger" format="2">
-	<advance width="472"/>
-	<outline>
-		<contour>
-			<point x="20" y="500" type="line"/>
-			<point x="20" y="386" type="line"/>
-			<point x="175" y="386" type="line"/>
-			<point x="190" y="-230" type="line"/>
-			<point x="294" y="-230" type="line"/>
-			<point x="309" y="386" type="line"/>
-			<point x="464" y="386" type="line"/>
-			<point x="464" y="500" type="line"/>
-			<point x="309" y="500" type="line"/>
-			<point x="309" y="700" type="line"/>
-			<point x="175" y="700" type="line"/>
-			<point x="175" y="500" type="line"/>
-		</contour>
-	</outline>
+  <advance width="472"/>
+  <outline>
+    <contour>
+      <point x="20" y="500" type="line"/>
+      <point x="20" y="386" type="line"/>
+      <point x="175" y="386" type="line"/>
+      <point x="190" y="-230" type="line"/>
+      <point x="294" y="-230" type="line"/>
+      <point x="309" y="386" type="line"/>
+      <point x="464" y="386" type="line"/>
+      <point x="464" y="500" type="line"/>
+      <point x="309" y="500" type="line"/>
+      <point x="309" y="700" type="line"/>
+      <point x="175" y="700" type="line"/>
+      <point x="175" y="500" type="line"/>
+    </contour>
+  </outline>
 </glyph>

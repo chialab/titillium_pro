@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-	<advance width="302"/>
-	<unicode hex="006C"/>
-	<anchor x="183" y="0" name="bottom"/>
-	<anchor x="154" y="365" name="center"/>
-	<anchor x="125" y="730" name="top"/>
-	<anchor x="222" y="730" name="topright"/>
-	<note>
-		l
-	</note>
-	<outline>
-		<contour>
-			<point x="193" y="177" type="curve" smooth="yes"/>
-			<point x="193" y="730" type="line"/>
-			<point x="59" y="730" type="line"/>
-			<point x="59" y="144" type="line" smooth="yes"/>
-			<point x="59" y="32"/>
-			<point x="94" y="-14"/>
-			<point x="205" y="-14" type="curve" smooth="yes"/>
-			<point x="240" y="-14"/>
-			<point x="286" y="1"/>
-			<point x="286" y="1" type="curve"/>
-			<point x="280" y="106" type="line"/>
-			<point x="280" y="106"/>
-			<point x="254" y="104"/>
-			<point x="226" y="104" type="curve" smooth="yes"/>
-			<point x="194" y="104"/>
-			<point x="193" y="127"/>
-		</contour>
-	</outline>
+  <advance width="302"/>
+  <unicode hex="006C"/>
+  <note>
+l
+</note>
+  <anchor x="183" y="0" name="bottom"/>
+  <anchor x="154" y="365" name="center"/>
+  <anchor x="125" y="730" name="top"/>
+  <anchor x="222" y="730" name="topright"/>
+  <outline>
+    <contour>
+      <point x="193" y="177" type="curve" smooth="yes"/>
+      <point x="193" y="730" type="line"/>
+      <point x="59" y="730" type="line"/>
+      <point x="59" y="144" type="line" smooth="yes"/>
+      <point x="59" y="32"/>
+      <point x="94" y="-14"/>
+      <point x="205" y="-14" type="curve" smooth="yes"/>
+      <point x="240" y="-14"/>
+      <point x="286" y="1"/>
+      <point x="286" y="1" type="curve"/>
+      <point x="280" y="106" type="line"/>
+      <point x="280" y="106"/>
+      <point x="254" y="104"/>
+      <point x="226" y="104" type="curve" smooth="yes"/>
+      <point x="194" y="104"/>
+      <point x="193" y="127"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

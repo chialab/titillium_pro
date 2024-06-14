@@ -1,13 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bar" format="2">
-	<advance width="246"/>
-	<unicode hex="007C"/>
-	<outline>
-		<contour>
-			<point x="86" y="730" type="line"/>
-			<point x="86" y="-230" type="line"/>
-			<point x="160" y="-230" type="line"/>
-			<point x="160" y="730" type="line"/>
-		</contour>
-	</outline>
+  <advance width="246"/>
+  <unicode hex="007C"/>
+  <outline>
+    <contour>
+      <point x="86" y="730" type="line"/>
+      <point x="86" y="-230" type="line"/>
+      <point x="160" y="-230" type="line"/>
+      <point x="160" y="730" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

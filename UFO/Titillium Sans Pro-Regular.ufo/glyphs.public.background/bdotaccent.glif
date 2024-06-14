@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="bdotaccent" format="2">
-	<advance width="529"/>
-	<outline>
-		<component base="dotaccentcomb.case"/>
-	</outline>
+  <advance width="529"/>
+  <outline>
+    <component base="dotaccentcomb.case"/>
+  </outline>
 </glyph>

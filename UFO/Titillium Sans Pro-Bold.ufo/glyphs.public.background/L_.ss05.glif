@@ -1,14 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L.ss05" format="2">
-	<advance width="1222"/>
-	<outline>
-		<contour>
-			<point x="83" y="0" type="line"/>
-			<point x="464" y="0" type="line"/>
-			<point x="464" y="68" type="line"/>
-			<point x="161" y="68" type="line"/>
-			<point x="161" y="700" type="line"/>
-			<point x="83" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="83" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="68" type="line"/>
+      <point x="161" y="68" type="line"/>
+      <point x="161" y="700" type="line"/>
+      <point x="83" y="700" type="line"/>
+    </contour>
+  </outline>
 </glyph>

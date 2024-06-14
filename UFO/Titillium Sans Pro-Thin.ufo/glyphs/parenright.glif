@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="parenright" format="2">
-	<advance width="230"/>
-	<unicode hex="0029"/>
-	<outline>
-		<component base="parenleft" xScale="-1" xOffset="230"/>
-	</outline>
+  <advance width="230"/>
+  <unicode hex="0029"/>
+  <outline>
+    <component base="parenleft" xScale="-1" xOffset="230"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slashshortcomb_l" format="2">
-	<advance width="381"/>
-	<outline>
-		<contour>
-			<point x="206" y="279" type="line"/>
-			<point x="216" y="393" type="line"/>
-			<point x="-42" y="262" type="line"/>
-			<point x="4" y="172" type="line"/>
-		</contour>
-		<contour>
-			<point x="215" y="374" type="line"/>
-			<point x="204" y="260" type="line"/>
-			<point x="419" y="366" type="line"/>
-			<point x="373" y="457" type="line"/>
-		</contour>
-	</outline>
+  <advance width="381"/>
+  <outline>
+    <contour>
+      <point x="206" y="279" type="line"/>
+      <point x="216" y="393" type="line"/>
+      <point x="-42" y="262" type="line"/>
+      <point x="4" y="172" type="line"/>
+    </contour>
+    <contour>
+      <point x="215" y="374" type="line"/>
+      <point x="204" y="260" type="line"/>
+      <point x="419" y="366" type="line"/>
+      <point x="373" y="457" type="line"/>
+    </contour>
+  </outline>
 </glyph>

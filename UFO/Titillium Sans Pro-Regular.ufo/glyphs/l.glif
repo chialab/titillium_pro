@@ -1,32 +1,38 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="l" format="2">
-	<advance width="268"/>
-	<unicode hex="006C"/>
-	<anchor x="170" y="0" name="bottom"/>
-	<anchor x="108" y="365" name="center"/>
-	<anchor x="108" y="730" name="top"/>
-	<anchor x="202" y="730" name="topright"/>
-	<note>
-		l
-	</note>
-	<outline>
-		<contour>
-			<point x="146" y="131" type="curve" smooth="yes"/>
-			<point x="146" y="730" type="line"/>
-			<point x="70" y="730" type="line"/>
-			<point x="70" y="101" type="line" smooth="yes"/>
-			<point x="70" y="27"/>
-			<point x="110" y="-12"/>
-			<point x="193" y="-12" type="curve" smooth="yes"/>
-			<point x="228" y="-12"/>
-			<point x="252" y="-4"/>
-			<point x="252" y="-4" type="curve"/>
-			<point x="247" y="57" type="line"/>
-			<point x="247" y="57"/>
-			<point x="225" y="55"/>
-			<point x="197" y="55" type="curve" smooth="yes"/>
-			<point x="152" y="55"/>
-			<point x="146" y="76"/>
-		</contour>
-	</outline>
+  <advance width="268"/>
+  <unicode hex="006C"/>
+  <note>
+l
+</note>
+  <anchor x="170" y="0" name="bottom"/>
+  <anchor x="108" y="365" name="center"/>
+  <anchor x="108" y="730" name="top"/>
+  <anchor x="202" y="730" name="topright"/>
+  <outline>
+    <contour>
+      <point x="146" y="131" type="curve" smooth="yes"/>
+      <point x="146" y="730" type="line"/>
+      <point x="70" y="730" type="line"/>
+      <point x="70" y="101" type="line" smooth="yes"/>
+      <point x="70" y="27"/>
+      <point x="110" y="-12"/>
+      <point x="193" y="-12" type="curve" smooth="yes"/>
+      <point x="228" y="-12"/>
+      <point x="252" y="-4"/>
+      <point x="252" y="-4" type="curve"/>
+      <point x="247" y="57" type="line"/>
+      <point x="247" y="57"/>
+      <point x="225" y="55"/>
+      <point x="197" y="55" type="curve" smooth="yes"/>
+      <point x="152" y="55"/>
+      <point x="146" y="76"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="periodcentered" format="2">
-	<advance width="271"/>
-	<outline>
-		<contour>
-			<point x="55" y="359" type="line"/>
-			<point x="55" y="194" type="line"/>
-			<point x="199" y="194" type="line"/>
-			<point x="199" y="359" type="line"/>
-		</contour>
-	</outline>
+  <advance width="271"/>
+  <outline>
+    <contour>
+      <point x="55" y="359" type="line"/>
+      <point x="55" y="194" type="line"/>
+      <point x="199" y="194" type="line"/>
+      <point x="199" y="359" type="line"/>
+    </contour>
+  </outline>
 </glyph>

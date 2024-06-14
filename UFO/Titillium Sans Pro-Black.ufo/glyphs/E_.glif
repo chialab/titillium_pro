@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-	<advance width="571"/>
-	<unicode hex="0045"/>
-	<anchor x="298" y="0" name="bottom"/>
-	<anchor x="506" y="0" name="ogonek"/>
-	<anchor x="301" y="710" name="top"/>
-	<anchor x="20" y="710" name="topleft"/>
-	<note>
-		E
-	</note>
-	<outline>
-		<contour>
-			<point x="40" y="710" type="line"/>
-			<point x="40" y="0" type="line"/>
-			<point x="542" y="0" type="line"/>
-			<point x="542" y="185" type="line"/>
-			<point x="272" y="185" type="line"/>
-			<point x="272" y="276" type="line"/>
-			<point x="482" y="276" type="line"/>
-			<point x="482" y="446" type="line"/>
-			<point x="272" y="446" type="line"/>
-			<point x="272" y="525" type="line"/>
-			<point x="542" y="525" type="line"/>
-			<point x="542" y="710" type="line"/>
-		</contour>
-	</outline>
+  <advance width="571"/>
+  <unicode hex="0045"/>
+  <note>
+E
+</note>
+  <anchor x="298" y="0" name="bottom"/>
+  <anchor x="506" y="0" name="ogonek"/>
+  <anchor x="301" y="710" name="top"/>
+  <anchor x="20" y="710" name="topleft"/>
+  <outline>
+    <contour>
+      <point x="40" y="710" type="line"/>
+      <point x="40" y="0" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="542" y="185" type="line"/>
+      <point x="272" y="185" type="line"/>
+      <point x="272" y="276" type="line"/>
+      <point x="482" y="276" type="line"/>
+      <point x="482" y="446" type="line"/>
+      <point x="272" y="446" type="line"/>
+      <point x="272" y="525" type="line"/>
+      <point x="542" y="525" type="line"/>
+      <point x="542" y="710" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

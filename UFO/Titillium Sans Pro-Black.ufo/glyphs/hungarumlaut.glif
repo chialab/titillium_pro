@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="hungarumlaut" format="2">
-	<advance width="721"/>
-	<unicode hex="02DD"/>
-	<outline>
-		<component base="hungarumlautcomb"/>
-	</outline>
+  <advance width="721"/>
+  <unicode hex="02DD"/>
+  <outline>
+    <component base="hungarumlautcomb"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

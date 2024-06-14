@@ -1,15 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaabovecomb" format="2">
-	<advance width="205"/>
-	<unicode hex="0313"/>
-	<anchor x="103" y="500" name="_top"/>
-	<anchor x="103" y="732" name="top"/>
-	<outline>
-		<contour>
-			<point x="128" y="732" type="line"/>
-			<point x="50" y="624" type="line"/>
-			<point x="69" y="609" type="line"/>
-			<point x="155" y="711" type="line"/>
-		</contour>
-	</outline>
+  <advance width="205"/>
+  <unicode hex="0313"/>
+  <anchor x="103" y="500" name="_top"/>
+  <anchor x="103" y="732" name="top"/>
+  <outline>
+    <contour>
+      <point x="128" y="732" type="line"/>
+      <point x="50" y="624" type="line"/>
+      <point x="69" y="609" type="line"/>
+      <point x="155" y="711" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

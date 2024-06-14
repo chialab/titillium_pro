@@ -1,28 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M.ss03" format="2">
-	<advance width="1256"/>
-	<note>
-		M
-	</note>
-	<outline>
-		<contour>
-			<point x="314" y="700" type="line"/>
-			<point x="314" y="0" type="line"/>
-			<point x="388" y="0" type="line"/>
-			<point x="388" y="626" type="line"/>
-			<point x="418" y="626" type="line"/>
-			<point x="579" y="0" type="line"/>
-			<point x="667" y="0" type="line"/>
-			<point x="834" y="626" type="line"/>
-			<point x="864" y="626" type="line"/>
-			<point x="864" y="0" type="line"/>
-			<point x="942" y="0" type="line"/>
-			<point x="942" y="700" type="line"/>
-			<point x="786" y="700" type="line"/>
-			<point x="613" y="39" type="line"/>
-			<point x="638" y="39" type="line"/>
-			<point x="472" y="700" type="line"/>
-		</contour>
-		<component base="_sferiliumstroke" xOffset="-2"/>
-	</outline>
+  <advance width="1256"/>
+  <note>
+M
+</note>
+  <outline>
+    <contour>
+      <point x="314" y="700" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="388" y="0" type="line"/>
+      <point x="388" y="626" type="line"/>
+      <point x="418" y="626" type="line"/>
+      <point x="579" y="0" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="834" y="626" type="line"/>
+      <point x="864" y="626" type="line"/>
+      <point x="864" y="0" type="line"/>
+      <point x="942" y="0" type="line"/>
+      <point x="942" y="700" type="line"/>
+      <point x="786" y="700" type="line"/>
+      <point x="613" y="39" type="line"/>
+      <point x="638" y="39" type="line"/>
+      <point x="472" y="700" type="line"/>
+    </contour>
+    <component base="_sferiliumstroke" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

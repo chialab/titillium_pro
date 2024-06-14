@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.pnum" format="2">
-	<advance width="353"/>
-	<note>
-		one
-	</note>
-	<outline>
-		<contour>
-			<point x="209" y="500" type="line"/>
-			<point x="20" y="386" type="line"/>
-			<point x="49" y="329" type="line"/>
-			<point x="201" y="419" type="line"/>
-			<point x="201" y="0" type="line"/>
-			<point x="273" y="0" type="line"/>
-			<point x="273" y="500" type="line"/>
-		</contour>
-	</outline>
+  <advance width="353"/>
+  <note>
+one
+</note>
+  <outline>
+    <contour>
+      <point x="209" y="500" type="line"/>
+      <point x="20" y="386" type="line"/>
+      <point x="49" y="329" type="line"/>
+      <point x="201" y="419" type="line"/>
+      <point x="201" y="0" type="line"/>
+      <point x="273" y="0" type="line"/>
+      <point x="273" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

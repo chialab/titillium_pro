@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="z" format="2">
-	<advance width="459"/>
-	<unicode hex="007A"/>
-	<anchor x="227" y="0" name="bottom"/>
-	<anchor x="227" y="250" name="center"/>
-	<anchor x="227" y="500" name="top"/>
-	<note>
-		z
-	</note>
-	<outline>
-		<contour>
-			<point x="44" y="500" type="line"/>
-			<point x="44" y="433" type="line"/>
-			<point x="324" y="433" type="line"/>
-			<point x="324" y="413" type="line"/>
-			<point x="44" y="82" type="line"/>
-			<point x="44" y="0" type="line"/>
-			<point x="415" y="0" type="line"/>
-			<point x="415" y="67" type="line"/>
-			<point x="135" y="67" type="line"/>
-			<point x="135" y="87" type="line"/>
-			<point x="415" y="417" type="line"/>
-			<point x="415" y="500" type="line"/>
-		</contour>
-	</outline>
+  <advance width="459"/>
+  <unicode hex="007A"/>
+  <note>
+z
+</note>
+  <anchor x="227" y="0" name="bottom"/>
+  <anchor x="227" y="250" name="center"/>
+  <anchor x="227" y="500" name="top"/>
+  <outline>
+    <contour>
+      <point x="44" y="500" type="line"/>
+      <point x="44" y="433" type="line"/>
+      <point x="324" y="433" type="line"/>
+      <point x="324" y="413" type="line"/>
+      <point x="44" y="82" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="415" y="0" type="line"/>
+      <point x="415" y="67" type="line"/>
+      <point x="135" y="67" type="line"/>
+      <point x="135" y="87" type="line"/>
+      <point x="415" y="417" type="line"/>
+      <point x="415" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

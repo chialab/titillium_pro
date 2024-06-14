@@ -2,13 +2,13 @@
 <glyph name="Q.ss03" format="2">
   <advance width="1265"/>
   <outline>
-    <component base="O" xOffset="305" identifier="A381E967"/>
+    <component base="O" xOffset="305" identifier="F778AD8D"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>A381E967</key>
+        <key>F778AD8D</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.blackCircled" format="2">
-	<advance width="885"/>
-	<unicode hex="2777"/>
-	<outline>
-		<component base="two.dnom" xScale="1.1" yScale="1.1" xOffset="282" yOffset="173"/>
-		<component base="blackCircle" yOffset="-1"/>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
-			<string>blackCircle</string>
-			<key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
-			<string>blackCircle</string>
-		</dict>
-	</lib>
+  <advance width="885"/>
+  <unicode hex="2777"/>
+  <outline>
+    <component base="two.dnom" xScale="1.1" yScale="1.1" xOffset="282" yOffset="173"/>
+    <component base="blackCircle" yOffset="-1"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-19 11:05:38 +0000</string>
+      <key>com.schriftgestaltung.Glyphs.leftMetricsKey</key>
+      <string>blackCircle</string>
+      <key>com.schriftgestaltung.Glyphs.rightMetricsKey</key>
+      <string>blackCircle</string>
+    </dict>
+  </lib>
 </glyph>

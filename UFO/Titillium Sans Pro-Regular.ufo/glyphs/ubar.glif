@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="ubar" format="2">
-	<advance width="573"/>
-	<unicode hex="0289"/>
-	<outline>
-		<contour>
-			<point x="23" y="303" type="line"/>
-			<point x="23" y="238" type="line"/>
-			<point x="547" y="238" type="line"/>
-			<point x="547" y="303" type="line"/>
-		</contour>
-		<component base="u" xOffset="20"/>
-	</outline>
+  <advance width="573"/>
+  <unicode hex="0289"/>
+  <outline>
+    <contour>
+      <point x="23" y="303" type="line"/>
+      <point x="23" y="238" type="line"/>
+      <point x="547" y="238" type="line"/>
+      <point x="547" y="303" type="line"/>
+    </contour>
+    <component base="u" xOffset="20"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

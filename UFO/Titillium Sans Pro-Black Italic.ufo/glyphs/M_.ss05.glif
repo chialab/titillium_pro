@@ -6,7 +6,7 @@ M
 </note>
   <outline>
     <component base="_quadriliumstroke"/>
-    <component base="M" xScale="0.9612" xOffset="190" identifier="C4C33F4D"/>
+    <component base="M" xScale="0.9612" xOffset="190" identifier="03B11116"/>
   </outline>
   <lib>
     <dict>
@@ -14,7 +14,7 @@ M
       <string>2024-01-19 16:37:50 +0000</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>C4C33F4D</key>
+        <key>03B11116</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

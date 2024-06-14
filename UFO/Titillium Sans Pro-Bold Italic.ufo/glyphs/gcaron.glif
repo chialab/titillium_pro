@@ -7,13 +7,13 @@ gcaron
 </note>
   <outline>
     <contour>
-      <point x="394" y="748" type="line"/>
-      <point x="304" y="650" type="line"/>
-      <point x="256" y="748" type="line"/>
-      <point x="146" y="748" type="line"/>
-      <point x="239" y="571" type="line"/>
-      <point x="355" y="571" type="line"/>
-      <point x="524" y="748" type="line"/>
+      <point x="394" y="746" type="line"/>
+      <point x="304" y="648" type="line"/>
+      <point x="256" y="746" type="line"/>
+      <point x="146" y="746" type="line"/>
+      <point x="239" y="569" type="line"/>
+      <point x="355" y="569" type="line"/>
+      <point x="524" y="746" type="line"/>
     </contour>
     <contour>
       <point x="165" y="-244" type="curve" smooth="yes"/>
@@ -99,7 +99,7 @@ gcaron
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-13 10:59:36 +0000</string>
     </dict>
   </lib>
 </glyph>

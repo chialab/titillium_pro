@@ -1,14 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="dotaccentcomb.case" format="2">
-	<advance width="234"/>
-	<anchor x="117" y="710" name="_top"/>
-	<anchor x="117" y="920" name="top"/>
-	<outline>
-		<contour>
-			<point x="50" y="920" type="line"/>
-			<point x="50" y="777" type="line"/>
-			<point x="184" y="777" type="line"/>
-			<point x="184" y="920" type="line"/>
-		</contour>
-	</outline>
+  <advance width="234"/>
+  <anchor x="117" y="710" name="_top"/>
+  <anchor x="117" y="920" name="top"/>
+  <outline>
+    <contour>
+      <point x="50" y="920" type="line"/>
+      <point x="50" y="777" type="line"/>
+      <point x="184" y="777" type="line"/>
+      <point x="184" y="920" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

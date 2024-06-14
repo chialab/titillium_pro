@@ -156,6 +156,8 @@
     <string>one.ss05.glif</string>
     <key>oslash</key>
     <string>oslash.glif</string>
+    <key>sheqel</key>
+    <string>sheqel.glif</string>
     <key>zero.ss03</key>
     <string>zero.ss03.glif</string>
     <key>zero.ss05</key>

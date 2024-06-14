@@ -1,29 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
-	<advance width="951"/>
-	<unicode hex="0057"/>
-	<anchor x="473" y="0" name="bottom"/>
-	<anchor x="473" y="710" name="top"/>
-	<note>
-		W
-	</note>
-	<outline>
-		<contour>
-			<point x="248" y="710" type="line"/>
-			<point x="18" y="710" type="line"/>
-			<point x="96" y="0" type="line"/>
-			<point x="424" y="0" type="line"/>
-			<point x="470" y="439" type="line"/>
-			<point x="523" y="0" type="line"/>
-			<point x="857" y="0" type="line"/>
-			<point x="928" y="710" type="line"/>
-			<point x="698" y="710" type="line"/>
-			<point x="678" y="234" type="line"/>
-			<point x="653" y="234" type="line"/>
-			<point x="595" y="700" type="line"/>
-			<point x="352" y="700" type="line"/>
-			<point x="305" y="234" type="line"/>
-			<point x="280" y="234" type="line"/>
-		</contour>
-	</outline>
+  <advance width="951"/>
+  <unicode hex="0057"/>
+  <note>
+W
+</note>
+  <anchor x="473" y="0" name="bottom"/>
+  <anchor x="473" y="710" name="top"/>
+  <outline>
+    <contour>
+      <point x="248" y="710" type="line"/>
+      <point x="18" y="710" type="line"/>
+      <point x="96" y="0" type="line"/>
+      <point x="424" y="0" type="line"/>
+      <point x="470" y="439" type="line"/>
+      <point x="523" y="0" type="line"/>
+      <point x="857" y="0" type="line"/>
+      <point x="928" y="710" type="line"/>
+      <point x="698" y="710" type="line"/>
+      <point x="678" y="234" type="line"/>
+      <point x="653" y="234" type="line"/>
+      <point x="595" y="700" type="line"/>
+      <point x="352" y="700" type="line"/>
+      <point x="305" y="234" type="line"/>
+      <point x="280" y="234" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

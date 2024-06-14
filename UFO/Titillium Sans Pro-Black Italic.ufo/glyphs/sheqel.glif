@@ -7,11 +7,8 @@ sheqel
 </note>
   <outline>
     <contour>
-      <point x="420" y="665" type="curve" smooth="yes"/>
-      <point x="127" y="665" type="line"/>
-      <point x="-15" y="0" type="line"/>
-      <point x="175" y="0" type="line"/>
-      <point x="285" y="515" type="line"/>
+      <point x="228" y="665" type="line"/>
+      <point x="196" y="515" type="line"/>
       <point x="334" y="515" type="line" smooth="yes"/>
       <point x="417" y="515"/>
       <point x="419" y="495"/>
@@ -20,29 +17,40 @@ sheqel
       <point x="428" y="203" type="line"/>
       <point x="493" y="508" type="line" smooth="yes"/>
       <point x="518" y="625"/>
-      <point x="497" y="665"/>
+      <point x="507" y="665"/>
+      <point x="430" y="665" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="334" y="0" type="curve" smooth="yes"/>
-      <point x="607" y="0" type="line"/>
+      <point x="127" y="665" type="line"/>
+      <point x="-15" y="0" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="317" y="665" type="line"/>
+    </contour>
+    <contour>
+      <point x="227" y="0" type="line"/>
+      <point x="490" y="0" type="line" smooth="yes"/>
+      <point x="591" y="0"/>
+      <point x="616" y="40"/>
+      <point x="641" y="157" type="curve" smooth="yes"/>
       <point x="749" y="665" type="line"/>
       <point x="559" y="665" type="line"/>
-      <point x="449" y="150" type="line"/>
-      <point x="400" y="150" type="line" smooth="yes"/>
-      <point x="317" y="150"/>
-      <point x="316" y="171"/>
-      <point x="329" y="233" type="curve" smooth="yes"/>
+      <point x="467" y="233" type="line" smooth="yes"/>
+      <point x="454" y="171"/>
+      <point x="443" y="150"/>
+      <point x="360" y="150" type="curve" smooth="yes"/>
+      <point x="259" y="150" type="line"/>
+    </contour>
+    <contour>
+      <point x="279" y="0" type="line"/>
       <point x="378" y="462" type="line"/>
       <point x="306" y="462" type="line"/>
-      <point x="241" y="157" type="line" smooth="yes"/>
-      <point x="216" y="40"/>
-      <point x="233" y="0"/>
+      <point x="207" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2024-01-17 09:15:18 +0000</string>
+      <string>2024-06-14 06:33:58 +0000</string>
     </dict>
   </lib>
 </glyph>

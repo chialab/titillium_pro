@@ -4,7 +4,7 @@
   <unicode hex="2116"/>
   <outline>
     <component base="N"/>
-    <component base="ordmasculine" xOffset="697" identifier="BB770953"/>
+    <component base="ordmasculine" xOffset="697" identifier="C270CF65"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
       <string>ordmasculine</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>BB770953</key>
+        <key>C270CF65</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M.ss06" format="2">
-	<advance width="1222"/>
-	<outline>
-		<contour>
-			<point x="85" y="700" type="line"/>
-			<point x="85" y="0" type="line"/>
-			<point x="159" y="0" type="line"/>
-			<point x="159" y="618" type="line"/>
-			<point x="189" y="618" type="line"/>
-			<point x="370" y="0" type="line"/>
-			<point x="458" y="0" type="line"/>
-			<point x="645" y="618" type="line"/>
-			<point x="675" y="618" type="line"/>
-			<point x="675" y="0" type="line"/>
-			<point x="753" y="0" type="line"/>
-			<point x="753" y="700" type="line"/>
-			<point x="599" y="700" type="line"/>
-			<point x="417" y="82" type="line"/>
-			<point x="241" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <outline>
+    <contour>
+      <point x="85" y="700" type="line"/>
+      <point x="85" y="0" type="line"/>
+      <point x="159" y="0" type="line"/>
+      <point x="159" y="618" type="line"/>
+      <point x="189" y="618" type="line"/>
+      <point x="370" y="0" type="line"/>
+      <point x="458" y="0" type="line"/>
+      <point x="645" y="618" type="line"/>
+      <point x="675" y="618" type="line"/>
+      <point x="675" y="0" type="line"/>
+      <point x="753" y="0" type="line"/>
+      <point x="753" y="700" type="line"/>
+      <point x="599" y="700" type="line"/>
+      <point x="417" y="82" type="line"/>
+      <point x="241" y="700" type="line"/>
+    </contour>
+  </outline>
 </glyph>

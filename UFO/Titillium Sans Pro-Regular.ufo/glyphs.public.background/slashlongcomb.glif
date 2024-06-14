@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="slashlongcomb" format="2">
-	<advance width="442"/>
-	<outline>
-		<contour>
-			<point x="295" y="565" type="line"/>
-			<point x="0" y="-20" type="line"/>
-			<point x="92" y="-64" type="line"/>
-			<point x="387" y="521" type="line"/>
-		</contour>
-	</outline>
+  <advance width="442"/>
+  <outline>
+    <contour>
+      <point x="295" y="565" type="line"/>
+      <point x="0" y="-20" type="line"/>
+      <point x="92" y="-64" type="line"/>
+      <point x="387" y="521" type="line"/>
+    </contour>
+  </outline>
 </glyph>

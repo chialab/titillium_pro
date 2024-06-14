@@ -1,11 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Oslash" format="2">
-	<advance width="664"/>
-	<unicode hex="00D8"/>
-	<anchor x="336" y="0" name="bottom"/>
-	<anchor x="336" y="700" name="top"/>
-	<outline>
-		<component base="O"/>
-		<component base="slashlongcomb" xOffset="97" yOffset="4"/>
-	</outline>
+  <advance width="664"/>
+  <unicode hex="00D8"/>
+  <anchor x="336" y="0" name="bottom"/>
+  <anchor x="336" y="710" name="top"/>
+  <outline>
+    <component base="O"/>
+    <component base="slashlongcomb" xOffset="97" yOffset="4"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-06-13 10:13:42 +0000</string>
+    </dict>
+  </lib>
 </glyph>

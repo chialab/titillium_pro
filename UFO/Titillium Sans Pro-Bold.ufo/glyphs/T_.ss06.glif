@@ -1,25 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T.ss06" format="2">
-	<advance width="1222"/>
-	<note>
-		T
-	</note>
-	<outline>
-		<contour>
-			<point x="44" y="904" type="line"/>
-			<point x="1178" y="904" type="line"/>
-			<point x="1178" y="-230" type="line"/>
-			<point x="44" y="-230" type="line"/>
-		</contour>
-		<contour>
-			<point x="352" y="700" type="line"/>
-			<point x="352" y="578" type="line"/>
-			<point x="542" y="578" type="line"/>
-			<point x="542" y="0" type="line"/>
-			<point x="680" y="0" type="line"/>
-			<point x="680" y="578" type="line"/>
-			<point x="870" y="578" type="line"/>
-			<point x="870" y="700" type="line"/>
-		</contour>
-	</outline>
+  <advance width="1222"/>
+  <note>
+T
+</note>
+  <outline>
+    <contour>
+      <point x="44" y="904" type="line"/>
+      <point x="1178" y="904" type="line"/>
+      <point x="1178" y="-230" type="line"/>
+      <point x="44" y="-230" type="line"/>
+    </contour>
+    <contour>
+      <point x="352" y="700" type="line"/>
+      <point x="352" y="578" type="line"/>
+      <point x="542" y="578" type="line"/>
+      <point x="542" y="0" type="line"/>
+      <point x="680" y="0" type="line"/>
+      <point x="680" y="578" type="line"/>
+      <point x="870" y="578" type="line"/>
+      <point x="870" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

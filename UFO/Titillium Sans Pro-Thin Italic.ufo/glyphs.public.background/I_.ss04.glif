@@ -2,13 +2,13 @@
 <glyph name="I.ss04" format="2">
   <advance width="1266"/>
   <outline>
-    <component base="I" xOffset="516" identifier="E4B6D152"/>
+    <component base="I" xOffset="516" identifier="69DD985E"/>
   </outline>
   <lib>
     <dict>
       <key>public.objectLibs</key>
       <dict>
-        <key>E4B6D152</key>
+        <key>69DD985E</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

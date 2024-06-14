@@ -1,9 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Tdotaccent" format="2">
-	<advance width="546"/>
-	<unicode hex="1E6A"/>
-	<outline>
-		<component base="T"/>
-		<component base="dotaccentcomb.case" xOffset="155"/>
-	</outline>
+  <advance width="546"/>
+  <unicode hex="1E6A"/>
+  <outline>
+    <component base="T"/>
+    <component base="dotaccentcomb.case" xOffset="155"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

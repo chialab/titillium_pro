@@ -4,7 +4,7 @@
   <unicode hex="2466"/>
   <outline>
     <component base="whiteCircle"/>
-    <component base="seven.dnom" xScale="1.1" yScale="1.1" xOffset="315" yOffset="173" identifier="57077C3B"/>
+    <component base="seven.dnom" xScale="1.1" yScale="1.1" xOffset="315" yOffset="173" identifier="6EAD5249"/>
   </outline>
   <lib>
     <dict>
@@ -16,7 +16,7 @@
       <string>whiteCircle</string>
       <key>public.objectLibs</key>
       <dict>
-        <key>57077C3B</key>
+        <key>6EAD5249</key>
         <dict>
           <key>com.schriftgestaltung.alignment</key>
           <integer>-1</integer>

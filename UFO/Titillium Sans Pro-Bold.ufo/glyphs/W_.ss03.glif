@@ -1,27 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W.ss03" format="2">
-	<advance width="1256"/>
-	<note>
-		W
-	</note>
-	<outline>
-		<contour>
-			<point x="447" y="700" type="line"/>
-			<point x="312" y="700" type="line"/>
-			<point x="357" y="0" type="line"/>
-			<point x="586" y="0" type="line"/>
-			<point x="628" y="529" type="line"/>
-			<point x="670" y="0" type="line"/>
-			<point x="899" y="0" type="line"/>
-			<point x="944" y="700" type="line"/>
-			<point x="809" y="700" type="line"/>
-			<point x="795" y="118" type="line"/>
-			<point x="765" y="118" type="line"/>
-			<point x="708" y="686" type="line"/>
-			<point x="548" y="686" type="line"/>
-			<point x="491" y="118" type="line"/>
-			<point x="461" y="118" type="line"/>
-		</contour>
-		<component base="_sferiliumstroke" xOffset="-2"/>
-	</outline>
+  <advance width="1256"/>
+  <note>
+W
+</note>
+  <outline>
+    <contour>
+      <point x="447" y="700" type="line"/>
+      <point x="312" y="700" type="line"/>
+      <point x="357" y="0" type="line"/>
+      <point x="586" y="0" type="line"/>
+      <point x="628" y="529" type="line"/>
+      <point x="670" y="0" type="line"/>
+      <point x="899" y="0" type="line"/>
+      <point x="944" y="700" type="line"/>
+      <point x="809" y="700" type="line"/>
+      <point x="795" y="118" type="line"/>
+      <point x="765" y="118" type="line"/>
+      <point x="708" y="686" type="line"/>
+      <point x="548" y="686" type="line"/>
+      <point x="491" y="118" type="line"/>
+      <point x="461" y="118" type="line"/>
+    </contour>
+    <component base="_sferiliumstroke" xOffset="-2"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

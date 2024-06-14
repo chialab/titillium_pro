@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="circumflexcomb" format="2">
-	<advance width="372"/>
-	<unicode hex="0302"/>
-	<anchor x="186" y="500" name="_top"/>
-	<anchor x="186" y="732" name="top"/>
-	<outline>
-		<contour>
-			<point x="186" y="698" type="line"/>
-			<point x="279" y="613" type="line"/>
-			<point x="322" y="613" type="line"/>
-			<point x="203" y="728" type="line"/>
-			<point x="169" y="728" type="line"/>
-			<point x="50" y="613" type="line"/>
-			<point x="93" y="613" type="line"/>
-		</contour>
-	</outline>
+  <advance width="372"/>
+  <unicode hex="0302"/>
+  <anchor x="186" y="500" name="_top"/>
+  <anchor x="186" y="732" name="top"/>
+  <outline>
+    <contour>
+      <point x="186" y="698" type="line"/>
+      <point x="279" y="613" type="line"/>
+      <point x="322" y="613" type="line"/>
+      <point x="203" y="728" type="line"/>
+      <point x="169" y="728" type="line"/>
+      <point x="50" y="613" type="line"/>
+      <point x="93" y="613" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2024-01-16 08:20:10 +0000</string>
+    </dict>
+  </lib>
 </glyph>

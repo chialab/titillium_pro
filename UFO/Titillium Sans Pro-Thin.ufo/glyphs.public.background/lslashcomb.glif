@@ -1,18 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="lslashcomb" format="2">
-	<advance width="226"/>
-	<outline>
-		<contour>
-			<point x="82" y="340" type="line"/>
-			<point x="82" y="374" type="line"/>
-			<point x="-40" y="332" type="line"/>
-			<point x="-40" y="297" type="line"/>
-		</contour>
-		<contour>
-			<point x="92" y="376" type="line"/>
-			<point x="92" y="340" type="line"/>
-			<point x="306" y="415" type="line"/>
-			<point x="306" y="450" type="line"/>
-		</contour>
-	</outline>
+  <advance width="226"/>
+  <outline>
+    <contour>
+      <point x="82" y="340" type="line"/>
+      <point x="82" y="374" type="line"/>
+      <point x="-40" y="332" type="line"/>
+      <point x="-40" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="92" y="376" type="line"/>
+      <point x="92" y="340" type="line"/>
+      <point x="306" y="415" type="line"/>
+      <point x="306" y="450" type="line"/>
+    </contour>
+  </outline>
 </glyph>
