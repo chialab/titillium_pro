@@ -53,6 +53,13 @@ Durante la lavorazione del Titillium Pro, è nato all'interno del corso di "Prog
 
 
 
+### Le prime forme del Titillium Serif  
+Abbiamo rilasciato in forma di prototipo i primi studi della “versione_00” del Titillium PRO Serif che seguono per disegno, proporzioni verticali e ingombri la versione sans.
+L’intenzione è di sviluppare parallelamente anche una seconda versione in discontinuità con il sans e con caratteristiche più vicine ai canoni storici dei serif. Tracciamo così un doppio percorso progettuale con lo scopo di soddisfare diverse esigenze editoriali, senza mai perdere l’identità della famiglia Titillium e le sue metriche verticali.
+Al momento accontentatevi della versione in continuità con il sans. Scaricatelo, esploratelo, non pretendete la perfezione: è ancora lunga è la strada e proprio per questo ogni vostra osservazione sarà preziosa. Grazie!
+
+
+
 ### Dove Scaricare Titillium Pro Sans  
 Chialab si prenderà cura della nuova versione, rilasciata con stessa licenza “Open Font License (OFL)” che sarà disponibile su questo GitHub in repository pubblico dedicato, aperto ai contributi esterni e da noi mantenuto.
 
