@@ -60,7 +60,7 @@ Al momento accontentatevi della versione in continuità con il sans. Scaricatelo
 
 
 
-### Dove Scaricare Titillium Pro Sans  
+### Dove Scaricare Titillium Pro  
 Chialab si prenderà cura della nuova versione, rilasciata con stessa licenza “Open Font License (OFL)” che sarà disponibile su questo GitHub in repository pubblico dedicato, aperto ai contributi esterni e da noi mantenuto.
 
 
