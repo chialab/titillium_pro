@@ -3,6 +3,9 @@
 
 ![Titillium Pro](/assets/images/Titillium.jpg "Titillium Pro")
 
+> [!IMPORTANT]  
+> In questo branch stiamo sperimentando il primo prototipo di Titillium Pro Serif. Per la versione stabile di Titillium Pro vedi branch [main](https://github.com/chialab/titillium_pro/tree/main).
+
 ### Un po’ di storia  
 La font Titillium (il nome rende omaggio al compositore Arvo Pärt e alla sua tecnica tintinnabuli) nasce nel 2008 come progetto didattico all’interno dell’Accademia di Belle Arti di Urbino nel corso di Type design della laurea specialistica di Visual Design (ora Nuove Tecnologie dell’Arte). 
 
